@@ -6,7 +6,8 @@
         <!--Card image-->
         <div class="view overlay hm-white-slight waves-light view hm-zoom" mdbRippleRadius>
             <img [src]='cat.categorieImg' class="img-fluid mx-auto" style="max-height:150px">
-            <a>
+            
+            <a [routerLink]="['/produit',cat.categorieUrl]">
                 <div class="mask"></div>
             </a>
         </div>

@@ -16,6 +16,7 @@ import { PresentationComponent } from './presentation/presentation.component';
 import { CompetenceComponent } from './competence/competence.component';
 import { ProduitComponent } from './produit/produit.component';
 import { ProduitService } from './produit.service';
+import { ProduitListComponent } from './produit-list/produit-list.component';
 
 
 @NgModule({
@@ -24,7 +25,8 @@ import { ProduitService } from './produit.service';
     HomeComponent,
     PresentationComponent,
     CompetenceComponent,
-    ProduitComponent
+    ProduitComponent,
+    ProduitListComponent
   ],
   imports: [
     MDBBootstrapModules.forRoot(),
