@@ -20,6 +20,13 @@ return this._http.get<IProduit[]>(this._produitUrl)
 .catch(this.handleError);
   }
 
+  getProduitList(id: string): Observable<IProduit> {
+    return this.getProduit()
+    .map((produit: IProduit[]) => produit.find(p => p.categorieUrl === id ))
+    .do(data => console.log(data))
+    .catch(this.handleError);
+}
+
   private handleError(err: HttpErrorResponse) {
     console.error(err.message);
     return Observable.throw(err.message);
