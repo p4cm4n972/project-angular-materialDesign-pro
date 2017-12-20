@@ -1,0 +1,833 @@
+[{
+    "categorieSecteur":"Informatique Industrielle",
+    "categorieName": "Panel PC & Station de travail",
+    "categorieImg": "./assets/img/produit/panel-pc.jpg",
+    "categorieUrl": "panel-pc",
+    "categorieSeller": [{
+      "sellerName": "nexcom",
+      "sellerUrl": "../assets/img/partenaire/nexcom.png",
+      "sellerPage": "nexcom"
+    },
+    {
+      "sellerName": "iei",
+      "sellerUrl": "../assets/img/partenaire/iei.png",
+      "sellerPage": "iei"
+    },
+    {
+      "sellerName": "avalue",
+      "sellerUrl": "../assets/img/partenaire/avalue.png",
+      "sellerPage": "avalue"
+    }],
+    "categorieProduit": [{
+        "productName": "Digital Signage Player - Hight-performance Player",
+        "productImg": "./assets/img/produit/panel-pc/digital-signage-player.jpg",
+        "productUrl": "http://www.nexcom.com/Products/multi-media-solutions/digital-signage-player",
+        "productSeller": "NEXCOM",
+        "modele": [{
+            "modeleName": "NDis 166",
+            "modeleLink": "http://www.nexcom.com/Products/multi-media-solutions/digital-signage-player/high-performance-player/sandy-bridge-player-ndis-166"
+          },
+          {
+            "modeleName": "NDis 167",
+            "modeleLink": "http://www.nexcom.com/Products/multi-media-solutions/digital-signage-player/high-performance-player/digital-signage-player-ndis-167"
+          },
+          {
+            "modeleName": "NDis B532",
+            "modeleLink": "http://www.nexcom.com/Products/multi-media-solutions/digital-signage-player/high-performance-player/1080p-signage-player-ndis-b532"
+          }, {
+            "modeleName": "NDis B533",
+            "modeleLink": "http://www.nexcom.com/Products/multi-media-solutions/digital-signage-player/high-performance-player/1080p-signage-player-ndis-b533"
+          }, {
+            "modeleName": "NDis B535",
+            "modeleLink": "http://www.nexcom.com/Products/multi-media-solutions/digital-signage-player/high-performance-player/digital-signage-player-ndis-b535"
+          }, {
+            "modeleName": "NDis B537",
+            "modeleLink": "http://www.nexcom.com/Products/multi-media-solutions/digital-signage-player/high-performance-player/digital-signage-player-ndis-b537"
+          }
+        ]
+      },
+      {
+        "productName": "Embedded Computing - 3.5\"/5.25\" SBC",
+        "productImg": "./assets/img/produit/panel-pc/embedded-computing.jpg",
+        "productUrl": "http://www.nexcom.com/Products/multi-media-solutions/embedded-computing",
+        "productSeller": "NEXCOM",
+        "modele": [{
+            "modeleName": "EBC 352",
+            "modeleLink": "http://www.nexcom.com/Products/multi-media-solutions/embedded-computing/3-5-5-25-sbc/3-5-board-pci-104-ebc-352"
+          },
+          {
+            "modeleName": "EBC 353",
+            "modeleLink": "http://www.nexcom.com/Products/multi-media-solutions/embedded-computing/3-5-5-25-sbc/3-5-board-pci-104-ebc-353"
+          },
+          {
+            "modeleName": "EBC 354",
+            "modeleLink": "http://www.nexcom.com/Products/multi-media-solutions/embedded-computing/3-5-5-25-sbc/3-5-board-ebc-354"
+          }, {
+            "modeleName": "EBC 354DL",
+            "modeleLink": "http://www.nexcom.com/Products/multi-media-solutions/embedded-computing/3-5-5-25-sbc/3-5-board-ebc-354dl"
+          }, {
+            "modeleName": "EBC 355",
+            "modeleLink": "http://www.nexcom.com/Products/multi-media-solutions/embedded-computing/3-5-5-25-sbc/3-5-board-ebc-355"
+          }, {
+            "modeleName": "EBC 355X",
+            "modeleLink": "http://www.nexcom.com/Products/multi-media-solutions/embedded-computing/3-5-5-25-sbc/extended-temerature-computer-ebc-355x"
+          }, {
+            "modeleName": "EBC 356",
+            "modeleLink": "http://www.nexcom.com/Products/multi-media-solutions/embedded-computing/3-5-5-25-sbc/3-5-board-ebc-356"
+          }, {
+            "modeleName": "EBC 357x",
+            "modeleLink": "http://www.nexcom.com/Products/multi-media-solutions/embedded-computing/3-5-5-25-sbc/3-5-board-ebc-357x"
+          }
+        ]
+      },
+      {
+        "productName": "Industrial Motherboard",
+        "productImg": "./assets/img/produit/panel-pc/industrial-motherboard.jpg",
+        "productUrl": "http://www.nexcom.com/Products/multi-media-solutions/industrial-rackmount-computer",
+        "productSeller": "NEXCOM",
+        "modele": [{
+            "modeleName": "NEX 810",
+            "modeleLink": "http://www.nexcom.com/Products/multi-media-solutions/industrial-rackmount-computer/industrial-motherboard/industrial-mother-board-nex-810"
+          },
+          {
+            "modeleName": "NEX 880",
+            "modeleLink": "http://www.nexcom.com/Products/multi-media-solutions/industrial-rackmount-computer/industrial-motherboard/industrial-motherboard-nex-880"
+          }, {
+            "modeleName": "NEX 885",
+            "modeleLink": "http://www.nexcom.com/Products/multi-media-solutions/industrial-rackmount-computer/industrial-motherboard/industrial-mother-board-nex-885"
+          }, {
+            "modeleName": "NEX 890",
+            "modeleLink": "http://www.nexcom.com/Products/multi-media-solutions/industrial-rackmount-computer/industrial-motherboard/industrial-mother-board-nex-890"
+          }, {
+            "modeleName": "NEX 910",
+            "modeleLink": "http://www.nexcom.com/Products/multi-media-solutions/industrial-rackmount-computer/industrial-motherboard/industrial-mother-board-nex-910"
+          }, {
+            "modeleName": "NEX 912",
+            "modeleLink": "http://www.nexcom.com/Products/multi-media-solutions/industrial-rackmount-computer/industrial-motherboard/industrial-mother-board-nex-912"
+          }
+        ]
+      },
+      {
+        "productName": "Kiosk Panel PC (16:9)",
+        "productImg": "./assets/img/produit/panel-pc/kiosk-panel-pc.jpg",
+        "productUrl": "http://www.nexcom.com/Products/multi-media-solutions/kiosk-panel-pc",
+        "productSeller": "NEXCOM",
+        "modele": [{
+          "modeleName": "KPPC 1812",
+          "modeleLink": "http://www.nexcom.com/Products/multi-media-solutions/kiosk-panel-pc/kiosk-panel-pc-16-9/panel-pc-kppc-1812"
+        }]
+      }, {
+        "productName": "All-in-one Panel PC",
+        "productImg": "./assets/img/produit/panel-pc/all-in-one.jpg",
+        "productUrl": "http://www.nexcom.com/Products/multi-media-solutions/in-vehicle-signage-solutions",
+        "productSeller": "NEXCOM",
+        "modele": [{
+          "modeleName": "TPPC 2210",
+          "modeleLink": "http://www.nexcom.com/Products/multi-media-solutions/in-vehicle-signage-solutions/all-in-one-panel-pc/vehicle-signage-automotive-digital-signage-tppc-2210"
+        }]
+      }, {
+        "productName": "Light Industrial Panel PC",
+        "productImg": "./assets/img/produit/panel-pc/light-industrial-panel-pc.png",
+        "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=3&cat23=5_26",
+        "productSeller": "IEI",
+        "modele": [{
+            "modeleName": "",
+            "modeleLink": ""
+          },
+          {
+            "modeleName": "",
+            "modeleLink": ""
+          }
+        ]
+      }, {
+        "productName": "RISC-Base Panel PC",
+        "productImg": "./assets/img/produit/panel-pc/RISC-Base.png",
+        "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=3&cat23=5_27",
+        "productSeller": "IEI",
+        "modele": [{
+            "modeleName": "",
+            "modeleLink": ""
+          },
+          {
+            "modeleName": "",
+            "modeleLink": ""
+          }
+        ]
+      }, {
+        "productName": "Medical Panel PC",
+        "productImg": "./assets/img/produit/panel-pc/medical-panel-pc.png",
+        "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=3&cat23=5_28",
+        "productSeller": "IEI",
+        "modele": [{
+            "modeleName": "",
+            "modeleLink": ""
+          },
+          {
+            "modeleName": "",
+            "modeleLink": ""
+          }
+        ]
+      }, {
+        "productName": "Industrial Touch Monitor",
+        "productImg": "./assets/img/produit/panel-pc/industrial-touch-monitor.png",
+        "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=3&cat23=5_29",
+        "productSeller": "IEI",
+        "modele": [{
+            "modeleName": "",
+            "modeleLink": ""
+          },
+          {
+            "modeleName": "",
+            "modeleLink": ""
+          }
+        ]
+      }, {
+        "productName": "Heavy Industrial Panel PC",
+        "productImg": "./assets/img/produit/panel-pc/heavy-industrial-panel-pc.png",
+        "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=3&cat23=5_25",
+        "productSeller": "IEI",
+        "modele": [{
+            "modeleName": "",
+            "modeleLink": ""
+          },
+          {
+            "modeleName": "",
+            "modeleLink": ""
+          }
+        ]
+      }, {
+        "productName": "Healthcare",
+        "productImg": "./assets/img/produit/panel-pc/healthcare.jpg",
+        "productUrl": "https://www.avalue.com.tw/Products/Panel-PC/Healthcare_17",
+        "productSeller": "AVALUE",
+        "modele": [{
+            "modeleName": "",
+            "modeleLink": ""
+          },
+          {
+            "modeleName": "",
+            "modeleLink": ""
+          }
+        ]
+      }, {
+        "productName": "Self-service",
+        "productImg": "./assets/img/produit/panel-pc/self-service.jpg",
+        "productUrl": "https://www.avalue.com.tw/Products/Panel-PC/Self-service_18",
+        "productSeller": "AVALUE",
+        "modele": [{
+            "modeleName": "",
+            "modeleLink": ""
+          },
+          {
+            "modeleName": "",
+            "modeleLink": ""
+          }
+        ]
+      }, {
+        "productName": "Rugged Panel PC",
+        "productImg": "./assets/img/produit/panel-pc/rugged.jpg",
+        "productUrl": "https://www.avalue.com.tw/Products/Panel-PC/Rugged-Panel-PC_19",
+        "productSeller": "AVALUE",
+        "modele": [{
+            "modeleName": "",
+            "modeleLink": ""
+          },
+          {
+            "modeleName": "",
+            "modeleLink": ""
+          }
+        ]
+      }, {
+        "productName": "Open Frame",
+        "productImg": "./assets/img/produit/panel-pc/open-frame.png",
+        "productUrl": "https://www.avalue.com.tw/Products/Panel-PC/Open-Frame_21",
+        "productSeller": "AVALUE",
+        "modele": [{
+            "modeleName": "",
+            "modeleLink": ""
+          },
+          {
+            "modeleName": "",
+            "modeleLink": ""
+          }
+        ]
+      }, {
+        "productName": "Multi touch panel computer",
+        "productImg": "./assets/img/produit/panel-pc/multi-touch.png",
+        "productUrl": "https://www.avalue.com.tw/Products/Panel-PC/Multi-touch-panel-computer_23",
+        "productSeller": "AVALUE",
+        "modele": [{
+            "modeleName": "",
+            "modeleLink": ""
+          },
+          {
+            "modeleName": "",
+            "modeleLink": ""
+          }
+        ]
+      }, {
+        "productName": "High Performance Panel Computer",
+        "productImg": "./assets/img/produit/panel-pc/high-performance.jpg",
+        "productUrl": "https://www.avalue.com.tw/Products/Panel-PC/High-Performance-Panel-Computer_24",
+        "productSeller": "AVALUE",
+        "modele": [{
+            "modeleName": "",
+            "modeleLink": ""
+          },
+          {
+            "modeleName": "",
+            "modeleLink": ""
+          }
+        ]
+      }
+    ]
+  } ,
+  {
+    "categorieSecteur":"Informatique Industrielle",
+    "categorieName": "PC embarqués",
+    "categorieImg": "./assets/img/produit/pc-embarque.jpg",
+    "categorieUrl": "pc-embarque",
+    "categorieSeller": [{
+      "sellerName": "sintrones",
+      "sellerUrl": "../assets/img/partenaire/sintrones.png",
+      "sellerPage": "/sintrones"
+    },
+    {
+      "sellerName": "mpl",
+      "sellerUrl": "../assets/img/partenaire/mpl.png",
+      "sellerPage": "/mpl"
+    },
+    {
+      "sellerName": "iei",
+      "sellerUrl": "../assets/img/partenaire/iei.png",
+      "sellerPage": "/iei"
+    }],
+    "categorieProduit": [{
+        "productName": "Embedded Board",
+        "productImg": "./assets/img/produit/pc-embarque/embedded-board.jpg",
+        "productUrl": "http://www.nexcom.com/Products/multi-media-solutions/digital-signage-player",
+        "productSeller": "SINTRONES",
+        "modele": [{
+          "modeleName": "SMB-2600",
+          "modeleLink": "http://www.sintrones.com/datasheets/SMB-2600.pdf"
+        }]
+      }, {
+        "productName": "Fanless Box Computer",
+        "productImg": "./assets/img/produit/pc-embarque/fanless-box-computer.jpg",
+        "productUrl": "http://www.nexcom.com/Products/multi-media-solutions/digital-signage-player",
+        "productSeller": "SINTRONES",
+        "modele": [{
+          "modeleName": "ABOX-5000P",
+          "modeleLink": "http://www.sintrones.com/datasheets/ABOX-5000P.pdf"
+        }]
+      }, {
+        "productName": "In-vehicle Computer",
+        "productImg": "./assets/img/produit/pc-embarque/in-vehicle-computer.jpg",
+        "productUrl": "http://www.sintrones.com/in-vehicle-computer.html",
+        "productSeller": "SINTRONES",
+        "modele": [{
+          "modeleName": "",
+          "modeleLink": ""
+        }]
+      }, {
+        "productName": "CAN Bus Module",
+        "productImg": "./assets/img/produit/pc-embarque/CAN-bus-module.jpg",
+        "productUrl": "http://www.sintrones.com/can-bus-module.html",
+        "productSeller": "SINTRONES",
+        "modele": [{
+          "modeleName": "VDB-120",
+          "modeleLink": "http://www.sintrones.com/VDB-120.html"
+        }, {
+          "modeleName": "VDB-110",
+          "modeleLink": "http://www.sintrones.com/VDB-110.html"
+        }]
+      }, {
+        "productName": "GPS Module",
+        "productImg": "./assets/img/produit/pc-embarque/GPS-module.jpg",
+        "productUrl": "hhttp://www.sintrones.com/gps-module.html",
+        "productSeller": "SINTRONES",
+        "modele": [{
+          "modeleName": "",
+          "modeleLink": ""
+        }]
+      }, {
+        "productName": "Video Capture Card",
+        "productImg": "./assets/img/produit/pc-embarque/video-capture.jpg",
+        "productUrl": "http://www.sintrones.com/video-capture-card.html",
+        "productSeller": "SINTRONES",
+        "modele": [{
+          "modeleName": "",
+          "modeleLink": ""
+        }]
+      }, {
+        "productName": "Rugged Industrial Computers",
+        "productImg": "./assets/img/produit/pc-embarque/rugged-industrial-computer.jpg",
+        "productUrl": "https://www.mpl.ch/t2400.html",
+        "productSeller": "MPL",
+        "modele": [{
+          "modeleName": "",
+          "modeleLink": ""
+        }]
+      }, {
+        "productName": "Compact Embedded Computer",
+        "productImg": "./assets/img/produit/pc-embarque/compact-embedded-computer.jpg",
+        "productUrl": "https://www.mpl.ch/t2601.html",
+        "productSeller": "MPL",
+        "modele": [{
+          "modeleName": "",
+          "modeleLink": ""
+        }]
+      }, {
+        "productName": "Rugged Embedded Server",
+        "productImg": "./assets/img/produit/pc-embarque/rugged-embedded-server.jpg",
+        "productUrl": "https://www.mpl.ch/t5010.html",
+        "productSeller": "MPL",
+        "modele": [{
+          "modeleName": "",
+          "modeleLink": ""
+        }]
+      }, {
+        "productName": "Din-rail",
+        "productImg": "./assets/img/produit/pc-embarque/din-rail.png",
+        "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=2&cat23=10_59",
+        "productSeller": "IEI",
+        "modele": [{
+          "modeleName": "",
+          "modeleLink": ""
+        }]
+      }, {
+        "productName": "Rugged Embedded Computer",
+        "productImg": "./assets/img/produit/pc-embarque/rugged-embedded-computer.png",
+        "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=2&cat23=10_60",
+        "productSeller": "IEI",
+        "modele": [{
+          "modeleName": "",
+          "modeleLink": ""
+        }]
+      }, {
+        "productName": "Compact Size Embedded System",
+        "productImg": "/assets/img/produit/pc-embarque/compact-size-embedded-system.png",
+        "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=2&cat23=11_61",
+        "productSeller": "IEI",
+        "modele": [{
+          "modeleName": "ulBX-250-BW",
+          "modeleLink": "https://www.ieiworld.com/en/product/model.php?II=299"
+        }, {
+          "modeleName": "ulBX-230-BT",
+          "modeleLink": "https://www.ieiworld.com/en/product/model.php?II=268"
+        }, {
+          "modeleName": "ulBX-210-CV-N2600",
+          "modeleLink": "https://www.ieiworld.com/en/product/model.php?II=267"
+        }]
+      }, {
+        "productName": "Digital Signage Embedded System",
+        "productImg": "./assets/img/produit/pc-embarque/digital-signage-embedded-system.png",
+        "productUrl": "http://www.nexcom.com/Products/multi-media-solutions/digital-signage-player",
+        "productSeller": "IEI",
+        "modele": [{
+          "modeleName": "IDS-300-BW",
+          "modeleLink": "https://www.ieiworld.com/en/product/model.php?II=283"
+        }, {
+          "modeleName": "IDS-200-A70M",
+          "modeleLink": "https://www.ieiworld.com/en/product/model.php?II=282"
+        }]
+      }, {
+        "productName": "In-vehicle Computer",
+        "productImg": "./assets/img/produit/pc-embarque/in-vehicule-computer.png",
+        "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=2&cat23=13_56",
+        "productSeller": "IEI",
+        "modele": [{
+          "modeleName": "",
+          "modeleLink": ""
+        }]
+      }, {
+        "productName": "Marine Computer",
+        "productImg": "./assets/img/produit/pc-embarque/marine-computer.png",
+        "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=2&cat23=13_57",
+        "productSeller": "IEI",
+        "modele": [{
+          "modeleName": "SBOX-100-QM87",
+          "modeleLink": "https://www.ieiworld.com/en/product/model.php?II=294"
+        }]
+      }
+
+
+    ] 
+  } ,
+  {
+    "categorieSecteur":"Informatique Industrielle",
+    "categorieName": "Moniteurs Industriel",
+    "categorieImg": "./assets/img/produit/moniteurs-industriel.jpg",
+    "categorieUrl": "moniteur-industriel",
+    "categorieSeller": [{
+      "sellerName": "cincoze",
+      "sellerUrl": "../assets/img/partenaire/cincoze.png",
+      "sellerPage": "cincoze"
+    }],
+    "categorieProduit": [{
+      "productName": "Industrial Touch Monitor",
+      "productImg": "./assets/img/produit/moniteur-industriel/industrial-touch-monitor.jpg",
+      "productUrl": "http://www.cincoze.com/goods_catalog.php?cid=29",
+      "productSeller": "CINCOZE",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    }]
+  },
+  {
+    "categorieSecteur":"Informatique Industrielle",
+    "categorieName": "Solutions réseaux",
+    "categorieImg": "./assets/img/produit/solution-reseau.png",
+    "categorieUrl": "solution-reseau",
+    "categorieSeller": [{
+      "sellerName": "oring",
+      "sellerUrl": "../assets/img/partenaire/oring.png",
+      "sellerPage": "oring"
+    },
+    {
+      "sellerName": "sunhillo",
+      "sellerUrl": "../assets/img/partenaire/sunhillo.png",
+      "sellerPage": "sunhillo"
+    },
+    {
+      "sellerName": "mpl",
+      "sellerUrl": "../assets/img/partenaire/mpl.png",
+      "sellerPage": "mpl"
+    }],
+    "categorieProduit": [{
+      "productName": "Industrial Ethernet Switch",
+      "productImg": "./assets/img/produit/solution-reseau/industrial-ethernet-switch.png",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/1",
+      "productSeller": "ORING",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    }, {
+      "productName": "Desktop Ethernet Switch",
+      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/110",
+      "productSeller": "ORING",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Card-Type Ethernet Switch",
+      "productImg": "./assets/img/produit/solution-reseau/card-type-ethernet-switch.png",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/106",
+      "productSeller": "ORING",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Industrial Media Converter",
+      "productImg": "./assets/img/produit/solution-reseau/industrial-media-converter.png",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/70",
+      "productSeller": "ORING",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Industrial Serial Products",
+      "productImg": "./assets/img/produit/solution-reseau/industrial-serial-product.png",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/78",
+      "productSeller": "ORING",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Industrial Wireless Access Point",
+      "productImg": "./assets/img/produit/solution-reseau/industrial-wireless-access-point.png",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/84",
+      "productSeller": "ORING",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Industrial VPN Router",
+      "productImg": "./assets/img/produit/solution-reseau/industrial-vpn-router.png",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/88",
+      "productSeller": "ORING",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Industrial M2M Gateway",
+      "productImg": "./assets/img/produit/solution-reseau/industrial-m2m-gateway.jpg",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/96",
+      "productSeller": "ORING",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Industrial Solution Railway",
+      "productImg": "./assets/img/produit/solution-reseau/instrial-solution-railway.png",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/54",
+      "productSeller": "ORING",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Industrial Solution Oil and Gas",
+      "productImg": "./assets/img/produit/solution-reseau/industrial-solution-oil-gas.png",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/117",
+      "productSeller": "ORING",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Industrial Solution Power Sub Station",
+      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/52",
+      "productSeller": "ORING",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Card-Type Ethernet Switch",
+      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/106",
+      "productSeller": "ORING",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Card-Type Ethernet Switch",
+      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/106",
+      "productSeller": "ORING",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Card-Type Ethernet Switch",
+      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/106",
+      "productSeller": "ORING",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Card-Type Ethernet Switch",
+      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/106",
+      "productSeller": "ORING",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Card-Type Ethernet Switch",
+      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/106",
+      "productSeller": "ORING",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Card-Type Ethernet Switch",
+      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/106",
+      "productSeller": "ORING",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Card-Type Ethernet Switch",
+      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/106",
+      "productSeller": "ORING",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Card-Type Ethernet Switch",
+      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/106",
+      "productSeller": "ORING",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Card-Type Ethernet Switch",
+      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/106",
+      "productSeller": "ORING",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Card-Type Ethernet Switch",
+      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/106",
+      "productSeller": "ORING",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Card-Type Ethernet Switch",
+      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/106",
+      "productSeller": "ORING",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Card-Type Ethernet Switch",
+      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/106",
+      "productSeller": "ORING",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    }
+  
+  ]
+  },
+  {
+    "categorieSecteur":"Informatique Industrielle",
+    "categorieName": "Cartes mères industrielles",
+    "categorieImg": "./assets/img/produit/carte-mere-industrielle.png",
+    "categorieUrl": "solution-reseau",
+    "categorieSeller": [{
+      "sellerName": "iei",
+      "sellerUrl": "../assets/img/partenaire/iei.png",
+      "sellerPage": "/iei"
+    },
+    {
+      "sellerName": "congatec",
+      "sellerUrl": "../assets/img/partenaire/congatec.png",
+      "sellerPage": "/sunhillo"
+    }],
+    "categorieProduit": [{
+      "productName": "Industrial Ethernet Switch",
+      "productImg": "./assets/img/produit/solution-reseau/industrial-ethernet-switch.png",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/1",
+      "productSeller": "ORING",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    }]
+  },
+  {
+    "categorieSecteur":"Informatique Industrielle",
+    "categorieName": "Mémoire flash",
+    "categorieImg": "./assets/img/produit/memoire-flash.png",
+    "categorieUrl": "memoire-flash",
+    
+    "categorieSeller": [{
+      "sellerName": "innodisk",
+      "sellerUrl": "../assets/img/partenaire/innodisk.png",
+      "sellerPage": "innodisk"
+    }],
+    "categorieProduit": [{
+      "productName": "Industrial Touch Monitor",
+      "productImg": "./assets/img/produit/moniteur-industriel/industrial-touch-monitor.jpg",
+      "productUrl": "http://www.cincoze.com/goods_catalog.php?cid=29",
+      "productSeller": "CINCOZE",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    }]
+  },
+  {
+    "categorieSecteur":"Informatique Industrielle",
+    "categorieName": "Cartes entrées/sorties",
+    "categorieImg": "./assets/img/produit/carte-entree-sortie.jpg",
+    "categorieUrl": "moniteur-industriel",
+    "categorieSeller": [{
+      "sellerName": "addi-data",
+      "sellerUrl": "../assets/img/partenaire/addidata.png",
+      "sellerPage": "/addidata"
+    },
+    {
+      "sellerName": "adlink",
+      "sellerUrl": "../../assets/img/partenaire/adlink.png",
+      "sellerPage": "/adlink"
+    }],
+    "categorieProduit": [{
+      "productName": "Industrial Touch Monitor",
+      "productImg": "./assets/img/produit/moniteur-industriel/industrial-touch-monitor.jpg",
+      "productUrl": "http://www.cincoze.com/goods_catalog.php?cid=29",
+      "productSeller": "CINCOZE",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    }]
+  },
+  {
+    "categorieSecteur":"Interfaces & Système d'affichage",
+    "categorieName": "Moniteurs et ordinateurs tactiles",
+    "categorieImg": "./assets/img/produit/moniteur-ordinateur-tactile.png",
+    "categorieUrl": "moniteur-industriel",
+    "categorieProduit": [{
+      "productName": "Industrial Touch Monitor",
+      "productImg": "./assets/img/produit/moniteur-industriel/industrial-touch-monitor.jpg",
+      "productUrl": "http://www.cincoze.com/goods_catalog.php?cid=29",
+      "productSeller": "CINCOZE",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    }]
+  },
+  {
+    "categorieSecteur":"Interfaces & Système d'affichage",
+    "categorieName": "Terminaux et périphériques point de ventes",
+    "categorieImg": "./assets/img/produit/terminaux-point-de-vente.jpg",
+    "categorieUrl": "moniteur-industriel",
+    "categorieProduit": [{
+      "productName": "Industrial Touch Monitor",
+      "productImg": "./assets/img/produit/moniteur-industriel/industrial-touch-monitor.jpg",
+      "productUrl": "http://www.cincoze.com/goods_catalog.php?cid=29",
+      "productSeller": "CINCOZE",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    }]
+  },
+  {
+    "categorieSecteur":"Interfaces & Système d'affichage",
+    "categorieName": "Imprimante thermique kiosque et mobile",
+    "categorieImg": "./assets/img/produit/imprimante-thermique-mobile.jpg",
+    "categorieUrl": "moniteur-industriel",
+    "categorieProduit": [{
+      "productName": "Industrial Touch Monitor",
+      "productImg": "./assets/img/produit/moniteur-industriel/industrial-touch-monitor.jpg",
+      "productUrl": "http://www.cincoze.com/goods_catalog.php?cid=29",
+      "productSeller": "CINCOZE",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    }]
+  }
+
+
+]
