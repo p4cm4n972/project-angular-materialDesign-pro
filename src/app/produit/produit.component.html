@@ -1,7 +1,15 @@
 <div class="container">
-  <div class="row mx-auto">
+        <div class='row'>
+            <div class="col-md-12 mx-auto text-center">
+                <button class="btn blue-gradient btn-rounded waves-light mx-auto " mdbRippleRadius (click)='onFiltre("Informatique industrielle")' >Informatique industrielle</button>
+                <button class="btn peach-gradient btn-rounded waves-light mx-auto " mdbRippleRadius (click)='onFiltre("Interfaces & Système d&#39;affichage")'>Interfaces & systèmes d'affichage</button>
+                <button class="btn purple-gradient btn-rounded waves-light mx-auto " mdbRippleRadius (click)='onFiltre(" ")'>all</button>
+            </div>
+            </div>
+            <br>
+  <div class="row" *ngIf='produit && produit.length'>
     <!--Card-->
-    <div class="card card col-md-3 col-lg-3" *ngFor="let cat of produit">
+    <div class="card card col-md-3 col-lg-3  mx-auto"   *ngFor="let cat of filteredProducts">
 
         <!--Card image-->
         <div class="view overlay hm-white-slight waves-light view hm-zoom" mdbRippleRadius>
@@ -17,7 +25,7 @@
         <div class="card-body text-center">
             <!--Title-->
             <p class="card-title">{{cat.categorieName}}</p>
-            <p class="card-text text-center"><a [routerLink]="['/produit',this.cat.categorieSeller[i].sellerPage]" *ngFor='let img of this.cat.categorieSeller, index as i'><img  [src]='cat.categorieSeller[i].sellerUrl' class="img-fluid" style="max-width:80px"></a></p>
+            <p class="card-text text-center"><a [routerLink]="['/seller',this.cat.categorieSeller[i].sellerPage]" *ngFor='let img of this.cat.categorieSeller, index as i'><img  [src]='cat.categorieSeller[i].sellerUrl' class="img-fluid" style="max-width:80px"></a></p>
             
 
         </div>

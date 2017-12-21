@@ -1,6 +1,8 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { HttpClientModule } from '@angular/common/http';
+import { FormsModule } from '@angular/forms';
+
 
 /**
  * MATERIAL DESIGN BOOTSTRAP
@@ -17,6 +19,8 @@ import { CompetenceComponent } from './competence/competence.component';
 import { ProduitComponent } from './produit/produit.component';
 import { ProduitService } from './produit.service';
 import { ProduitListComponent } from './produit-list/produit-list.component';
+import { NewsComponent } from './news/news.component';
+import { ContactComponent } from './contact/contact.component';
 
 
 @NgModule({
@@ -26,13 +30,16 @@ import { ProduitListComponent } from './produit-list/produit-list.component';
     PresentationComponent,
     CompetenceComponent,
     ProduitComponent,
-    ProduitListComponent
+    ProduitListComponent,
+    NewsComponent,
+    ContactComponent
   ],
   imports: [
     MDBBootstrapModules.forRoot(),
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    FormsModule
   ],
   providers: [MDBSpinningPreloader, ProduitService],
   schemas: [ NO_ERRORS_SCHEMA ],
