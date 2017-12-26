@@ -39,7 +39,6 @@ export class ProduitComponent implements OnInit {
       .subscribe(produit => {
         this.produit = produit;
         this.filteredProducts = this.produit;
-        this.listFilter = ' ';
       },
       error => this.errorMessage = <any>error);
   }

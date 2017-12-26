@@ -9,7 +9,7 @@
             <br>
   <div class="row" *ngIf='produit && produit.length'>
     <!--Card-->
-    <div class="card card col-md-3 col-lg-3  mx-auto"   *ngFor="let cat of filteredProducts">
+    <div class="card card col-md-3 col-lg-3  mx-auto animated slideInUp"   *ngFor="let cat of filteredProducts">
 
         <!--Card image-->
         <div class="view overlay hm-white-slight waves-light view hm-zoom" mdbRippleRadius>
@@ -25,7 +25,7 @@
         <div class="card-body text-center">
             <!--Title-->
             <p class="card-title">{{cat.categorieName}}</p>
-            <p class="card-text text-center"><a [routerLink]="['/seller',this.cat.categorieSeller[i].sellerPage]" *ngFor='let img of this.cat.categorieSeller, index as i'><img  [src]='cat.categorieSeller[i].sellerUrl' class="img-fluid" style="max-width:80px"></a></p>
+            <p class="card-text text-center"><a [routerLink]="['/produit',cat.categorieUrl,cat.categorieSeller[i].sellerName]" *ngFor='let img of cat.categorieSeller, index as i'><img  [src]='cat.categorieSeller[i].sellerUrl' class="img-fluid" style="max-width:80px"></a></p>
             
 
         </div>

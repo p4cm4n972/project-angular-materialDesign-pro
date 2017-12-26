@@ -21,6 +21,9 @@ import { ProduitService } from './produit.service';
 import { ProduitListComponent } from './produit-list/produit-list.component';
 import { NewsComponent } from './news/news.component';
 import { ContactComponent } from './contact/contact.component';
+import { ProduitSellerComponent } from './produit-seller/produit-seller.component';
+import { PartenaireComponent } from './partenaire/partenaire.component';
+import { PartenaireService } from './partenaire.service';
 
 
 @NgModule({
@@ -32,7 +35,9 @@ import { ContactComponent } from './contact/contact.component';
     ProduitComponent,
     ProduitListComponent,
     NewsComponent,
-    ContactComponent
+    ContactComponent,
+    ProduitSellerComponent,
+    PartenaireComponent
   ],
   imports: [
     MDBBootstrapModules.forRoot(),
@@ -41,7 +46,7 @@ import { ContactComponent } from './contact/contact.component';
     HttpClientModule,
     FormsModule
   ],
-  providers: [MDBSpinningPreloader, ProduitService],
+  providers: [MDBSpinningPreloader, ProduitService, PartenaireService],
   schemas: [ NO_ERRORS_SCHEMA ],
   bootstrap: [AppComponent]
 })

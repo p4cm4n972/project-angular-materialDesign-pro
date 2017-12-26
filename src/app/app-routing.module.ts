@@ -10,6 +10,8 @@ import { ProduitComponent } from './produit/produit.component';
 import { ProduitListComponent } from './produit-list/produit-list.component';
 import { NewsComponent } from './news/news.component';
 import { ContactComponent } from './contact/contact.component';
+import { ProduitSellerComponent } from './produit-seller/produit-seller.component';
+import { PartenaireComponent } from './partenaire/partenaire.component';
 
 const routes: Routes = [
   { path: '', redirectTo: '/home', pathMatch: 'full' },
@@ -18,7 +20,8 @@ const routes: Routes = [
   { path: 'competence', component: CompetenceComponent },
   { path: 'produit', component: ProduitComponent },
   { path: 'produit/:id', component: ProduitListComponent },
-  { path: 'seller/:ref', component: ProduitListComponent },
+  { path: 'produit/:id/:ref', component: ProduitSellerComponent },
+  { path: 'partenaire', component: PartenaireComponent },
   { path: 'news', component: NewsComponent },
   { path: 'contact', component: ContactComponent }
 ];

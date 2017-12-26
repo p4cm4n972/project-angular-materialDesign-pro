@@ -4,12 +4,12 @@ export class IProduit {
     categorieImg: string;
     categorieUrl: string;
     categorie: any;
-    categorieSeller: any;
+    categorieSeller: string;
     categorieProduit: [{
         productName: string;
         productImg: string;
         productUrl: string;
-        productSeller: string;
+        productSeller: string[];
         modele:  [{
             modeleName: string;
             modeleLink: string;
