@@ -10,6 +10,9 @@ import 'rxjs/add/operator/do';
 import 'rxjs/add/operator/map';
 
 import { IProduit } from './produit/mock-produit';
+import { AlphaListPipe } from './alpha-list.pipe';
+
+
 
 @Injectable()
 export class ProduitService {

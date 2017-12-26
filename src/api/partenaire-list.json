@@ -2,69 +2,79 @@
     "partenaireID": 1,
     "partenaireName": "avalue",
     "partenaireUrl": "",
-    "partImgUrl": "../assets/img/partenaire/avalue-business-logo.png",
+    "partImgUrl": "../assets/img/partenaire/avalue.png",
     "partCat": [],
-    "partPrd": []
+    "partPrd": [],
+    "partDetail":"Panels PC industriels, médicaux et multimédia"
   },
   {
     "partenaireID": 2,
     "partenaireName": "cincoze",
     "partenaireUrl": "",
-    "partImgUrl": "../../assets/img/partenaire/cincoze-business-logo.png",
+    "partImgUrl": "../../assets/img/partenaire/cincoze.png",
     "partCat": [],
-    "partPrd": []
+    "partPrd": [],
+    "partDetail":"Panel PC et Mini PC Industriels"
   }, {
     "partenaireID": 3,
     "partenaireName": "elo",
     "partenaireUrl": "",
-    "partImgUrl": "../../assets/img/partenaire/elo-business-logo.png",
+    "partImgUrl": "../../assets/img/partenaire/elo.png",
     "partCat": [],
-    "partPrd": []
+    "partPrd": [],
+    "partDetail":"Fabricant, leader mondial du moniteur tactile encastrable, desktop et du PC tactile"
   }, {
     "partenaireID": 4,
     "partenaireName": "epson",
     "partenaireUrl": "",
-    "partImgUrl": "../../assets/img/partenaire/epson-business-logo.png",
+    "partImgUrl": "../../assets/img/partenaire/epson.png",
     "partCat": [],
-    "partPrd": []
+    "partPrd": [],
+    "partDetail":"Imprimantes de tickets de caisse thermiques et matricielles, de factures et de chèques"
   }, {
     "partenaireID": 5,
     "partenaireName": "zebra",
     "partenaireUrl": "",
     "partImgUrl": "../../assets/img/partenaire/zebra-business-logo.png",
     "partCat": [],
-    "partPrd": []
+    "partPrd": [],
+    "partDetail":"Modules d'impression thermique de reçus et tickets pour bornes et kiosques, lecteurs de codes à barres 1D/2D, Lecteurs RFID"
   }, {
     "partenaireID": 6,
     "partenaireName": "iei",
     "partenaireUrl": "",
     "partImgUrl": "../../assets/img/partenaire/iei-business-logo.png",
     "partCat": [],
-    "partPrd": []
+    "partPrd": [],
+    "partDetail":"Panel PC, PC industriels, Cartes mères Industrielles, Informatique Mobile …"
   }, {
     "partenaireID": 7,
     "partenaireName": "innodisk",
     "partenaireUrl": "",
     "partImgUrl": "../../assets/img/partenaire/innodisk-business-logo.png",
     "partCat": [],
-    "partPrd": []
+    "partPrd": [],
+    "partDetail":"Composants de stockage FLASH hautes performances et en températures étendues"
   }, {
     "partenaireID": 8,
     "partenaireName": "mpl",
     "partenaireUrl": "",
     "partImgUrl": "../../assets/img/partenaire/mpl-business-logo.png",
     "partCat": [],
-    "partPrd": []
-  }, {
+    "partPrd": [],
+    "partDetail":"PC embarqués et microcontrôleurs destinés aux environnements sévères et à forte pérénnité"
+    }, {
     "partenaireID": 9,
     "partenaireName": "nexcom",
     "partenaireUrl": "",
     "partImgUrl": "../../assets/img/partenaire/nexcom-business-logo.png",
     "partCat": [],
-    "partPrd": []
+    "partPrd": [],
+    "partDetail":"Mini PC Industriel"
   }, {
     "partenaireID": 10,
     "partenaireName": "oring",
+    "partDetail":"Serveurs, réseaux industriels, switchs embarqués (Normes Transports IRIS)",
     "partenaireUrl": "",
     "partImgUrl": "../../assets/img/partenaire/oring-business-logo.png",
     "partCat": [],
@@ -1704,41 +1714,47 @@
     "partenaireUrl": "",
     "partImgUrl": "../../assets/img/partenaire/oteksys-business-logo.jpg",
     "partCat": [],
-    "partPrd": []
+    "partPrd": [],
+    "partDetail":"Moniteurs de 7 à 12'' (modèles tactiles de 7'' à 17'')"
   }, {
     "partenaireID": 12,
     "partenaireName": "posiflex",
     "partenaireUrl": "",
     "partImgUrl": "../../assets/img/partenaire/posiflex-business-logo.png",
     "partCat": [],
-    "partPrd": []
+    "partPrd": [],
+    "partDetail":"Fabricant de Terminaux points de vente et de périphériques de caisse"
   }, {
     "partenaireID": 13,
     "partenaireName": "congatec",
     "partenaireUrl": "",
     "partImgUrl": "../../assets/img/partenaire/congatec-business-logo.png",
     "partCat": [],
-    "partPrd": []
+    "partPrd": [],
+    "partDetail":"Leader de modules informatiques industriels utilisant facteurs d’encombrement standard COM Express, Qseven et SMARC"
   }, {
     "partenaireID": 14,
     "partenaireName": "sii",
     "partenaireUrl": "",
     "partImgUrl": "../../assets/img/partenaire/sii-business-logo.png",
     "partCat": [],
-    "partPrd": []
+    "partPrd": [],
+    "partDetail":""
   }, {
     "partenaireID": 15,
     "partenaireName": "sintrones",
     "partenaireUrl": "",
     "partImgUrl": "../../assets/img/partenaire/sintrones-business-logo.png",
     "partCat": [],
-    "partPrd": []
+    "partPrd": [],
+    "partDetail":"PC et Ecrans embarqués pour applications en transport public et en véhicule"
   }, {
     "partenaireID": 16,
     "partenaireName": "sunhillo",
     "partenaireUrl": "",
     "partImgUrl": "../../assets/img/partenaire/sunhillo-business-logo.png",
     "partCat": [],
-    "partPrd": []
+    "partPrd": [],
+    "partDetail":"Réseaux industriels de communication, cartes de communication intelligentes et programmables"
   }
 ]

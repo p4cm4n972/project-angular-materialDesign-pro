@@ -5,4 +5,5 @@ export interface IPartenaire {
     partImgUrl: string;
     partCat: any;
     partPrd: any;
+    partDetail: string;
 }

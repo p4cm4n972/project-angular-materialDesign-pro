@@ -24,7 +24,7 @@
         <!--Card content-->
         <div class="card-body text-center">
             <!--Title-->
-            <p class="card-title">{{cat.categorieName}}</p>
+            <p class="card-title">{{cat.categorieName }}</p>
             <p class="card-text text-center"><a [routerLink]="['/produit',cat.categorieUrl,cat.categorieSeller[i].sellerName]" *ngFor='let img of cat.categorieSeller, index as i'><img  [src]='cat.categorieSeller[i].sellerUrl' class="img-fluid" style="max-width:80px"></a></p>
             
 

@@ -4,13 +4,14 @@ import { Component, OnInit } from '@angular/core';
  * SERVICE : PRODUIT
  */
 import { ProduitService } from '../produit.service';
-
 import { IProduit } from './mock-produit';
+import { AlphaListPipe } from '../alpha-list.pipe';
 
 @Component({
   templateUrl: './produit.component.html',
   styleUrls: ['./produit.component.scss'],
   providers: [ProduitService]
+
 })
 export class ProduitComponent implements OnInit {
   errorMessage: string;
