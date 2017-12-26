@@ -1,0 +1,110 @@
+<div class="container">
+  <div class="row">
+ <!--Rotating card-->     
+<div class="col-md-3" *ngFor="let part of partList">
+    <mdb-card-rotating #card>
+        <!--Front Side-->
+        <div class="face front card tp-box_side tp-box_front">
+            <!-- Image-->
+            <div class="card-up">
+                <div class="view overlay hm-white-slight waves-light" mdbRippleRadius>
+                    <img [src]="part.partImgUrl" [alt]="part.partenaireName" class="img-fluid" alt="">
+                    
+                </div>
+            </div>
+            <!--/.Image-->
+
+            <!--Content-->
+            <div class="content">
+                <a class="rotate-btn" data-card="card-2" (click)="card.toggle()"><i class="fa fa-share-alt"></i></a>
+                <h4>{{part.partenaireName}}</h4>
+                <hr>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat tenetur odio suscipit non commodi vel eius veniam maxime.</p>
+                <a class="link-text"><h5>Read more<i class="fa fa-chevron-right"></i></h5></a>
+            </div>
+            <!--/.Content-->
+
+        </div>
+        <!--/.Front Side-->
+
+        <!--Back Side-->
+        <div class="face back tp-box_side tp-box_back">
+            <!--Title-->
+            <h4 class="card-title">Social shares <i class="fa fa-close rotate-btn" (click)="card.toggle()"></i></h4>
+            <hr>
+
+            <!--Social Icons-->
+            <ul class="inline-ul">
+                <li><a class="btn-floating btn-small btn-fb waves-light" mdbRippleRadius><i class="fa fa-facebook"> </i></a></li>
+                <li><a class="btn-floating btn-small btn-tw waves-light" mdbRippleRadius><i class="fa fa-twitter"> </i></a></li>
+                <li><a class="btn-floating btn-small btn-gplus waves-light" mdbRippleRadius><i class="fa fa-google-plus"> </i></a></li>
+                <li><a class="btn-floating btn-small btn-li waves-light" mdbRippleRadius><i class="fa fa-linkedin"> </i></a></li>
+                <li><a class="btn-floating btn-small btn-git waves-light" mdbRippleRadius><i class="fa fa-github"> </i></a></li>
+                <li><a class="btn-floating btn-small btn-pin waves-light" mdbRippleRadius><i class="fa fa-pinterest"> </i></a></li>
+                <li><a class="btn-floating btn-small btn-ins waves-light" mdbRippleRadius><i class="fa fa-instagram"> </i></a></li>
+            </ul>
+
+            <h5>Join our community</h5>
+            <hr>
+
+            <!--Social Icons-->
+            <ul class="inline-ul">
+                <li><a class="btn btn-fb waves-light" mdbRippleRadius><i class="fa fa-facebook"> </i></a></li>
+                <li><a class="btn btn-tw waves-light" mdbRippleRadius><i class="fa fa-twitter"> </i></a></li>
+                <li><a class="btn btn-li waves-light" mdbRippleRadius><i class="fa fa-linkedin"> </i></a></li>
+                <li><a class="btn btn-ins waves-light" mdbRippleRadius><i class="fa fa-instagram"> </i></a></li>
+            </ul>
+            
+
+        </div>
+        <!--/.Back Side-->
+    </mdb-card-rotating>
+</div>
+<!--/.Rotating card-->
+
+ <!-- Image thumbnails partenaires-->
+ 
+<div class="col-md-3" >
+    <mdb-card-rotating #cards>
+        <!--Front Side-->
+        <div class="face front tp-box_side tp-box_front">
+
+            <!-- Image-->
+            <div class="mx-auto">
+                <img [src]="part.partImgUrl" [alt]="part.partenaireName" class=" img-fluid mx-auto contain">
+            </div>
+            <!--Avatar-->
+            <div ><img src="../assets/img/logo.png"  style="max-width:50px">
+            </div>
+            <!--Content-->
+            <div class="card-body">
+                <h4>{{part.partenaireName}}</h4>
+                <hr>
+                <!--Triggering button-->
+                <a class="rotate-btn" data-card="card-1" (click)="cards.toggle()"><i class="fa fa-repeat"></i> Click here to rotate</a>
+            </div>
+        </div>
+        <!--/.Front Side-->
+
+        <!--Back Side-->
+        <div class="back tp-box_side tp-box_back">
+
+            <!--Content-->
+            <h4>A propos</h4>
+            <hr>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime quae, dolores dicta. Blanditiis rem amet repellat, dolores nihil quae in mollitia asperiores ut rerum repellendus, voluptatum eum, officia laudantium quaerat?</p>
+            <hr>
+            <!--Social Icons-->
+            <ul class="inline-ul">
+                <li><i class="fa fa-link" aria-hidden="true"></i></li>
+            </ul>
+            <!--Triggering button-->
+            <a class="rotate-btn" data-card="card-1" (click)="cards.toggle()"><i class="fa fa-undo"></i> Click here to rotate back</a>
+
+        </div>
+        <!--/.Back Side-->
+    </mdb-card-rotating>
+</div> 
+<!--/.Rotating card-->
+</div>
+</div>

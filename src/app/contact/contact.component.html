@@ -1,0 +1,102 @@
+<div class="container">
+  <!--Section: Contact v.1-->
+<section class="section pb-5">
+    
+        <!--Section heading-->
+        <h2 class="section-heading h1 pt-4">Contactez-nous</h2>
+        <!--Section description-->
+        <p class="section-description pb-4">Au numéro que vous trouverez en bas de page ou en remplissant le formulaire de contact afin d’être rappelé par l’un de nos commerciaux.</p>
+    
+        <div class="row">
+    
+            <!--Grid column-->
+            <div class="col-lg-5 mb-4">
+    
+                <!--Form with header-->
+                <div class="card">
+    
+                    <div class="card-body">
+                        <!--Header-->
+                        <div class="form-header blue accent-1">
+                            <h3><i class="fa fa-envelope"></i></h3>
+                        </div>
+    
+                        <br>
+    
+                        <!--Body-->
+                        <div class="md-form">
+                            <i class="fa fa-user prefix grey-text"></i>
+                            <input mdbActive type="text" id="form3" class="form-control">
+                            <label for="form3">Votre nom</label>
+                        </div>
+    
+                        <div class="md-form">
+                            <i class="fa fa-envelope prefix grey-text"></i>
+                            <input mdbActive type="text" id="form2" class="form-control">
+                            <label for="form2">Votre email</label>
+                        </div>
+    
+                        <div class="md-form">
+                            <i class="fa fa-tag prefix grey-text"></i>
+                            <input mdbActive type="text" id="form32" class="form-control">
+                            <label for="form34">Sujet</label>
+                        </div>
+    
+                        <div class="md-form">
+                            <i class="fa fa-pencil prefix grey-text"></i>
+                            <textarea mdbActive type="text" id="form8" class="md-textarea"></textarea>
+                            <label for="form8">...</label>
+                        </div>
+    
+                        <div class="text-center">
+                            <button class="btn btn-light-blue waves-light" mdbRippleRadius>Envoie</button>
+                        </div>
+    
+                    </div>
+    
+                </div>
+                <!--Form with header-->
+    
+            </div>
+            <!--Grid column-->
+    
+            <!--Grid column-->
+            <div class="col-lg-7">
+    
+                <!--Google map-->
+                <agm-map class="z-depth-1-half map-container" style="height: 400px;" [latitude]="map.lat" [longitude]="map.lng">
+                    <agm-marker [latitude]="map.lat" [longitude]="map.lng"></agm-marker>
+                </agm-map>
+    
+                <br>
+                <!--Buttons-->
+                <div class="row text-center">
+                    <div class="col-md-4">
+                        <a class="btn-floating blue accent-1 waves-light" mdbRippleRadius><i class="fa fa-map-marker"></i></a>
+                        <p>7, rue d'Alembert</p>
+                        <p>ZAC de la Noue Rousseau</p>
+                        <p>Saint Michel sur Orge, FR 91240</p>
+                        <p>FRANCE</p>
+                    </div>
+    
+                    <div class="col-md-4">
+                        <a class="btn-floating blue accent-1 waves-light" mdbRippleRadius><i class="fa fa-phone"></i></a>
+                        <p> 01 69 88 43 00</p>
+                        <p>Lun - Jeu, 8:45-17:30</p>
+                        <p>Ven, 8:45-17:00</p>
+                    </div>
+    
+                    <div class="col-md-4">
+                        <a class="btn-floating blue accent-1 waves-light" mdbRippleRadius><i class="fa fa-envelope"></i></a>
+                        <p>sale@aplus-sa.com</p>
+                    </div>
+                </div>
+    
+            </div>
+           <!--Grid column-->
+    
+        </div>
+    
+    </section>
+    <!--Section: Contact v.1-->
+</div>

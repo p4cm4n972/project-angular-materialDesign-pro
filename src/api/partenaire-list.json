@@ -1,0 +1,1744 @@
+[{
+    "partenaireID": 1,
+    "partenaireName": "avalue",
+    "partenaireUrl": "",
+    "partImgUrl": "../assets/img/partenaire/avalue-business-logo.png",
+    "partCat": [],
+    "partPrd": []
+  },
+  {
+    "partenaireID": 2,
+    "partenaireName": "cincoze",
+    "partenaireUrl": "",
+    "partImgUrl": "../../assets/img/partenaire/cincoze-business-logo.png",
+    "partCat": [],
+    "partPrd": []
+  }, {
+    "partenaireID": 3,
+    "partenaireName": "elo",
+    "partenaireUrl": "",
+    "partImgUrl": "../../assets/img/partenaire/elo-business-logo.png",
+    "partCat": [],
+    "partPrd": []
+  }, {
+    "partenaireID": 4,
+    "partenaireName": "epson",
+    "partenaireUrl": "",
+    "partImgUrl": "../../assets/img/partenaire/epson-business-logo.png",
+    "partCat": [],
+    "partPrd": []
+  }, {
+    "partenaireID": 5,
+    "partenaireName": "zebra",
+    "partenaireUrl": "",
+    "partImgUrl": "../../assets/img/partenaire/zebra-business-logo.png",
+    "partCat": [],
+    "partPrd": []
+  }, {
+    "partenaireID": 6,
+    "partenaireName": "iei",
+    "partenaireUrl": "",
+    "partImgUrl": "../../assets/img/partenaire/iei-business-logo.png",
+    "partCat": [],
+    "partPrd": []
+  }, {
+    "partenaireID": 7,
+    "partenaireName": "innodisk",
+    "partenaireUrl": "",
+    "partImgUrl": "../../assets/img/partenaire/innodisk-business-logo.png",
+    "partCat": [],
+    "partPrd": []
+  }, {
+    "partenaireID": 8,
+    "partenaireName": "mpl",
+    "partenaireUrl": "",
+    "partImgUrl": "../../assets/img/partenaire/mpl-business-logo.png",
+    "partCat": [],
+    "partPrd": []
+  }, {
+    "partenaireID": 9,
+    "partenaireName": "nexcom",
+    "partenaireUrl": "",
+    "partImgUrl": "../../assets/img/partenaire/nexcom-business-logo.png",
+    "partCat": [],
+    "partPrd": []
+  }, {
+    "partenaireID": 10,
+    "partenaireName": "oring",
+    "partenaireUrl": "",
+    "partImgUrl": "../../assets/img/partenaire/oring-business-logo.png",
+    "partCat": [],
+    "partPrd": [
+      {
+        "categories": "Desktop-Type Ethernet Switch",
+        "modele": [
+          {
+            "name": "Desktop Type Bypass Ethernet Switch",
+            "pictures": "http://www.oringnet.com/upload/website/products/352/middle/20151215175020_761198.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/DES-3082GP-AIO_S+Series/111",
+                "modeles": "DES-3082GP-AIO_S Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/DGS-9168GP-AIO_S+Series/111",
+                "modeles": "DGS-9168GP-AIO_S Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/DGS-9812GP-AIO_S+Series/111",
+                "modeles": "DGS-9812GP-AIO_S Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/DGS-R9812GP-AIO_S+Series/111",
+                "modeles": "DGS-R9812GP-AIO_S Series"
+              }
+            ]
+          },
+          {
+            "name": "Desktop-Type Fast Ethernet Switch",
+            "pictures": "http://www.oringnet.com/upload/website/products/578/middle/20151217111236_433183.jpg",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/DES-3073GC-P+Series/112",
+                "modeles": "DES-3073GC-P Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/DES-3082GP-AIO_S+Series/112",
+                "modeles": "DES-3082GP-AIO_S Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/DES-3082GP-P+Series/112",
+                "modeles": "DES-3082GP-P Series"
+              }
+            ]
+          },
+          {
+            "name": "Layer 3 Gigabit Bypass Ethernet Switch",
+            "pictures": "http://www.oringnet.com/upload/website/products/364/middle/20151216091935_359504.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/DGS-R9812GP-AIO_S+Series/113",
+                "modeles": "DGS-R9812GP-AIO_S Series"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categories": "Card-Type Ethernet Switch",
+        "modele": [
+          {
+            "name": "PCIe Ethernet Switch",
+            "pictures": "http://www.oringnet.com/upload/website/products/561/middle/20151217103403_329858.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGCS-E131GP/107",
+                "modeles": "IGCS-E131GP"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGCS-E140/107",
+                "modeles": "IGCS-E140"
+              }
+            ]
+          },
+          {
+            "name": "PCIe PoE Ethernet Switch",
+            "pictures": "http://www.oringnet.com/upload/website/products/945/middle/20160714171033_336424.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPCS-E131GP/108",
+                "modeles": "IGPCS-E131GP"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPCS-E140/108",
+                "modeles": "IGPCS-E140"
+              }
+            ]
+          },
+          {
+            "name": "PCI Ethernet Switch",
+            "pictures": "http://www.oringnet.com/upload/website/products/565/middle/20151217115508_488181.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/ICS-4040/109",
+                "modeles": "ICS-4040"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categories": "Industrial Media Converter",
+        "modele": [
+          {
+            "name": "Rack-Mount Modular Media Converter",
+            "pictures": "http://www.oringnet.com/upload/website/products/381/middle/20151216094145_781198.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGMC-111GPB/72",
+                "modeles": "RGMC-111GPB"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RMC-1000/72",
+                "modeles": "RMC-1000"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RMC-111FB+Series/72",
+                "modeles": "RMC-111FB Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RMC-111PB/72",
+                "modeles": "RMC-111PB"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RMC-121FB+Series/72",
+                "modeles": "RMC-121FB Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RPM-130-AC/72",
+                "modeles": "RPM-130-AC"
+              }
+            ]
+          },
+          {
+            "name": "Din-Rail Ethernet Media Converter",
+            "pictures": "http://www.oringnet.com/upload/website/products/391/middle/20151216110153_562397.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGMC-1011GF+Series/73",
+                "modeles": "IGMC-1011GF Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGMC-1011GP/73",
+                "modeles": "IGMC-1011GP"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGMC-111GP/73",
+                "modeles": "IGMC-111GP"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGMC-111GPB/73",
+                "modeles": "IGMC-111GPB"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IMC-111FB+Series/73",
+                "modeles": "IMC-111FB Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IMC-111PB/73",
+                "modeles": "IMC-111PB"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IMC-121FB+Series/73",
+                "modeles": "IMC-121FB Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IMC-P111FX+Series/73",
+                "modeles": "IMC-P111FX Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IMC-P111P+Series/73",
+                "modeles": "IMC-P111P Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IPMC-111PB+Series/73",
+                "modeles": "IPMC-111PB Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/ITGMC-111GP%2B/73",
+                "modeles": "ITGMC-111GP+"
+              }
+            ]
+          },
+          {
+            "name": "PoE Ethernet to Fiber Media Converter",
+            "pictures": "http://www.oringnet.com/upload/website/products/921/middle/20160628103029_463239.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPMC-111GP/74",
+                "modeles": "IGPMC-111GP"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IPMC-111PB/74",
+                "modeles": "IPMC-111PB"
+              }
+            ]
+          },
+          {
+            "name": "Ethernet Extender Media Converter",
+            "pictures": "http://www.oringnet.com/upload/website/products/435/middle/20151216150110_165707.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IMC-B111ETB+Series/77",
+                "modeles": "IMC-B111ETB Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IMC-V111ET-TB/77",
+                "modeles": "IMC-V111ET-TB"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categories": "Industrial Serial Products",
+        "modele": [
+          {
+            "name": "Rack-Mount Serial Device Server",
+            "pictures": "http://www.oringnet.com/upload/website/products/879/middle/20160330132417_210769.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RDS-3086G/83",
+                "modeles": "RDS-3086G"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RDS-3166G/83",
+                "modeles": "RDS-3166G"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RDS-P3000+Series/83",
+                "modeles": "RDS-P3000 Series"
+              }
+            ]
+          },
+          {
+            "name": "Serial Device Server",
+            "pictures": "http://www.oringnet.com/upload/website/products/1029/middle/20170428110029_445022.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IDS-242GT-I%2B/79",
+                "modeles": "IDS-242GT-I+"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IDS-312+Series/79",
+                "modeles": "IDS-312 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IDS-322+Series/79",
+                "modeles": "IDS-322 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IDS-342+Series/79",
+                "modeles": "IDS-342 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IDS-342GT+Series/79",
+                "modeles": "IDS-342GT Series"
+              }
+            ]
+          },
+          {
+            "name": "EN50155 Device Server",
+            "pictures": "http://www.oringnet.com/upload/website/products/944/middle/20160714141121_558373.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TDS-5041-I-M12/81",
+                "modeles": "TDS-5041-I-M12"
+              }
+            ]
+          },
+          {
+            "name": "Wireless Serial Device Server",
+            "pictures": "http://www.oringnet.com/upload/website/products/889/middle/20160422140905_953391.jpg",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IDS-1112/80",
+                "modeles": "IDS-1112"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IDS-4312+Series/80",
+                "modeles": "IDS-4312 Series"
+              }
+            ]
+          },
+          {
+            "name": "Serial USB Converters",
+            "pictures": "http://www.oringnet.com/upload/website/products/430/middle/20151216143755_852546.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/ISC-1210U-I/75",
+                "modeles": "ISC-1210U-I"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/ISC-1310FB+Series/75",
+                "modeles": "ISC-1310FB Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/ISC-1310U-I/75",
+                "modeles": "ISC-1310U-I"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/ISC-4110U/75",
+                "modeles": "ISC-4110U"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/ISC-8110U/75",
+                "modeles": "ISC-8110U"
+              }
+            ]
+          },
+          {
+            "name": "Serial Media Converters",
+            "pictures": "http://www.oringnet.com/upload/website/products/896/middle/20160426103321_254529.jpg",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/ISC-1112+Series/76",
+                "modeles": "ISC-1112 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/ISC-1212-I/76",
+                "modeles": "ISC-1212-I"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/ISC-1310FR+Series/76",
+                "modeles": "ISC-1310FR Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/ISC-1310FW-SS+Series/76",
+                "modeles": "ISC-1310FW-SS Series"
+              }
+            ]
+          },
+          {
+            "name": "PC Cards",
+            "pictures": "http://www.oringnet.com/upload/website/products/1043/middle/20170628173136_526552.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/PCard+2-port+low+profile/135",
+                "modeles": "PCard 2-port low profile"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/PCard+2-port+Low+Profile+with+Isolation/135",
+                "modeles": "PCard 2-port Low Profile with Isolation"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/PCard+2-port+standard/135",
+                "modeles": "PCard 2-port standard"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/PCard+2-port+Standard+with+Isolation/135",
+                "modeles": "PCard 2-port Standard with Isolation"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/PCard+4-port+low+profile/135",
+                "modeles": "PCard 4-port low profile"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/PCard+4-port+Low+Profile+with+Isolation/135",
+                "modeles": "PCard 4-port Low Profile with Isolation"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categories": "Industrial Wireless Access Point",
+        "modele": [
+          {
+            "name": "Din-Rail Wireless Access Point",
+            "pictures": "http://www.oringnet.com/upload/website/products/447/middle/20151216155311_422030.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IAP-420+Series/85",
+                "modeles": "IAP-420 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IAP-620+Series/85",
+                "modeles": "IAP-620 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGAP-420+Series/85",
+                "modeles": "IGAP-420 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGAP-620+Series/85",
+                "modeles": "IGAP-620 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGAP-6620+Series/85",
+                "modeles": "IGAP-6620 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGAP-820+%2F+IGAP-820%2B/85",
+                "modeles": "IGAP-820 / IGAP-820+"
+              }
+            ]
+          },
+          {
+            "name": "IP-67 Wireless Access Point",
+            "pictures": "http://www.oringnet.com/upload/website/products/463/middle/20151217095518_673618.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IAP-W42X+Series/86",
+                "modeles": "IAP-W42X Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IAP-W52X+Series/86",
+                "modeles": "IAP-W52X Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TGAP-W610%2B+Series/86",
+                "modeles": "TGAP-W610+ Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TGAP-W6610%2B+Series/86",
+                "modeles": "TGAP-W6610+ Series"
+              }
+            ]
+          },
+          {
+            "name": "EN50155 Wireless Access Point",
+            "pictures": "http://www.oringnet.com/upload/website/products/484/middle/20151216164337_917360.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TGAP-620-M12+Series/87",
+                "modeles": "TGAP-620-M12 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TGAP-6620-M12+Series/87",
+                "modeles": "TGAP-6620-M12 Series"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categories": "Industrial M2M Gateway",
+        "modele": [
+          {
+            "name": "Din-Rail M2M Gateway",
+            "pictures": "http://www.oringnet.com/upload/website/products/1024/middle/20170911164529_989890.jpg",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IMG-4312-3G+series/97",
+                "modeles": "IMG-4312-3G series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IMG-4312-4G+series/97",
+                "modeles": "IMG-4312-4G series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IMG-6322GT-3G+Series/97",
+                "modeles": "IMG-6322GT-3G Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IMG-6322GT-4G+Series/97",
+                "modeles": "IMG-6322GT-4G Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IMG-W6121%2B+Series/97",
+                "modeles": "IMG-W6121+ Series"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categories": "Industrial Solution - Railway",
+        "modele": [
+          {
+            "name": "EN50155 Ethernet Switch",
+            "pictures": "http://www.oringnet.com/upload/website/products/134/middle/20151214152809_125368.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-9842GTP+Series/56",
+                "modeles": "IGPS-9842GTP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TES-1080-M12+Series/56",
+                "modeles": "TES-1080-M12 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TES-150-M12/56",
+                "modeles": "TES-150-M12"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TES-180-M12/56",
+                "modeles": "TES-180-M12"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TES-250-M12/56",
+                "modeles": "TES-250-M12"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TES-3080-M12+Series/56",
+                "modeles": "TES-3080-M12 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TES-3082GT-M12-BP1/56",
+                "modeles": "TES-3082GT-M12-BP1"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TES-3162GT-M12-BP1/56",
+                "modeles": "TES-3162GT-M12-BP1"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TGS-1080-M12+Series/56",
+                "modeles": "TGS-1080-M12 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TGS-9120-M12+Series/56",
+                "modeles": "TGS-9120-M12 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TGS-9200-M12+Series/56",
+                "modeles": "TGS-9200-M12 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TSPL-101GT-M12+Series/56",
+                "modeles": "TSPL-101GT-M12 Series"
+              }
+            ]
+          },
+          {
+            "name": "EN50155 PoE Ethernet Switch",
+            "pictures": "http://www.oringnet.com/upload/website/products/165/middle/20151214172635_352332.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TGPS-1080-M12+Series/57",
+                "modeles": "TGPS-1080-M12 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TGPS-9080-M12A-MV/57",
+                "modeles": "TGPS-9080-M12A-MV"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TGPS-9084GT-M12+Series/57",
+                "modeles": "TGPS-9084GT-M12 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TGPS-9164GT-M12+Series/57",
+                "modeles": "TGPS-9164GT-M12 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TGPS-9168GT-M12/57",
+                "modeles": "TGPS-9168GT-M12"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TGXPS-141GX-M12+Series/57",
+                "modeles": "TGXPS-141GX-M12 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TPS-1080-M12+Series/57",
+                "modeles": "TPS-1080-M12 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TPS-141TX-M12+Series/57",
+                "modeles": "TPS-141TX-M12 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TPS-3044TX-M12/57",
+                "modeles": "TPS-3044TX-M12"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TPS-3082GF-MM-M12-QODC/57",
+                "modeles": "TPS-3082GF-MM-M12-QODC"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TPS-3082GT-M12+Series/57",
+                "modeles": "TPS-3082GT-M12 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TPS-3162GT-M12+Series/57",
+                "modeles": "TPS-3162GT-M12 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TPS-3882GT-M12+Series/57",
+                "modeles": "TPS-3882GT-M12 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TPS-9168GT-M12/57",
+                "modeles": "TPS-9168GT-M12"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TPS-B3082ET-M12-BP1/57",
+                "modeles": "TPS-B3082ET-M12-BP1"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TXPS-141XT-M12+Series/57",
+                "modeles": "TXPS-141XT-M12 Series"
+              }
+            ]
+          },
+          {
+            "name": "Ethernet Switch (Trackside & Station)",
+            "pictures": "http://www.oringnet.com/upload/website/products/357/middle/20151215175319_776659.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/DGS-9168GP-AIO_S+Series/55",
+                "modeles": "DGS-9168GP-AIO_S Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/DGS-9812GP-AIO_S+Series/55",
+                "modeles": "DGS-9812GP-AIO_S Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/DGS-R9812GP-AIO_S+Series/55",
+                "modeles": "DGS-R9812GP-AIO_S Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-1042GP+Series/55",
+                "modeles": "IGPS-1042GP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-9084GP+Series/55",
+                "modeles": "IGPS-9084GP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-9842GTP+Series/55",
+                "modeles": "IGPS-9842GTP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS+9084GP+Series/55",
+                "modeles": "IGS 9084GP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-1042GPA/55",
+                "modeles": "IGS-1042GPA"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-3032GC/55",
+                "modeles": "IGS-3032GC"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-9084+Series/55",
+                "modeles": "IGS-9084 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-9084GP+Series/55",
+                "modeles": "IGS-9084GP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-9122GPM/55",
+                "modeles": "IGS-9122GPM"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-9168GP/55",
+                "modeles": "IGS-9168GP"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-9812GP/55",
+                "modeles": "IGS-9812GP"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-9844GP+Series/55",
+                "modeles": "IGS-9844GP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGPS-92222GCP-NP+Series/55",
+                "modeles": "RGPS-92222GCP-NP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGS-92222GCP-NP+Series/55",
+                "modeles": "RGS-92222GCP-NP Series"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categories": "Industrial Solution - Oil and Gas",
+        "modele": [
+          {
+            "name": "C1D2/ATEX Switch",
+            "pictures": "http://www.oringnet.com/upload/website/products/597/middle/20151217112809_575338.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-A1062FX+Series/118",
+                "modeles": "IES-A1062FX Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-A1062GF+Series/118",
+                "modeles": "IES-A1062GF Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-A1062GT/118",
+                "modeles": "IES-A1062GT"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-A1080/118",
+                "modeles": "IES-A1080"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-A3062FX+Series/118",
+                "modeles": "IES-A3062FX Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-A3062GF+Series/118",
+                "modeles": "IES-A3062GF Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-A3080/118",
+                "modeles": "IES-A3080"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-A3162GC/118",
+                "modeles": "IES-A3162GC"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categories": "Industrial Solution - Power Sub Station",
+        "modele": [
+          {
+            "name": "IEC 61850-3 Ethernet Switch",
+            "pictures": "http://www.oringnet.com/upload/website/products/43/middle/20151214093228_136922.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-P3073GC+Series/53",
+                "modeles": "IES-P3073GC Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-P9164+Series/53",
+                "modeles": "IGS-P9164 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-P9812GP+Series/53",
+                "modeles": "IGS-P9812GP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RES-P3242GCL+Series/53",
+                "modeles": "RES-P3242GCL Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGS-P9000+SERIES/53",
+                "modeles": "RGS-P9000 SERIES"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGS-P9160GCM2+Series/53",
+                "modeles": "RGS-P9160GCM2 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGS-P9160M1+Series/53",
+                "modeles": "RGS-P9160M1 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGS-PR9000+Series/53",
+                "modeles": "RGS-PR9000 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGS-PR9000-A+Series/53",
+                "modeles": "RGS-PR9000-A Series"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categories": "Industrial Solution - PoE",
+        "modele": [
+          {
+            "name": "Rack-Mount Gigabit PoE Ethernet Switch",
+            "pictures": "http://www.oringnet.com/upload/website/products/190/middle/20151215093549_503365.jpg",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGPS-9084GP-P+Series/59",
+                "modeles": "RGPS-9084GP-P Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGPS-92222GCP-NP+Series/59",
+                "modeles": "RGPS-92222GCP-NP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGPS-R9244GP%2B+Series/59",
+                "modeles": "RGPS-R9244GP+ Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGPS-R9244GP%2BSeries/59",
+                "modeles": "RGPS-R9244GP+Series"
+              }
+            ]
+          },
+          {
+            "name": "Din-Rail Gigabit PoE Ethernet Switch",
+            "pictures": "http://www.oringnet.com/upload/website/products/217/middle/20151215111000_974964.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-1042GP+Series/60",
+                "modeles": "IGPS-1042GP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-1080+Sereis/60",
+                "modeles": "IGPS-1080 Sereis"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-1080-24V+Series/60",
+                "modeles": "IGPS-1080-24V Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-1082GP+Series/60",
+                "modeles": "IGPS-1082GP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-1411GTP++Sereis/60",
+                "modeles": "IGPS-1411GTP Sereis"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-9042GP-24V/60",
+                "modeles": "IGPS-9042GP-24V"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-9080+Series/60",
+                "modeles": "IGPS-9080 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-9842GTP+Series/60",
+                "modeles": "IGPS-9842GTP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-R9084GP/60",
+                "modeles": "IGPS-R9084GP"
+              }
+            ]
+          },
+          {
+            "name": "Din-Rail Fast PoE Ethernet Switch",
+            "pictures": "http://www.oringnet.com/upload/website/products/62/middle/20151214100757_262661.jpg",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IPS-1042F+Series/61",
+                "modeles": "IPS-1042F Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IPS-1080+Series/61",
+                "modeles": "IPS-1080 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IPS-2042+Series/61",
+                "modeles": "IPS-2042 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IPS-3082GC+Series/61",
+                "modeles": "IPS-3082GC Series"
+              }
+            ]
+          },
+          {
+            "name": "Din-Rail PoE Media Converter",
+            "pictures": "http://www.oringnet.com/upload/website/products/921/middle/20160628103029_463239.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPMC-111GP/62",
+                "modeles": "IGPMC-111GP"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IPMC-111PB/62",
+                "modeles": "IPMC-111PB"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IPMC-111PB+Series/62",
+                "modeles": "IPMC-111PB Series"
+              }
+            ]
+          },
+          {
+            "name": "24VDC Power Input Switch and Injector",
+            "pictures": "http://www.oringnet.com/upload/website/products/218/middle/20151215111337_603085.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-1042GP+Series/63",
+                "modeles": "IGPS-1042GP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-1080-24V+Series/63",
+                "modeles": "IGPS-1080-24V Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-1082GP+Series/63",
+                "modeles": "IGPS-1082GP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-1411GTP++Sereis/63",
+                "modeles": "IGPS-1411GTP Sereis"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-9042GP-24V/63",
+                "modeles": "IGPS-9042GP-24V"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-9080+Series/63",
+                "modeles": "IGPS-9080 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-9842GTP+Series/63",
+                "modeles": "IGPS-9842GTP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/INJ-102GT+Series/63",
+                "modeles": "INJ-102GT Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/INJ-102GT%2B%2B+Series/63",
+                "modeles": "INJ-102GT++ Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IPS-1042F+Series/63",
+                "modeles": "IPS-1042F Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IPS-1080+Series/63",
+                "modeles": "IPS-1080 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IPS-3082GC+Series/63",
+                "modeles": "IPS-3082GC Series"
+              }
+            ]
+          },
+          {
+            "name": "Din-Rail PoE Injector and Splitter",
+            "pictures": "http://www.oringnet.com/upload/website/products/1049/middle/20170629162314_874961.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/INJ-101GT%2B%2B-60W/120",
+                "modeles": "INJ-101GT++-60W"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/INJ-102GT+Series/120",
+                "modeles": "INJ-102GT Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/INJ-102GT%2B%2B+Series/120",
+                "modeles": "INJ-102GT++ Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/PET-102GT%2B%2B/120",
+                "modeles": "PET-102GT++"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/SPL-101GT+series/120",
+                "modeles": "SPL-101GT series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/SPL-101GT%2B%2B+series/120",
+                "modeles": "SPL-101GT++ series"
+              }
+            ]
+          },
+          {
+            "name": "EN50155 Certified Injector & Splitter",
+            "pictures": "http://www.oringnet.com/upload/website/products/620/middle/20151221092941_528316.jpg",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TINJ-101-M12+Series/121",
+                "modeles": "TINJ-101-M12 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TINJ-101GT-M12+Series/121",
+                "modeles": "TINJ-101GT-M12 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TSPL-101GT-M12+Series/121",
+                "modeles": "TSPL-101GT-M12 Series"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categories": "Management Software & Accessories",
+        "modele": null
+      },
+      {
+        "categories": "Industrial VPN Router",
+        "modele": [
+          {
+            "name": "Din-Rail VPN Router",
+            "pictures": "http://www.oringnet.com/upload/website/products/509/middle/20151216172925_738443.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGR-20+Series/90",
+                "modeles": "IGR-20 Series"
+              }
+            ]
+          },
+          {
+            "name": "Din-Rail 3.5G Cellular Router",
+            "pictures": "http://www.oringnet.com/upload/website/products/492/middle/20151216165527_418859.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IAR-142-3G+Series/89",
+                "modeles": "IAR-142-3G Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGAR-1062%2B-3G+Series/89",
+                "modeles": "IGAR-1062+-3G Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGAR-1662%2B-3G+Series/89",
+                "modeles": "IGAR-1662+-3G Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGAR-2062%2B-3G+Series/89",
+                "modeles": "IGAR-2062+-3G Series"
+              }
+            ]
+          },
+          {
+            "name": "Din-Rail 4G LTE Cellular Router",
+            "pictures": "http://www.oringnet.com/upload/website/products/511/middle/20151216173322_494707.jpg",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IAR-142-4G+Series/91",
+                "modeles": "IAR-142-4G Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGAR-1062%2B-4G+Series/91",
+                "modeles": "IGAR-1062+-4G Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGAR-2062%2B-4G+Series/91",
+                "modeles": "IGAR-2062+-4G Series"
+              }
+            ]
+          },
+          {
+            "name": "EN50155 3.5G Cellular Router",
+            "pictures": "http://www.oringnet.com/upload/website/products/1015/middle/20170330135411_698576.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TAR-620-M12-MV/92",
+                "modeles": "TAR-620-M12-MV"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TGAR-1062%2B-3GS-M12+Series/92",
+                "modeles": "TGAR-1062+-3GS-M12 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TGAR-1662%2B-3GS-M12+Series/92",
+                "modeles": "TGAR-1662+-3GS-M12 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TGAR-2062%2B-3GS-M12+Series/92",
+                "modeles": "TGAR-2062+-3GS-M12 Series"
+              }
+            ]
+          },
+          {
+            "name": "EN50155 4G LTE Cellular Router",
+            "pictures": "http://www.oringnet.com/upload/website/products/1125/middle/20170925170043_120688.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TGAR-1062%2B-4G6S-M12/94",
+                "modeles": "TGAR-1062+-4G6S-M12"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TGAR-1062%2B-4GS-M12+Series/94",
+                "modeles": "TGAR-1062+-4GS-M12 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TGAR-1662%2B-4GS-M12+Series/94",
+                "modeles": "TGAR-1662+-4GS-M12 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TGAR-2062%2B-4GS-M12+Series/94",
+                "modeles": "TGAR-2062+-4GS-M12 Series"
+              }
+            ]
+          },
+          {
+            "name": "IP-67 EN50155 3.5G Cellular Router",
+            "pictures": "http://www.oringnet.com/upload/website/products/537/middle/20151217093401_381678.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TGAR-W1061%2B-3G+Series/93",
+                "modeles": "TGAR-W1061+-3G Series"
+              }
+            ]
+          },
+          {
+            "name": "IP-67 EN50155 4G LTE Cellular Router",
+            "pictures": "http://www.oringnet.com/upload/website/products/553/middle/20151217101946_747238.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/TGAR-W1061%2B-4G+Series/95",
+                "modeles": "TGAR-W1061+-4G Series"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categories": "Industrial Ethernet Switch",
+        "modele": [
+          {
+            "name": "Rack-Mount Ethernet Switch",
+            "pictures": "http://www.oringnet.com/upload/website/products/633/middle/20151221101904_855195.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RES-1242P+Series/9",
+                "modeles": "RES-1242P Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RES-9242GC+Series/9",
+                "modeles": "RES-9242GC Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RES-P3242GCL+Series/9",
+                "modeles": "RES-P3242GCL Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGPS-9084GP-P+Series/9",
+                "modeles": "RGPS-9084GP-P Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGPS-92222GCP-NP+Series/9",
+                "modeles": "RGPS-92222GCP-NP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGPS-R9244GP%2B+Series/9",
+                "modeles": "RGPS-R9244GP+ Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGPS-R9244GP%2BSeries/9",
+                "modeles": "RGPS-R9244GP+Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGS-9168GCP+Series/9",
+                "modeles": "RGS-9168GCP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGS-92222GCP-NP+Series/9",
+                "modeles": "RGS-92222GCP-NP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGS-P9000+SERIES/9",
+                "modeles": "RGS-P9000 SERIES"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGS-P9160GCM2+Series/9",
+                "modeles": "RGS-P9160GCM2 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGS-P9160M1+Series/9",
+                "modeles": "RGS-P9160M1 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGS-PR9000+Series/9",
+                "modeles": "RGS-PR9000 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGS-PR9000-A+Series/9",
+                "modeles": "RGS-PR9000-A Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGS-R9244GP%2B+Series/9",
+                "modeles": "RGS-R9244GP+ Series"
+              }
+            ]
+          },
+          {
+            "name": "Rack-Mount Switch Modular",
+            "pictures": "http://www.oringnet.com/upload/website/products/912/middle/20160616141814_545069.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGS-P9000%2FPR9000%2FP9160+Series+Module/64",
+                "modeles": "RGS-P9000/PR9000/P9160 Series Module"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGS-PR9000-A+Series/64",
+                "modeles": "RGS-PR9000-A Series"
+              }
+            ]
+          },
+          {
+            "name": "Din-Rail Gigabit Ethernet Switch",
+            "pictures": "http://www.oringnet.com/upload/website/products/217/middle/20151215111000_974964.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-1042GP+Series/65",
+                "modeles": "IGPS-1042GP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-1080+Sereis/65",
+                "modeles": "IGPS-1080 Sereis"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-1080-24V+Series/65",
+                "modeles": "IGPS-1080-24V Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-1082GP+Series/65",
+                "modeles": "IGPS-1082GP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-1411GTP++Sereis/65",
+                "modeles": "IGPS-1411GTP Sereis"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-9042GP-24V/65",
+                "modeles": "IGPS-9042GP-24V"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-9080+Series/65",
+                "modeles": "IGPS-9080 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-9084GP+Series/65",
+                "modeles": "IGPS-9084GP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-9842GTP+Series/65",
+                "modeles": "IGPS-9842GTP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-R9084GP/65",
+                "modeles": "IGPS-R9084GP"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-1041GPA/65",
+                "modeles": "IGS-1041GPA"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-1042GPA/65",
+                "modeles": "IGS-1042GPA"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-1050A/65",
+                "modeles": "IGS-1050A"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-1080A/65",
+                "modeles": "IGS-1080A"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-1082GP/65",
+                "modeles": "IGS-1082GP"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-150B/65",
+                "modeles": "IGS-150B"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-3032GC/65",
+                "modeles": "IGS-3032GC"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-3044GC/65",
+                "modeles": "IGS-3044GC"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-9042GP/65",
+                "modeles": "IGS-9042GP"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-9080/65",
+                "modeles": "IGS-9080"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-9084+Series/65",
+                "modeles": "IGS-9084 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-9122GP/65",
+                "modeles": "IGS-9122GP"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-9122GPM/65",
+                "modeles": "IGS-9122GPM"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-9164+Series/65",
+                "modeles": "IGS-9164 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-9168GP/65",
+                "modeles": "IGS-9168GP"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-9812GP/65",
+                "modeles": "IGS-9812GP"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-9844GP+Series/65",
+                "modeles": "IGS-9844GP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-P9164+Series/65",
+                "modeles": "IGS-P9164 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-P9812GP+Series/65",
+                "modeles": "IGS-P9812GP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-R9812GP/65",
+                "modeles": "IGS-R9812GP"
+              }
+            ]
+          },
+          {
+            "name": "Din-Rail Ethernet Switch Module",
+            "pictures": "http://www.oringnet.com/upload/website/products/1116/middle/20170926172654_336143.jpg",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-9122GPM+Series/140",
+                "modeles": "IGS-9122GPM Series"
+              }
+            ]
+          },
+          {
+            "name": "Din-Rail Fast Ethernet Switch",
+            "pictures": "http://www.oringnet.com/upload/website/property/index/20140108114310_989755.jpg",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-1041FX+Series/66",
+                "modeles": "IES-1041FX Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-1042FX+Series/66",
+                "modeles": "IES-1042FX Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-1050/66",
+                "modeles": "IES-1050"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-1050A/66",
+                "modeles": "IES-1050A"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-1062FX+Series/66",
+                "modeles": "IES-1062FX Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-1062GF+Series/66",
+                "modeles": "IES-1062GF Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-1062GT/66",
+                "modeles": "IES-1062GT"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-1080/66",
+                "modeles": "IES-1080"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-1080A/66",
+                "modeles": "IES-1080A"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-1082GP/66",
+                "modeles": "IES-1082GP"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-1142P/66",
+                "modeles": "IES-1142P"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-1160/66",
+                "modeles": "IES-1160"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-1162GC/66",
+                "modeles": "IES-1162GC"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-1240/66",
+                "modeles": "IES-1240"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-150B/66",
+                "modeles": "IES-150B"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-162FX-L+Series/66",
+                "modeles": "IES-162FX-L Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-180-L/66",
+                "modeles": "IES-180-L"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-180B/66",
+                "modeles": "IES-180B"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-2042FX+Series/66",
+                "modeles": "IES-2042FX Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-2042PA/66",
+                "modeles": "IES-2042PA"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-2050-M12/66",
+                "modeles": "IES-2050-M12"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-2050A/66",
+                "modeles": "IES-2050A"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-2060/66",
+                "modeles": "IES-2060"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-3062FX+Series/66",
+                "modeles": "IES-3062FX Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-3062GF+Series/66",
+                "modeles": "IES-3062GF Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-3062GT/66",
+                "modeles": "IES-3062GT"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-3073GC/66",
+                "modeles": "IES-3073GC"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-3080/66",
+                "modeles": "IES-3080"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-3082GC/66",
+                "modeles": "IES-3082GC"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-3082GP/66",
+                "modeles": "IES-3082GP"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-3160/66",
+                "modeles": "IES-3160"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-3162GC/66",
+                "modeles": "IES-3162GC"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-3240/66",
+                "modeles": "IES-3240"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-A1062FX+Series/66",
+                "modeles": "IES-A1062FX Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-A1062GF+Series/66",
+                "modeles": "IES-A1062GF Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-A1062GT/66",
+                "modeles": "IES-A1062GT"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-A1080/66",
+                "modeles": "IES-A1080"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-A3062FX+Series/66",
+                "modeles": "IES-A3062FX Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-A3062GF+Series/66",
+                "modeles": "IES-A3062GF Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-A3062GT/66",
+                "modeles": "IES-A3062GT"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-A3080/66",
+                "modeles": "IES-A3080"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-A3162GC/66",
+                "modeles": "IES-A3162GC"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-P3073GC+Series/66",
+                "modeles": "IES-P3073GC Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IPS-1042F+Series/66",
+                "modeles": "IPS-1042F Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IPS-1080+Series/66",
+                "modeles": "IPS-1080 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IPS-2042+Series/66",
+                "modeles": "IPS-2042 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IPS-3082GC+Series/66",
+                "modeles": "IPS-3082GC Series"
+              }
+            ]
+          },
+          {
+            "name": "Din-Rail EN50155 Ethernet Switch",
+            "pictures": "http://www.oringnet.com/upload/website/products/351/middle/20151215174754_310462.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IES-3082GC/67",
+                "modeles": "IES-3082GC"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-1042GP+Series/67",
+                "modeles": "IGPS-1042GP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-9084GP+Series/67",
+                "modeles": "IGPS-9084GP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS+9084GP+Series/67",
+                "modeles": "IGS 9084GP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-3032GC/67",
+                "modeles": "IGS-3032GC"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-9084+Series/67",
+                "modeles": "IGS-9084 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-9084GP+Series/67",
+                "modeles": "IGS-9084GP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-9168GP/67",
+                "modeles": "IGS-9168GP"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-9812GP/67",
+                "modeles": "IGS-9812GP"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-9844GP+Series/67",
+                "modeles": "IGS-9844GP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-P9164+Series/67",
+                "modeles": "IGS-P9164 Series"
+              }
+            ]
+          },
+          {
+            "name": "Optical Fiber Bypass Switch",
+            "pictures": "http://www.oringnet.com/upload/website/products/352/middle/20151215175020_761198.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/DES-3082GP-AIO_S+Series/68",
+                "modeles": "DES-3082GP-AIO_S Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/DGS-9168GP-AIO_S+Series/68",
+                "modeles": "DGS-9168GP-AIO_S Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/DGS-9812GP-AIO_S+Series/68",
+                "modeles": "DGS-9812GP-AIO_S Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/DGS-R9812GP-AIO_S+Series/68",
+                "modeles": "DGS-R9812GP-AIO_S Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IBS-102FX+Series/68",
+                "modeles": "IBS-102FX Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS+9084GP+Series/68",
+                "modeles": "IGS 9084GP Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-9084GP+Series/68",
+                "modeles": "IGS-9084GP Series"
+              }
+            ]
+          },
+          {
+            "name": "Layer 3 Ethernet Switch",
+            "pictures": "http://www.oringnet.com/upload/website/products/364/middle/20151216091935_359504.png",
+            "series": [
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/DGS-R9812GP-AIO_S+Series/69",
+                "modeles": "DGS-R9812GP-AIO_S Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGPS-R9084GP/69",
+                "modeles": "IGPS-R9084GP"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/IGS-R9812GP/69",
+                "modeles": "IGS-R9812GP"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGPS-R9244GP%2B+Series/69",
+                "modeles": "RGPS-R9244GP+ Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGPS-R9244GP%2BSeries/69",
+                "modeles": "RGPS-R9244GP+Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGS-PR9000+Series/69",
+                "modeles": "RGS-PR9000 Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGS-PR9000-A+Series/69",
+                "modeles": "RGS-PR9000-A Series"
+              },
+              {
+                "liens": "http://www.oringnet.com/en-global/products/series/RGS-R9244GP%2B+Series/69",
+                "modeles": "RGS-R9244GP+ Series"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, {
+    "partenaireID": 11,
+    "partenaireName": "oteksys",
+    "partenaireUrl": "",
+    "partImgUrl": "../../assets/img/partenaire/oteksys-business-logo.jpg",
+    "partCat": [],
+    "partPrd": []
+  }, {
+    "partenaireID": 12,
+    "partenaireName": "posiflex",
+    "partenaireUrl": "",
+    "partImgUrl": "../../assets/img/partenaire/posiflex-business-logo.png",
+    "partCat": [],
+    "partPrd": []
+  }, {
+    "partenaireID": 13,
+    "partenaireName": "congatec",
+    "partenaireUrl": "",
+    "partImgUrl": "../../assets/img/partenaire/congatec-business-logo.png",
+    "partCat": [],
+    "partPrd": []
+  }, {
+    "partenaireID": 14,
+    "partenaireName": "sii",
+    "partenaireUrl": "",
+    "partImgUrl": "../../assets/img/partenaire/sii-business-logo.png",
+    "partCat": [],
+    "partPrd": []
+  }, {
+    "partenaireID": 15,
+    "partenaireName": "sintrones",
+    "partenaireUrl": "",
+    "partImgUrl": "../../assets/img/partenaire/sintrones-business-logo.png",
+    "partCat": [],
+    "partPrd": []
+  }, {
+    "partenaireID": 16,
+    "partenaireName": "sunhillo",
+    "partenaireUrl": "",
+    "partImgUrl": "../../assets/img/partenaire/sunhillo-business-logo.png",
+    "partCat": [],
+    "partPrd": []
+  }
+]
