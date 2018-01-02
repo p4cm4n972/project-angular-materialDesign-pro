@@ -29,30 +29,18 @@
         <!--Back Side-->
         <div class="face back tp-box_side tp-box_back">
             <!--Title-->
-            <h4 class="card-title">Social shares <i class="fa fa-close rotate-btn" (click)="card.toggle()"></i></h4>
+            <h4 class="card-title">Voir site <i class="fa fa-close rotate-btn" (click)="card.toggle()"></i></h4>
             <hr>
 
-            <!--Social Icons-->
-            <ul class="inline-ul">
-                <li><a class="btn-floating btn-small btn-fb waves-light" mdbRippleRadius><i class="fa fa-facebook"> </i></a></li>
-                <li><a class="btn-floating btn-small btn-tw waves-light" mdbRippleRadius><i class="fa fa-twitter"> </i></a></li>
-                <li><a class="btn-floating btn-small btn-gplus waves-light" mdbRippleRadius><i class="fa fa-google-plus"> </i></a></li>
-                <li><a class="btn-floating btn-small btn-li waves-light" mdbRippleRadius><i class="fa fa-linkedin"> </i></a></li>
-                <li><a class="btn-floating btn-small btn-git waves-light" mdbRippleRadius><i class="fa fa-github"> </i></a></li>
-                <li><a class="btn-floating btn-small btn-pin waves-light" mdbRippleRadius><i class="fa fa-pinterest"> </i></a></li>
-                <li><a class="btn-floating btn-small btn-ins waves-light" mdbRippleRadius><i class="fa fa-instagram"> </i></a></li>
-            </ul>
+            <!--link Icons-->
+            <a class="btn-floating btn-lg purple-gradient waves-light" mdbRippleRadius><i class="fa fa-link"> </i></a>
+                
 
-            <h5>Join our community</h5>
+            <h5>{{part.partenaireName}}</h5>
             <hr>
 
-            <!--Social Icons-->
-            <ul class="inline-ul">
-                <li><a class="btn btn-fb waves-light" mdbRippleRadius><i class="fa fa-facebook"> </i></a></li>
-                <li><a class="btn btn-tw waves-light" mdbRippleRadius><i class="fa fa-twitter"> </i></a></li>
-                <li><a class="btn btn-li waves-light" mdbRippleRadius><i class="fa fa-linkedin"> </i></a></li>
-                <li><a class="btn btn-ins waves-light" mdbRippleRadius><i class="fa fa-instagram"> </i></a></li>
-            </ul>
+            
+            <p>{{part.partDetail}}</p>
             
 
         </div>
