@@ -1,9 +1,10 @@
 <div class="container">
-  <button class="btn aqua-gradient btn-rounded waves-light" mdbRippleRadius (click)='onBack()'>
+  <button class="btn blue darken-2 btn-rounded waves-light" mdbRippleRadius (click)='onBack()'>
     <i class="fa fa-chevron-circle-left" aria-hidden="true"></i>
   </button>
   <div class="row" *ngIf="ref">
     <div class="col-md-12">
+
       <div class="card  blue darken-4 text-center z-depth-2">
         <div class="card-body">
           <p class="white-text mb-0">{{ref}}</p>
@@ -11,10 +12,9 @@
       </div>
     </div>
   </div>
-  <div class="row" *ngIf="produit.productSeller === ref">
-    <div class="col-md-3" *ngFor="let produit of produit.categorieProduit  | alphaList:'productName' ">
+  <div class="row">
       <!--Card-->
-      <div class="card card-cascade narrower" >
+      <div class="card card-cascade narrower col-md-3 mx-20" *ngFor="let produit of produit.categorieProduit | alphaList:'productName' ">
         <!--Card image-->
         <div class="view overlay hm-white-slight waves-light" mdbRippleRadius>
           <img [src]="produit.productImg" class="img-fluid mx-auto" alt="" style="max-height:150px">
@@ -44,7 +44,6 @@
 
       </div>
       <!--Card image-->
-    </div>
     <!--/.Card-->
   </div>
 </div>

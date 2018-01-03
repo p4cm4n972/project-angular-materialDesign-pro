@@ -14,12 +14,12 @@ export class ProduitSellerComponent implements OnInit {
   errorMessage: string;
   produit;
   ref;
+
   constructor(private _route: ActivatedRoute,
     private _router: Router,
     private _produitService: ProduitService,
     private location: Location) {
     this.ref = (this._route.snapshot.paramMap.get('ref')).toUpperCase();
-    console.log(this.ref);
   }
 
   ngOnInit() {
