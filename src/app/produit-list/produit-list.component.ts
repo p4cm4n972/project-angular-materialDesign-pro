@@ -30,7 +30,7 @@ export class ProduitListComponent implements OnInit {
   }
   getProduitList(id: string) {
     this._produitService.getProduitList(id).subscribe(
-      produit => this.produit = produit.categorieProduit,
+      produit => this.produit = produit,
       error => this.errorMessage = <any>error);
   }
     onBack(): void {

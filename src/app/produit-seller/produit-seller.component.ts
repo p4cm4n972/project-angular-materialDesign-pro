@@ -13,20 +13,23 @@ import { IProduit } from '../produit/mock-produit';
 export class ProduitSellerComponent implements OnInit {
   errorMessage: string;
   produit;
-  constructor( private _route: ActivatedRoute,
+  ref;
+  constructor(private _route: ActivatedRoute,
     private _router: Router,
     private _produitService: ProduitService,
-    private location: Location) { }
+    private location: Location) {
+    this.ref = (this._route.snapshot.paramMap.get('ref')).toUpperCase();
+    console.log(this.ref);
+  }
 
   ngOnInit() {
-    let id = this._route.snapshot.paramMap.get('id');
-    console.log(id);
+    const id = this._route.snapshot.paramMap.get('id');
     this.getProduitSeller(id);
   }
   getProduitSeller(id: string) {
-    this._produitService.getProduitSeller(id )
-    .subscribe(produit => this.produit = produit,
-    error => this.errorMessage = <any>error);
+    this._produitService.getProduitSeller(id)
+      .subscribe(produit => this.produit = produit,
+      error => this.errorMessage = <any>error);
   }
   onBack(): void {
     this.location.back();

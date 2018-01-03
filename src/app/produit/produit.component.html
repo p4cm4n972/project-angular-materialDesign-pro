@@ -9,7 +9,7 @@
             <br>
   <div class="row" *ngIf='produit && produit.length'>
     <!--Card-->
-    <div class="card card col-md-3 col-lg-3  mx-auto animated slideInUp"   *ngFor="let cat of filteredProducts">
+    <div class="card card col-md-3 col-lg-3  mx-auto animated slideInUp"   *ngFor="let cat of filteredProducts | alphaList: 'categorieName'">
 
         <!--Card image-->
         <div class="view overlay hm-white-slight waves-light view hm-zoom" mdbRippleRadius>
