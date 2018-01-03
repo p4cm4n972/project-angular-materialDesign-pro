@@ -14,7 +14,7 @@
   </div>
   <div class="row">
       <!--Card-->
-      <div class="card card-cascade narrower col-md-3 mx-20" *ngFor="let produit of produit.categorieProduit | alphaList:'productName' | filter:ref ">
+      <div class="card card-cascade narrower col-md-3 mx-20" *ngFor="let produit of produit | alphaList:'productName' | filter:ref ">
         <!--Card image-->
         <div class="view overlay hm-white-slight waves-light" mdbRippleRadius>
           <img [src]="produit.productImg" class="img-fluid mx-auto" alt="" style="max-height:150px">

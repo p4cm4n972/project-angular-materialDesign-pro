@@ -30,7 +30,7 @@ export class ProduitSellerComponent implements OnInit {
   }
   getProduitSeller(id: string) {
     this._produitService.getProduitSeller(id)
-      .subscribe(produit => this.produit = produit,
+      .subscribe(produit => this.produit = produit.categorieProduit,
       error => this.errorMessage = <any>error);
   }
   onBack(): void {

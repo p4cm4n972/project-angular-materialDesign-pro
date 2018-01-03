@@ -18,10 +18,13 @@ import { IProduit } from '../produit/mock-produit';
 export class ProduitListComponent implements OnInit {
   errorMessage: string;
   produit;
+  cat;
   constructor( private _route: ActivatedRoute,
     private _router: Router,
     private _produitService: ProduitService,
-    private location: Location ) { }
+    private location: Location ) {
+    this.cat = this._route.snapshot.paramMap.get('id'); 
+    }
 
   ngOnInit() {
     console.log('INIT detail');

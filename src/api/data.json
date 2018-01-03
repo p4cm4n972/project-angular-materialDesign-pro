@@ -531,7 +531,7 @@
       "productName": "Industrial Ethernet Switch",
       "productImg": "./assets/img/produit/solution-reseau/industrial-ethernet-switch.png",
       "productUrl": "http://www.oringnet.com/en-global/products/category/1",
-      "productSellerImg":"",
+      "productSellerImg":"../../assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
@@ -541,7 +541,7 @@
       "productName": "Desktop Ethernet Switch",
       "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
       "productUrl": "http://www.oringnet.com/en-global/products/category/110",
-      "productSellerImg":"",
+      "productSellerImg":"../../assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
@@ -551,7 +551,7 @@
       "productName": "Card-Type Ethernet Switch",
       "productImg": "./assets/img/produit/solution-reseau/card-type-ethernet-switch.png",
       "productUrl": "http://www.oringnet.com/en-global/products/category/106",
-      "productSellerImg":"",
+      "productSellerImg":"../../assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
@@ -561,7 +561,7 @@
       "productName": "Industrial Media Converter",
       "productImg": "./assets/img/produit/solution-reseau/industrial-media-converter.png",
       "productUrl": "http://www.oringnet.com/en-global/products/category/70",
-      "productSellerImg":"",
+      "productSellerImg":"../../assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
@@ -571,7 +571,7 @@
       "productName": "Industrial Serial Products",
       "productImg": "./assets/img/produit/solution-reseau/industrial-serial-product.png",
       "productUrl": "http://www.oringnet.com/en-global/products/category/78",
-      "productSellerImg":"",
+      "productSellerImg":"../../assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
@@ -581,7 +581,7 @@
       "productName": "Industrial Wireless Access Point",
       "productImg": "./assets/img/produit/solution-reseau/industrial-wireless-access-point.png",
       "productUrl": "http://www.oringnet.com/en-global/products/category/84",
-      "productSellerImg":"",
+      "productSellerImg":"../../assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
@@ -591,7 +591,7 @@
       "productName": "Industrial VPN Router",
       "productImg": "./assets/img/produit/solution-reseau/industrial-vpn-router.png",
       "productUrl": "http://www.oringnet.com/en-global/products/category/88",
-      "productSellerImg":"",
+      "productSellerImg":"../../assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
@@ -601,7 +601,7 @@
       "productName": "Industrial M2M Gateway",
       "productImg": "./assets/img/produit/solution-reseau/industrial-m2m-gateway.jpg",
       "productUrl": "http://www.oringnet.com/en-global/products/category/96",
-      "productSellerImg":"",
+      "productSellerImg":"../../assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
@@ -611,7 +611,7 @@
       "productName": "Industrial Solution Railway",
       "productImg": "./assets/img/produit/solution-reseau/industrial-solution-railway.png",
       "productUrl": "http://www.oringnet.com/en-global/products/category/54",
-      "productSellerImg":"",
+      "productSellerImg":"../../assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
@@ -621,7 +621,7 @@
       "productName": "Industrial Solution Oil and Gas",
       "productImg": "./assets/img/produit/solution-reseau/industrial-solution-oil-gas.png",
       "productUrl": "http://www.oringnet.com/en-global/products/category/117",
-      "productSellerImg":"",
+      "productSellerImg":"../../assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
@@ -629,130 +629,120 @@
       }]
     },{
       "productName": "Industrial Solution Power Sub Station",
-      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
+      "productImg": "./assets/img/produit/solution-reseau/industrial-solution-power-sub-station.jpg",
       "productUrl": "http://www.oringnet.com/en-global/products/category/52",
-      "productSellerImg":"",
+      "productSellerImg":"../../assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
       }]
     },{
-      "productName": "Card-Type Ethernet Switch",
-      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
-      "productUrl": "http://www.oringnet.com/en-global/products/category/106",
-      "productSellerImg":"",
+      "productName": "Industrial Solution - PoE",
+      "productImg": "./assets/img/produit/solution-reseau/industrial-solution-poe.png",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/58",
+      "productSellerImg":"../../assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
       }]
     },{
-      "productName": "Card-Type Ethernet Switch",
-      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
-      "productUrl": "http://www.oringnet.com/en-global/products/category/106",
-      "productSellerImg":"",
+      "productName": "Management Software & Accessoiries",
+      "productImg": "./assets/img/produit/solution-reseau/management-software-accessories.jpg",
+      "productUrl": "http://www.oringnet.com/en-global/products/category/98",
+      "productSellerImg":"../../assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
       }]
     },{
-      "productName": "Card-Type Ethernet Switch",
-      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
-      "productUrl": "http://www.oringnet.com/en-global/products/category/106",
-      "productSellerImg":"",
-      "productSeller": "ORING",
+      "productName": "RICI 5000",
+      "productImg": "./assets/img/produit/solution-reseau/rici-5000.png",
+      "productUrl": "https://www.sunhillo.com/rici-5000.html",
+      "productSellerImg":"../../assets/img/partenaire/sunhillo.png",
+      "productSeller": "sunhillo",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
       }]
     },{
-      "productName": "Card-Type Ethernet Switch",
-      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
-      "productUrl": "http://www.oringnet.com/en-global/products/category/106",
-      "productSellerImg":"",
-      "productSeller": "ORING",
+      "productName": "RICI 5000 Gateway",
+      "productImg": "./assets/img/produit/solution-reseau/rici-5000-gateway.png",
+      "productUrl": "https://www.sunhillo.com/rici-5000-gateway.html",
+      "productSellerImg":"../../assets/img/partenaire/sunhillo.png",
+      "productSeller": "sunhillo",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
       }]
     },{
-      "productName": "Card-Type Ethernet Switch",
-      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
-      "productUrl": "http://www.oringnet.com/en-global/products/category/106",
-      "productSellerImg":"",
-      "productSeller": "ORING",
+      "productName": "MPS WAN Software",
+      "productImg": "./assets/img/produit/solution-reseau/mps-wan-software.gif",
+      "productUrl": "https://www.sunhillo.com/wan-software.html",
+      "productSellerImg":"../../assets/img/partenaire/sunhillo.png",
+      "productSeller": "sunhillo",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
       }]
     },{
-      "productName": "Card-Type Ethernet Switch",
-      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
-      "productUrl": "http://www.oringnet.com/en-global/products/category/106",
-      "productSellerImg":"",
-      "productSeller": "ORING",
+      "productName": "PCI334A",
+      "productImg": "./assets/img/produit/solution-reseau/pci-334-a.jpg",
+      "productUrl": "https://www.sunhillo.com/pci334a.html",
+      "productSellerImg":"../../assets/img/partenaire/sunhillo.png",
+      "productSeller": "sunhillo",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
       }]
     },{
-      "productName": "Card-Type Ethernet Switch",
-      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
-      "productUrl": "http://www.oringnet.com/en-global/products/category/106",
-      "productSellerImg":"",
-      "productSeller": "ORING",
+      "productName": "PCE335",
+      "productImg": "./assets/img/produit/solution-reseau/pce-335.jpg",
+      "productUrl": "https://www.sunhillo.com/pce335.html",
+      "productSellerImg":"../../assets/img/partenaire/sunhillo.png",
+      "productSeller": "sunhillo",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
       }]
     },{
-      "productName": "Card-Type Ethernet Switch",
-      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
-      "productUrl": "http://www.oringnet.com/en-global/products/category/106",
-      "productSellerImg":"",
-      "productSeller": "ORING",
+      "productName": "Ventnor Multi-Protocol Data Distribution Server",
+      "productImg": "./assets/img/produit/solution-reseau/ventnor.jpg",
+      "productUrl": "https://www.sunhillo.com/ventnor.html",
+      "productSellerImg":"../../assets/img/partenaire/sunhillo.png",
+      "productSeller": "sunhillo",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
       }]
     },{
-      "productName": "Card-Type Ethernet Switch",
-      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
-      "productUrl": "http://www.oringnet.com/en-global/products/category/106",
-      "productSellerImg":"",
-      "productSeller": "ORING",
+      "productName": "Industrial Networks",
+      "productImg": "./assets/img/produit/solution-reseau/industrial-network.jpg",
+      "productUrl": "https://www.mpl.ch/t2500.html",
+      "productSellerImg":"../../assets/img/partenaire/mpl.png",
+      "productSeller": "mpl",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
       }]
     },{
-      "productName": "Card-Type Ethernet Switch",
-      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
-      "productUrl": "http://www.oringnet.com/en-global/products/category/106",
-      "productSellerImg":"",
-      "productSeller": "ORING",
+      "productName": "Fanless Panel Computers",
+      "productImg": "./assets/img/produit/solution-reseau/fanless-panel-computers.jpg",
+      "productUrl": "https://www.mpl.ch/t2914.html",
+      "productSellerImg":"../../assets/img/partenaire/mpl.png",
+      "productSeller": "mpl",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
       }]
     },{
-      "productName": "Card-Type Ethernet Switch",
-      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
-      "productUrl": "http://www.oringnet.com/en-global/products/category/106",
-      "productSellerImg":"",
-      "productSeller": "ORING",
-      "modele": [{
-        "modeleName": "",
-        "modeleLink": ""
-      }]
-    },{
-      "productName": "Card-Type Ethernet Switch",
-      "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
-      "productUrl": "http://www.oringnet.com/en-global/products/category/106",
-      "productSellerImg":"",
-      "productSeller": "ORING",
+      "productName": "Open Frame CPU Boards",
+      "productImg": "./assets/img/produit/solution-reseau/open-frame-cpu-boards.jpg",
+      "productUrl": "https://www.mpl.ch/t2700.html",
+      "productSellerImg":"../../assets/img/partenaire/mpl.png",
+      "productSeller": "mpl",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
