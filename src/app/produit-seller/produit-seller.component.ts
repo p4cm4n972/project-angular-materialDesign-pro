@@ -3,12 +3,14 @@ import { ActivatedRoute, Router } from '@angular/router';
 import { ProduitService } from '../produit.service';
 import { Location } from '@angular/common';
 
+import { FilterPipe } from '../filter.pipe';
+
 import { IProduit } from '../produit/mock-produit';
 
 @Component({
   selector: 'app-produit-seller',
   templateUrl: './produit-seller.component.html',
-  styleUrls: ['./produit-seller.component.scss']
+  styleUrls: ['./produit-seller.component.scss'],
 })
 export class ProduitSellerComponent implements OnInit {
   errorMessage: string;
