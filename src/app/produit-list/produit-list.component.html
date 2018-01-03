@@ -3,7 +3,7 @@
 
         <div class="row">
           <!--Card-->
-          <div class="card card-cascade col-md-3 mx-20" *ngFor="let produit of produit   | alphaList">
+          <div class="card card-cascade col-md-3 mx-20" *ngFor="let produit of produit   | alphaList: 'productName'">
       
               <!--Card image-->
               <div class="view overlay hm-white-slight waves-light" mdbRippleRadius>

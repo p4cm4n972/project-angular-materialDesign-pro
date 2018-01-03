@@ -10,6 +10,10 @@ import { FormsModule } from '@angular/forms';
 import { MDBBootstrapModules } from 'ng-mdb-pro';
 import { MDBSpinningPreloader } from 'ng-mdb-pro';
 import { NO_ERRORS_SCHEMA } from '@angular/core';
+/**
+ * maps
+ */
+import { AgmCoreModule } from '@agm/core';
 
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
@@ -46,7 +50,8 @@ import { AlphaListPipe } from './alpha-list.pipe';
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
-    FormsModule
+    FormsModule,
+    AgmCoreModule.forRoot({ apiKey: 'AIzaSyCDdpEMrPBfkMCzWG13okTIdXxdUjafjek' })
   ],
   providers: [MDBSpinningPreloader, ProduitService, PartenaireService],
   schemas: [ NO_ERRORS_SCHEMA ],

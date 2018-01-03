@@ -16,7 +16,7 @@
 
             <!--Content-->
             <div class="content">
-                <h4>{{part.partenaireName}}</h4>
+                <h4>{{part.partenaireName | uppercase }}</h4>
                 <a class="rotate-btn" data-card="card-2" (click)="card.toggle()"><i class="fa fa-chevron-right"></i></a>
                 <hr>
                 <p>{{part.partDetail}}</p>

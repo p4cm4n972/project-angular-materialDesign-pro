@@ -4,7 +4,7 @@
   "license": "MIT",
   "engines": {
     "node": "8.7.0",
-    "npm":"5.5.1"
+    "npm": "5.5.1"
   },
   "scripts": {
     "ng": "ng",
@@ -17,6 +17,7 @@
   },
   "private": true,
   "dependencies": {
+    "@agm/core": "^1.0.0-beta.2",
     "@angular/animations": "^5.0.0",
     "@angular/cli": "1.5.2",
     "@angular/common": "^5.0.0",
@@ -37,9 +38,8 @@
     "ng-mdb-pro": "git+https://oauth2:eUyYrhxwztUMxvnByNXy@git.mdbootstrap.com/mdb/angular/ng-pro.git",
     "rxjs": "^5.5.2",
     "screenfull": "^3.3.0",
-    "zone.js": "^0.8.14",
-    "typescript": "~2.4.2"
-    
+    "typescript": "~2.4.2",
+    "zone.js": "^0.8.14"
   },
   "devDependencies": {
     "@angular/cli": "1.5.2",
