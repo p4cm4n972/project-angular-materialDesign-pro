@@ -322,7 +322,7 @@
         "productName": "Embedded Board",
         "productImg": "./assets/img/produit/pc-embarque/embedded-board.jpg",
         "productUrl": "http://www.nexcom.com/Products/multi-media-solutions/digital-signage-player",
-        "productSellerImg":"",
+        "productSellerImg":"../../assets/img/partenaire/sintrones.png",
         "productSeller": "SINTRONES",
         "modele": [{
           "modeleName": "SMB-2600",
@@ -332,7 +332,7 @@
         "productName": "Fanless Box Computer",
         "productImg": "./assets/img/produit/pc-embarque/fanless-box-computer.jpg",
         "productUrl": "http://www.nexcom.com/Products/multi-media-solutions/digital-signage-player",
-        "productSellerImg":"",
+        "productSellerImg":"../../assets/img/partenaire/sintrones.png",
         "productSeller": "SINTRONES",
         "modele": [{
           "modeleName": "ABOX-5000P",
@@ -342,7 +342,7 @@
         "productName": "In-vehicle Computer",
         "productImg": "./assets/img/produit/pc-embarque/in-vehicle-computer.jpg",
         "productUrl": "http://www.sintrones.com/in-vehicle-computer.html",
-        "productSellerImg":"",
+        "productSellerImg":"../../assets/img/partenaire/sintrones.png",
         "productSeller": "SINTRONES",
         "modele": [{
           "modeleName": "",
@@ -352,7 +352,7 @@
         "productName": "CAN Bus Module",
         "productImg": "./assets/img/produit/pc-embarque/CAN-bus-module.jpg",
         "productUrl": "http://www.sintrones.com/can-bus-module.html",
-        "productSellerImg":"",
+        "productSellerImg":"../../assets/img/partenaire/sintrones.png",
         "productSeller": "SINTRONES",
         "modele": [{
           "modeleName": "VDB-120",
@@ -365,7 +365,7 @@
         "productName": "GPS Module",
         "productImg": "./assets/img/produit/pc-embarque/GPS-module.jpg",
         "productUrl": "hhttp://www.sintrones.com/gps-module.html",
-        "productSellerImg":"",
+        "productSellerImg":"../../assets/img/partenaire/sintrones.png",
         "productSeller": "SINTRONES",
         "modele": [{
           "modeleName": "",
@@ -375,7 +375,7 @@
         "productName": "Video Capture Card",
         "productImg": "./assets/img/produit/pc-embarque/video-capture.jpg",
         "productUrl": "http://www.sintrones.com/video-capture-card.html",
-        "productSellerImg":"",
+        "productSellerImg":"../../assets/img/partenaire/sintrones.png",
         "productSeller": "SINTRONES",
         "modele": [{
           "modeleName": "",
@@ -385,7 +385,7 @@
         "productName": "Rugged Industrial Computers",
         "productImg": "./assets/img/produit/pc-embarque/rugged-industrial-computer.jpg",
         "productUrl": "https://www.mpl.ch/t2400.html",
-        "productSellerImg":"",
+        "productSellerImg":"../../assets/img/partenaire/mpl.png",
         "productSeller": "MPL",
         "modele": [{
           "modeleName": "",
@@ -395,7 +395,7 @@
         "productName": "Compact Embedded Computer",
         "productImg": "./assets/img/produit/pc-embarque/compact-embedded-computer.jpg",
         "productUrl": "https://www.mpl.ch/t2601.html",
-        "productSellerImg":"",
+        "productSellerImg":"../../assets/img/partenaire/mpl.png",
         "productSeller": "MPL",
         "modele": [{
           "modeleName": "",
@@ -405,7 +405,7 @@
         "productName": "Rugged Embedded Server",
         "productImg": "./assets/img/produit/pc-embarque/rugged-embedded-server.jpg",
         "productUrl": "https://www.mpl.ch/t5010.html",
-        "productSellerImg":"",
+        "productSellerImg":"../../assets/img/partenaire/mpl.png",
         "productSeller": "MPL",
         "modele": [{
           "modeleName": "",
@@ -499,7 +499,7 @@
       "productName": "Industrial Touch Monitor",
       "productImg": "./assets/img/produit/moniteur-industriel/industrial-touch-monitor.jpg",
       "productUrl": "http://www.cincoze.com/goods_catalog.php?cid=29",
-      "productSellerImg":"",
+      "productSellerImg":"../../assets/img/partenaire/cincoze.png",
       "productSeller": "CINCOZE",
       "modele": [{
         "modeleName": "",
@@ -662,7 +662,7 @@
       "productImg": "./assets/img/produit/solution-reseau/rici-5000.png",
       "productUrl": "https://www.sunhillo.com/rici-5000.html",
       "productSellerImg":"../../assets/img/partenaire/sunhillo.png",
-      "productSeller": "sunhillo",
+      "productSeller": "SUNHILLO",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
@@ -672,7 +672,7 @@
       "productImg": "./assets/img/produit/solution-reseau/rici-5000-gateway.png",
       "productUrl": "https://www.sunhillo.com/rici-5000-gateway.html",
       "productSellerImg":"../../assets/img/partenaire/sunhillo.png",
-      "productSeller": "sunhillo",
+      "productSeller": "SUNHILLO",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
@@ -682,7 +682,7 @@
       "productImg": "./assets/img/produit/solution-reseau/mps-wan-software.gif",
       "productUrl": "https://www.sunhillo.com/wan-software.html",
       "productSellerImg":"../../assets/img/partenaire/sunhillo.png",
-      "productSeller": "sunhillo",
+      "productSeller": "SUNHILLO",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
@@ -692,7 +692,7 @@
       "productImg": "./assets/img/produit/solution-reseau/pci-334-a.jpg",
       "productUrl": "https://www.sunhillo.com/pci334a.html",
       "productSellerImg":"../../assets/img/partenaire/sunhillo.png",
-      "productSeller": "sunhillo",
+      "productSeller": "SUNHILLO",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
@@ -702,7 +702,7 @@
       "productImg": "./assets/img/produit/solution-reseau/pce-335.jpg",
       "productUrl": "https://www.sunhillo.com/pce335.html",
       "productSellerImg":"../../assets/img/partenaire/sunhillo.png",
-      "productSeller": "sunhillo",
+      "productSeller": "SUNHILLO",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
@@ -712,7 +712,7 @@
       "productImg": "./assets/img/produit/solution-reseau/ventnor.jpg",
       "productUrl": "https://www.sunhillo.com/ventnor.html",
       "productSellerImg":"../../assets/img/partenaire/sunhillo.png",
-      "productSeller": "sunhillo",
+      "productSeller": "SUNHILLO",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
@@ -722,7 +722,7 @@
       "productImg": "./assets/img/produit/solution-reseau/industrial-network.jpg",
       "productUrl": "https://www.mpl.ch/t2500.html",
       "productSellerImg":"../../assets/img/partenaire/mpl.png",
-      "productSeller": "mpl",
+      "productSeller": "MPL",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
@@ -732,7 +732,7 @@
       "productImg": "./assets/img/produit/solution-reseau/fanless-panel-computers.jpg",
       "productUrl": "https://www.mpl.ch/t2914.html",
       "productSellerImg":"../../assets/img/partenaire/mpl.png",
-      "productSeller": "mpl",
+      "productSeller": "MPL",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
@@ -742,7 +742,7 @@
       "productImg": "./assets/img/produit/solution-reseau/open-frame-cpu-boards.jpg",
       "productUrl": "https://www.mpl.ch/t2700.html",
       "productSellerImg":"../../assets/img/partenaire/mpl.png",
-      "productSeller": "mpl",
+      "productSeller": "MPL",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
@@ -1177,13 +1177,23 @@
     "categorieSecteur":"Interfaces & Système d'affichage",
     "categorieName": "Moniteurs et ordinateurs tactiles",
     "categorieImg": "./assets/img/produit/moniteur-ordinateur-tactile.png",
-    "categorieUrl": "moniteur-industriel",
+    "categorieUrl": "moniteur-ordinateur-tactile",
+    "categorieSeller": [{
+      "sellerName": "oteksys",
+      "sellerUrl": "../assets/img/partenaire/oteksys.png",
+      "sellerPage": "oteksys"
+    },
+    {
+      "sellerName": "elo",
+      "sellerUrl": "../../assets/img/partenaire/elo.png",
+      "sellerPage": "elo"
+    }],
     "categorieProduit": [{
-      "productName": "Industrial Touch Monitor",
+      "productName": "M354",
       "productImg": "./assets/img/produit/moniteur-industriel/industrial-touch-monitor.jpg",
-      "productUrl": "http://www.cincoze.com/goods_catalog.php?cid=29",
-      "productSellerImg":"",
-      "productSeller": "CINCOZE",
+      "productUrl": "",
+      "productSellerImg":"../../assets/img/partenaire/oteksys.png",
+      "productSeller": "OTEKSYS",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
@@ -1194,13 +1204,108 @@
     "categorieSecteur":"Interfaces & Système d'affichage",
     "categorieName": "Terminaux et périphériques point de ventes",
     "categorieImg": "./assets/img/produit/terminaux-point-de-vente.jpg",
-    "categorieUrl": "moniteur-industriel",
+    "categorieUrl": "terminaux-peripherique-point-de-vente",
+    "categorieSeller": [{
+      "sellerName": "posiflex",
+      "sellerUrl": "../assets/img/partenaire/posiflex.png",
+      "sellerPage": "posiflex"
+    },
+    {
+      "sellerName": "sii",
+      "sellerUrl": "../../assets/img/partenaire/sii.png",
+      "sellerPage": "sii"
+    },{
+      "sellerName": "epson",
+      "sellerUrl": "../../assets/img/partenaire/epson.png",
+      "sellerPage": "epson"
+    }],
     "categorieProduit": [{
-      "productName": "Industrial Touch Monitor",
-      "productImg": "./assets/img/produit/moniteur-industriel/industrial-touch-monitor.jpg",
-      "productUrl": "http://www.cincoze.com/goods_catalog.php?cid=29",
-      "productSellerImg":"",
-      "productSeller": "CINCOZE",
+      "productName": "Mobile POS",
+      "productImg": "./assets/img/produit/teminaux-point-de-vente/mobile-pos.jpg",
+      "productUrl": "http://www.posiflex.com/en-global/product/index/mobile-pos",
+      "productSellerImg":"../../assets/img/partenaire/posiflex.png",
+      "productSeller": "POSIFLEX",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "POS Terminal",
+      "productImg": "./assets/img/produit/teminaux-point-de-vente/pos-terminal.jpg",
+      "productUrl": "http://www.posiflex.com/en-global/product/index/pos-terminal",
+      "productSellerImg":"../../assets/img/partenaire/posiflex.png",
+      "productSeller": "POSIFLEX",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "All In One POS",
+      "productImg": "./assets/img/produit/teminaux-point-de-vente/all-in-one-pos.jpg",
+      "productUrl": "http://www.posiflex.com/en-global/product/index/all-in-one",
+      "productSellerImg":"../../assets/img/partenaire/posiflex.png",
+      "productSeller": "POSIFLEX",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },
+    {
+      "productName": "POS Box",
+      "productImg": "./assets/img/produit/teminaux-point-de-vente/pos-box.jpg",
+      "productUrl": "http://www.posiflex.com/en-global/product/index/POS-Box",
+      "productSellerImg":"../../assets/img/partenaire/posiflex.png",
+      "productSeller": "POSIFLEX",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "POS Monitor",
+      "productImg": "./assets/img/produit/teminaux-point-de-vente/pos-monitor.jpg",
+      "productUrl": "http://www.posiflex.com/en-global/product/index/POS-Monitor",
+      "productSellerImg":"../../assets/img/partenaire/posiflex.png",
+      "productSeller": "POSIFLEX",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Line Display",
+      "productImg": "./assets/img/produit/teminaux-point-de-vente/line-display.jpg",
+      "productUrl": "http://www.posiflex.com/en-global/product/index/Line-Display",
+      "productSellerImg":"../../assets/img/partenaire/posiflex.png",
+      "productSeller": "POSIFLEX",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Cash Drawer",
+      "productImg": "./assets/img/produit/teminaux-point-de-vente/cash-drawer.jpg",
+      "productUrl": "http://www.posiflex.com/en-global/product/index/Cash-Drawerx",
+      "productSellerImg":"../../assets/img/partenaire/posiflex.png",
+      "productSeller": "POSIFLEX",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "RP-D10 Bluetooth model",
+      "productImg": "./assets/img/produit/teminaux-point-de-vente/pos-box.jpg",
+      "productUrl": "http://www.posiflex.com/en-global/product/index/POS-Box",
+      "productSellerImg":"../../assets/img/partenaire/posiflex.png",
+      "productSeller": "POSIFLEX",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "MSR",
+      "productImg": "./assets/img/produit/teminaux-point-de-vente/msr.jpg",
+      "productUrl": "http://www.posiflex.com/en-global/product/index/MSR",
+      "productSellerImg":"../../assets/img/partenaire/posiflex.png",
+      "productSeller": "POSIFLEX",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
@@ -1211,13 +1316,72 @@
     "categorieSecteur":"Interfaces & Système d'affichage",
     "categorieName": "Imprimante thermique kiosque et mobile",
     "categorieImg": "./assets/img/produit/imprimante-thermique-mobile.jpg",
-    "categorieUrl": "moniteur-industriel",
+    "categorieUrl": "imprimante",
+    "categorieSeller": [{
+      "sellerName": "zebra",
+      "sellerUrl": "../assets/img/partenaire/zebra.png",
+      "sellerPage": "zebra"
+    },{
+      "sellerName": "sii",
+      "sellerUrl": "../assets/img/partenaire/sii.png",
+      "sellerPage": "sii"
+    }],
     "categorieProduit": [{
-      "productName": "Industrial Touch Monitor",
-      "productImg": "./assets/img/produit/moniteur-industriel/industrial-touch-monitor.jpg",
-      "productUrl": "http://www.cincoze.com/goods_catalog.php?cid=29",
-      "productSellerImg":"",
-      "productSeller": "CINCOZE",
+      "productName": "KR203 KIOSK RECEIPT PRINTER",
+      "productImg": "./assets/img/produit/imprimante/KR203-KIOSK-RECEIPT-PRINTER.jpg",
+      "productUrl": "https://www.zebra.com/us/en/products/printers/kiosk/kr200-series.html",
+      "productSellerImg":"../../assets/img/partenaire/zebra.png",
+      "productSeller": "ZEBRA",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "KR403 KIOSK RECEIPT PRINTER",
+      "productImg": "./assets/img/produit/imprimante/KR403-KIOSK-RECEIPT-PRINTER.jpg",
+      "productUrl": "https://www.zebra.com/us/en/products/printers/kiosk/kr400-series.html",
+      "productSellerImg":"../../assets/img/partenaire/zebra.png",
+      "productSeller": "ZEBRA",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "MP-B20",
+      "productImg": "./assets/img/produit/imprimante/MP-B20.png",
+      "productUrl": "http://www.seiko-instruments.de/products/mp-b20-new",
+      "productSellerImg":"../../assets/img/partenaire/sii.png",
+      "productSeller": "SII",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "MP-A40",
+      "productImg": "./assets/img/produit/imprimante/MP-A40.jpg",
+      "productUrl": "http://www.seiko-instruments.de/products/mp-a40/",
+      "productSellerImg":"../../assets/img/partenaire/sii.png",
+      "productSeller": "SII",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "DPU-S245",
+      "productImg": "./assets/img/produit/imprimante/DPU-S245.jpg",
+      "productUrl": "http://www.seiko-instruments.de/products/dpu-s245/",
+      "productSellerImg":"../../assets/img/partenaire/sii.png",
+      "productSeller": "SII",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "DPU-S445",
+      "productImg": "./assets/img/produit/imprimante/DPU-S445.jpg",
+      "productUrl": "http://www.seiko-instruments.de/products/dpu-s445/",
+      "productSellerImg":"../../assets/img/partenaire/sii.png",
+      "productSeller": "SII",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
