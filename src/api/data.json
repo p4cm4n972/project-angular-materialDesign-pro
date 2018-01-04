@@ -755,28 +755,239 @@
     "categorieSecteur":"Informatique Industrielle",
     "categorieName": "Cartes mères industrielles",
     "categorieImg": "./assets/img/produit/carte-mere-industrielle.png",
-    "categorieUrl": "solution-reseau",
+    "categorieUrl": "carte-mere-industrielle",
     "categorieSeller": [{
       "sellerName": "iei",
       "sellerUrl": "../assets/img/partenaire/iei.png",
-      "sellerPage": "/iei"
+      "sellerPage": "iei"
     },
     {
       "sellerName": "congatec",
       "sellerUrl": "../assets/img/partenaire/congatec2.png",
-      "sellerPage": "/sunhillo"
+      "sellerPage": "sunhillo"
     }],
     "categorieProduit": [{
-      "productName": "Industrial Ethernet Switch",
-      "productImg": "./assets/img/produit/solution-reseau/industrial-ethernet-switch.png",
-      "productUrl": "http://www.oringnet.com/en-global/products/category/1",
-      "productSellerImg":"",
-      "productSeller": "ORING",
+      "productName": "Industrial Motherboard",
+      "productImg": "./assets/img/produit/carte-mere-industrielle/industrial-motherboard.png",
+      "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=1&cat23=1_4",
+      "productSellerImg":"../../assets/img/partenaire/iei.png",
+      "productSeller": "iei",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
       }]
+    },
+    {
+      "productName": "Embedded Board",
+      "productImg": "./assets/img/produit/carte-mere-industrielle/embedded-board.png",
+      "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=1&cat23=1_5",
+      "productSellerImg":"../../assets/img/partenaire/iei.png",
+      "productSeller": "iei",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },
+    {
+      "productName": "Half Size Single Board Computer",
+      "productImg": "./assets/img/produit/carte-mere-industrielle/half-size-single-board-computer.png",
+      "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=1&cat23=1_2",
+      "productSellerImg":"../../assets/img/partenaire/iei.png",
+      "productSeller": "iei",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },
+    {
+      "productName": "Backplane",
+      "productImg": "./assets/img/produit/carte-mere-industrielle/backplane.png",
+      "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=1&cat23=1_3",
+      "productSellerImg":"../../assets/img/partenaire/iei.png",
+      "productSeller": "iei",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },
+    {
+      "productName": "Full Size Single Board Computer",
+      "productImg": "./assets/img/produit/carte-mere-industrielle/full-size-single-board-computer.png",
+      "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=1&cat23=1_1",
+      "productSellerImg":"../../assets/img/partenaire/iei.png",
+      "productSeller": "iei",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+  },
+  {
+    "productName": "ETX / COM EXPRESS / Q7",
+    "productImg": "./assets/img/produit/carte-mere-industrielle/etx-com-express-q7.png",
+    "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=1&cat23=1_6",
+    "productSellerImg":"../../assets/img/partenaire/iei.png",
+    "productSeller": "iei",
+    "modele": [{
+      "modeleName": "",
+      "modeleLink": ""
     }]
+},
+{
+  "productName": "LCD Converter Board",
+  "productImg": "./assets/img/produit/carte-mere-industrielle/lcd-converter-board.png",
+  "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=1&cat23=4_10",
+  "productSellerImg":"../../assets/img/partenaire/iei.png",
+  "productSeller": "iei",
+  "modele": [{
+    "modeleName": "",
+    "modeleLink": ""
+  }]
+},
+{
+  "productName": "PCI/PCIe Expansion Card",
+  "productImg": "./assets/img/produit/carte-mere-industrielle/pci-pcie-expansion-card.png",
+  "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=1&cat23=4_11",
+  "productSellerImg":"../../assets/img/partenaire/iei.png",
+  "productSeller": "iei",
+  "modele": [{
+    "modeleName": "",
+    "modeleLink": ""
+  }]
+},
+{
+  "productName": "Wireless Module",
+  "productImg": "./assets/img/produit/carte-mere-industrielle/wireless-module.png",
+  "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=1&cat23=4_15",
+  "productSellerImg":"../../assets/img/partenaire/iei.png",
+  "productSeller": "iei",
+  "modele": [{
+    "modeleName": "",
+    "modeleLink": ""
+  }]
+},
+{
+  "productName": "Mini-PCIe Module",
+  "productImg": "./assets/img/produit/carte-mere-industrielle/mini-pcie-module.png",
+  "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=1&cat23=4_16",
+  "productSellerImg":"../../assets/img/partenaire/iei.png",
+  "productSeller": "iei",
+  "modele": [{
+    "modeleName": "",
+    "modeleLink": ""
+  }]
+},
+{
+  "productName": "SMARC 2.0",
+  "productImg": "./assets/img/produit/carte-mere-industrielle/smarc2.0.png",
+  "productUrl": "http://www.congatec.com/en/technologies/smarc.html",
+  "productSellerImg":"../../assets/img/partenaire/congatec2.png",
+  "productSeller": "iei",
+  "modele": [{
+    "modeleName": "",
+    "modeleLink": ""
+  }]
+},
+{
+  "productName": "Qseven",
+  "productImg": "./assets/img/produit/carte-mere-industrielle/qseven.jpg",
+  "productUrl": "http://www.congatec.com/en/technologies/qseven.html",
+  "productSellerImg":"../../assets/img/partenaire/congatec2.png",
+  "productSeller": "congatec",
+  "modele": [{
+    "modeleName": "",
+    "modeleLink": ""
+  }]
+},{
+  "productName": "COM Express Type 2",
+  "productImg": "./assets/img/produit/carte-mere-industrielle/com-express-type-2.png",
+  "productUrl": "http://www.congatec.com/en/products/com-express.html",
+  "productSellerImg":"../../assets/img/partenaire/congatec2.png",
+  "productSeller": "congatec",
+  "modele": [{
+    "modeleName": "",
+    "modeleLink": ""
+  }]
+},{
+  "productName": "COM Express Type 6",
+  "productImg": "./assets/img/produit/carte-mere-industrielle/com-express-type-6.jpg",
+  "productUrl": "http://www.congatec.com/en/products/com-express-type6.html",
+  "productSellerImg":"../../assets/img/partenaire/congatec2.png",
+  "productSeller": "congatec",
+  "modele": [{
+    "modeleName": "",
+    "modeleLink": ""
+  }]
+},{
+  "productName": "COM Express Type 7",
+  "productImg": "./assets/img/produit/carte-mere-industrielle/com-express-type-7.png",
+  "productUrl": "http://www.congatec.com/en/products/com-express-type-7.html",
+  "productSellerImg":"../../assets/img/partenaire/congatec2.png",
+  "productSeller": "congatec",
+  "modele": [{
+    "modeleName": "",
+    "modeleLink": ""
+  }]
+},{
+  "productName": "COM Express Type 10",
+  "productImg": "./assets/img/produit/carte-mere-industrielle/com-express-type-10.png",
+  "productUrl": "http://www.congatec.com/en/products/com-express-type10.html",
+  "productSellerImg":"../../assets/img/partenaire/congatec2.png",
+  "productSeller": "congatec",
+  "modele": [{
+    "modeleName": "",
+    "modeleLink": ""
+  }]
+},{
+  "productName": "XTX",
+  "productImg": "./assets/img/produit/carte-mere-industrielle/xtx.png",
+  "productUrl": "http://www.congatec.com/en/products/xtx.html",
+  "productSellerImg":"../../assets/img/partenaire/congatec2.png",
+  "productSeller": "congatec",
+  "modele": [{
+    "modeleName": "",
+    "modeleLink": ""
+  }]
+},{
+  "productName": "ETX",
+  "productImg": "./assets/img/produit/carte-mere-industrielle/etx.png",
+  "productUrl": "http://www.congatec.com/en/products/etx.html",
+  "productSellerImg":"../../assets/img/partenaire/congatec2.png",
+  "productSeller": "congatec",
+  "modele": [{
+    "modeleName": "",
+    "modeleLink": ""
+  }]
+},{
+  "productName": "Mini ITX",
+  "productImg": "./assets/img/produit/carte-mere-industrielle/mini-itx.png",
+  "productUrl": "http://www.congatec.com/en/products/mini-itx-single-board-computer.html",
+  "productSellerImg":"../../assets/img/partenaire/congatec2.png",
+  "productSeller": "congatec",
+  "modele": [{
+    "modeleName": "",
+    "modeleLink": ""
+  }]
+},{
+  "productName": "Pico ITX",
+  "productImg": "./assets/img/produit/carte-mere-industrielle/pico-itx.png",
+  "productUrl": "http://www.congatec.com/en/products/pico-itx.html",
+  "productSellerImg":"../../assets/img/partenaire/congatec2.png",
+  "productSeller": "congatec",
+  "modele": [{
+    "modeleName": "",
+    "modeleLink": ""
+  }]
+},{
+  "productName": "Accessories",
+  "productImg": "./assets/img/produit/carte-mere-industrielle/accessories2.jpg",
+  "productUrl": "http://www.congatec.com/en/products/accessories.html",
+  "productSellerImg":"../../assets/img/partenaire/congatec2.png",
+  "productSeller": "congatec",
+  "modele": [{
+    "modeleName": "",
+    "modeleLink": ""
+  }]
+}]
   },
   {
     "categorieSecteur":"Informatique Industrielle",
@@ -790,11 +1001,103 @@
       "sellerPage": "innodisk"
     }],
     "categorieProduit": [{
-      "productName": "Industrial Touch Monitor",
-      "productImg": "./assets/img/produit/moniteur-industriel/industrial-touch-monitor.jpg",
-      "productUrl": "http://www.cincoze.com/goods_catalog.php?cid=29",
-      "productSellerImg":"",
-      "productSeller": "CINCOZE",
+      "productName": "SATADOM",
+      "productImg": "./assets/img/produit/memoire-flash/satadom.png",
+      "productUrl": "https://www.innodisk.com/en/products/flash-storage/satadom",
+      "productSellerImg":"../../assets/img/partenaire/innodisk.png",
+      "productSeller": "innodisk",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },
+    {
+      "productName": "SATA Slim",
+      "productImg": "./assets/img/produit/memoire-flash/sata-slim.png",
+      "productUrl": "https://www.innodisk.com/en/products/flash-storage/sata-slim",
+      "productSellerImg":"../../assets/img/partenaire/innodisk.png",
+      "productSeller": "innodisk",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },
+    {
+      "productName": "CFast",
+      "productImg": "./assets/img/produit/memoire-flash/cfast.png",
+      "productUrl": "https://www.innodisk.com/en/products/flash-storage/cfast",
+      "productSellerImg":"../../assets/img/partenaire/innodisk.png",
+      "productSeller": "innodisk",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "mSATA",
+      "productImg": "./assets/img/produit/memoire-flash/msata.png",
+      "productUrl": "https://www.innodisk.com/en/products/flash-storage/msata",
+      "productSellerImg":"../../assets/img/partenaire/innodisk.png",
+      "productSeller": "innodisk",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Mini PCIe DOm",
+      "productImg": "./assets/img/produit/memoire-flash/mini-pcie-dom.png",
+      "productUrl": "https://www.innodisk.com/en/products/flash-storage/mini-pciedom",
+      "productSellerImg":"../../assets/img/partenaire/innodisk.png",
+      "productSeller": "innodisk",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "CompactFlash Card",
+      "productImg": "./assets/img/produit/memoire-flash/compact-flash-card.png",
+      "productUrl": "hhttps://www.innodisk.com/en/products/flash-storage/cf-card",
+      "productSellerImg":"../../assets/img/partenaire/innodisk.png",
+      "productSeller": "innodisk",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "SD Card & MicroSD Card",
+      "productImg": "./assets/img/produit/memoire-flash/sd-card-micro-card.png",
+      "productUrl": "https://www.innodisk.com/en/products/flash-storage/sd-card-and-microsd-card",
+      "productSellerImg":"../../assets/img/partenaire/innodisk.png",
+      "productSeller": "innodisk",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Embedded Disk Card",
+      "productImg": "./assets/img/produit/memoire-flash/edc.png",
+      "productUrl": "https://www.innodisk.com/en/products/flash-storage/embedded-disk-card_edc",
+      "productSellerImg":"../../assets/img/partenaire/innodisk.png",
+      "productSeller": "innodisk",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "SSD 1.8\"",
+      "productImg": "./assets/img/produit/memoire-flash/ssd-1.8.png",
+      "productUrl": "https://www.innodisk.com/en/products/flash-storage/ssd",
+      "productSellerImg":"../../assets/img/partenaire/innodisk.png",
+      "productSeller": "innodisk",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "SSD 2.5\"",
+      "productImg": "./assets/img/produit/memoire-flash/ssd-2.5.png",
+      "productUrl": "https://www.innodisk.com/en/products/flash-storage/ssd",
+      "productSellerImg":"../../assets/img/partenaire/innodisk.png",
+      "productSeller": "innodisk",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
