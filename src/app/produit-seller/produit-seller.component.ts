@@ -15,7 +15,7 @@ import { IProduit } from '../produit/mock-produit';
 export class ProduitSellerComponent implements OnInit {
   errorMessage: string;
   produit;
-  ref;
+  ref: string;
 
   constructor(private _route: ActivatedRoute,
     private _router: Router,
@@ -30,7 +30,7 @@ export class ProduitSellerComponent implements OnInit {
   }
   getProduitSeller(id: string) {
     this._produitService.getProduitSeller(id)
-      .subscribe(produit => this.produit = produit.categorieProduit,
+      .subscribe(produit => this.produit = produit,
       error => this.errorMessage = <any>error);
   }
   onBack(): void {

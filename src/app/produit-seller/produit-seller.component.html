@@ -7,14 +7,14 @@
 
       <div class="card  blue darken-4 text-center z-depth-2">
         <div class="card-body">
-          <p class="white-text mb-0">{{ref}}</p>
+          <p class="white-text mb-0">{{produit.categorieName}} - {{ref}}</p>
         </div>
       </div>
     </div>
   </div>
-  <div class="row">
+  <div class="row text-center">
       <!--Card-->
-      <div class="card card-cascade narrower col-md-3 mx-20" *ngFor="let produit of produit | alphaList:'productName' | filter:ref ">
+      <div class="card card-cascade narrower col-md-3 mx-auto" *ngFor="let produit of produit.categorieProduit | alphaList:'productName' | filter:ref ">
         <!--Card image-->
         <div class="view overlay hm-white-slight waves-light" mdbRippleRadius>
           <img [src]="produit.productImg" class="img-fluid mx-auto" alt="" style="max-height:150px">
@@ -45,5 +45,5 @@
       </div>
       <!--Card image-->
     <!--/.Card-->
-  </div>
+</div>
 </div>

@@ -8,14 +8,14 @@
             <!--Card Primary-->
             <div class="card  blue lighten-1 text-center z-depth-2">
                 <div class="card-body">
-                    <p class="white-text mb-0">{{produit.categorieName}}</p>
+                    <p class="white-text mb-0">{{produit?.categorieName}}</p>
                 </div>
             </div>
         </div>
   </div>
   <div class="row">
     <!--Card-->
-    <div class="card card-cascade col-md-3 mx-auto text-center" *ngFor="let produit of produit.categorieProduit   | alphaList: 'productName'">
+    <div class="card card-cascade col-md-3 mx-auto text-center" *ngFor="let produit of produit?.categorieProduit | alphaList: 'productName'">
 
       <!--Card image-->
       <div class="view overlay hm-white-slight waves-light" mdbRippleRadius>

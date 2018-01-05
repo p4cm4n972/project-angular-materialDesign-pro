@@ -364,7 +364,7 @@
       }, {
         "productName": "GPS Module",
         "productImg": "./assets/img/produit/pc-embarque/GPS-module.jpg",
-        "productUrl": "hhttp://www.sintrones.com/gps-module.html",
+        "productUrl": "http://www.sintrones.com/gps-module.html",
         "productSellerImg":"../../assets/img/partenaire/sintrones.png",
         "productSeller": "SINTRONES",
         "modele": [{
@@ -881,7 +881,7 @@
   "productImg": "./assets/img/produit/carte-mere-industrielle/smarc2.0.png",
   "productUrl": "http://www.congatec.com/en/technologies/smarc.html",
   "productSellerImg":"../../assets/img/partenaire/congatec2.png",
-  "productSeller": "IEI",
+  "productSeller": "CONGATEC",
   "modele": [{
     "modeleName": "",
     "modeleLink": ""
@@ -1055,7 +1055,7 @@
     },{
       "productName": "CompactFlash Card",
       "productImg": "./assets/img/produit/memoire-flash/compact-flash-card.png",
-      "productUrl": "hhttps://www.innodisk.com/en/products/flash-storage/cf-card",
+      "productUrl": "https://www.innodisk.com/en/products/flash-storage/cf-card",
       "productSellerImg":"../../assets/img/partenaire/innodisk.png",
       "productSeller": "INNODISK",
       "modele": [{
@@ -1198,6 +1198,66 @@
         "modeleName": "",
         "modeleLink": ""
       }]
+    },{
+      "productName": "Standard-Aspect Ratio",
+      "productImg": "./assets/img/produit/moniteur-ordinateur-tactile/standard-aspect-ration.png",
+      "productUrl": "https://www.elotouch.com/touchscreen-monitors.html",
+      "productSellerImg":"../../assets/img/partenaire/elo.png",
+      "productSeller": "ELO",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Wide-Aspect Ratio",
+      "productImg": "./assets/img/produit/moniteur-ordinateur-tactile/wide-aspect-ration.png",
+      "productUrl": "https://www.elotouch.com/touchscreen-monitors.html",
+      "productSellerImg":"../../assets/img/partenaire/elo.png",
+      "productSeller": "ELO",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "healthcare-grade",
+      "productImg": "./assets/img/produit/moniteur-ordinateur-tactile/health-grade.png",
+      "productUrl": "https://www.elotouch.com/touchscreen-monitors.html",
+      "productSellerImg":"../../assets/img/partenaire/elo.png",
+      "productSeller": "ELO",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "90-Series Standard-Aspect Ratio",
+      "productImg": "./assets/img/produit/moniteur-ordinateur-tactile/90-Series Standard-Aspect Ratio.png",
+      "productUrl": "https://www.elotouch.com/open-frame-touchscreens.htmltml",
+      "productSellerImg":"../../assets/img/partenaire/elo.png",
+      "productSeller": "ELO",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "90-Series Wide-Aspect Ratio",
+      "productImg": "./assets/img/produit/moniteur-ordinateur-tactile/90-Series Wide-Aspect Ratio.png",
+      "productUrl": "https://www.elotouch.com/open-frame-touchscreens.htmltml",
+      "productSellerImg":"../../assets/img/partenaire/elo.png",
+      "productSeller": "ELO",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "Large Format Wide-Aspect Ratio",
+      "productImg": "./assets/img/produit/moniteur-ordinateur-tactile/Large Format Wide-Aspect Ratio.png",
+      "productUrl": "https://www.elotouch.com/open-frame-touchscreens.htmltml",
+      "productSellerImg":"../../assets/img/partenaire/elo.png",
+      "productSeller": "ELO",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
     }]
   },
   {
@@ -1291,11 +1351,11 @@
         "modeleLink": ""
       }]
     },{
-      "productName": "RP-D10 Bluetooth model",
-      "productImg": "./assets/img/produit/teminaux-point-de-vente/pos-box.jpg",
-      "productUrl": "http://www.posiflex.com/en-global/product/index/POS-Box",
-      "productSellerImg":"../../assets/img/partenaire/posiflex.png",
-      "productSeller": "POSIFLEX",
+      "productName": "RP-D Series",
+      "productImg": "./assets/img/produit/teminaux-point-de-vente/rp-d.jpg",
+      "productUrl": "http://www.seiko-instruments.de/products/rp-d-series/",
+      "productSellerImg":"../../assets/img/partenaire/sii.png",
+      "productSeller": "SII",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
@@ -1306,6 +1366,16 @@
       "productUrl": "http://www.posiflex.com/en-global/product/index/MSR",
       "productSellerImg":"../../assets/img/partenaire/posiflex.png",
       "productSeller": "POSIFLEX",
+      "modele": [{
+        "modeleName": "",
+        "modeleLink": ""
+      }]
+    },{
+      "productName": "RP-E Series",
+      "productImg": "./assets/img/produit/teminaux-point-de-vente/rp-e.jpg",
+      "productUrl": "http://www.seiko-instruments.de/products/rp-e-series/",
+      "productSellerImg":"../../assets/img/partenaire/sii.png",
+      "productSeller": "SII",
       "modele": [{
         "modeleName": "",
         "modeleLink": ""
