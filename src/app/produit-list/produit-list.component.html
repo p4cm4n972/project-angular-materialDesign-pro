@@ -19,8 +19,8 @@
 
       <!--Card image-->
       <div class="view overlay hm-white-slight waves-light" mdbRippleRadius>
-        <img [src]="produit.productImg" class="img-fluid mx-auto" alt="" style="max-height:150px">
-        <a href={{produit.productUrl}} target="_blank" onclick="window.open(this.href,'child','height=800,width=1200,top=20%'); return false;">
+        <img [src]="produit?.productImg" class="img-fluid mx-auto" alt="" style="max-height:150px">
+        <a href={{produit?.productUrl}} target="_blank" onclick="window.open(this.href,'child','height=800,width=1200,top=20%'); return false;">
           <div class="mask"></div>
         </a>
       </div>
@@ -30,18 +30,18 @@
       <div class="card-body text-center">
         <!--Title-->
         <div>
-          <img [src]='produit.productSellerImg' [alt]="produit.productSeller" class="img-fluid" style="max-width:80px;margin-bottom:5px">
+          <img [src]='produit?.productSellerImg' [alt]="produit?.productSeller" class="img-fluid" style="max-width:80px;margin-bottom:5px">
         </div>
         <div class="btn-group" dropdown *ngIf="produit.modele[0].modeleName">
           <button dropdownToggle type="button" class="btn btn-primary dropdown-toggle waves-light" style="bottom:0;" mdbRippleRadius>
             series
           </button>
           <div class="dropdown-menu dropdown-primary">
-            <a *ngFor="let serie of produit.modele,index as x " class="dropdown-item" href={{serie.modeleLink}} target="_blank" onclick="window.open(this.href,'child','height=800,width=1200,top=20%'); return false;">{{serie.modeleName}}</a>
+            <a *ngFor="let serie of produit.modele,index as x " class="dropdown-item" href={{serie.modeleLink}} target="_blank" onclick="window.open(this.href,'child','height=800,width=1200,top=20%'); return false;">{{serie?.modeleName}}</a>
 
           </div>
         </div>
-        <p class="card-title">{{produit.productName}}</p>
+        <p class="card-title">{{produit?.productName}}</p>
 
         <!--/.Card content-->
 
