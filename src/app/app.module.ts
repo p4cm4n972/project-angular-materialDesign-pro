@@ -49,7 +49,7 @@ import { FilterPipe } from './filter.pipe';
   ],
   imports: [
     MDBBootstrapModules.forRoot(),
-    BrowserModule,
+    BrowserModule.withServerTransition({appId: 'aplus-sa'}),
     AppRoutingModule,
     HttpClientModule,
     FormsModule,
