@@ -73,14 +73,14 @@
           <div class="col-lg-6 col-md-12">
   
               <!--Small news-->
-              <div class="single-news">
+              <div class="single-news" *ngFor="let news of newsList">
   
                   <div class="row">
                       <div class="col-md-3">
   
                           <!--Image-->
                           <div mdbRippleRadius class="view overlay hm-white-slight waves-light">
-                              <img src="http://www.aplus-sa.com/tl_files/client/actualites/Pdf/mignature_xeon.jpg" alt="Minor sample post image">
+                              <img src="{{news.vignette}}" alt="Minor sample post image">
                               <a>
                                   <div class="mask"></div>
                               </a>
@@ -89,8 +89,8 @@
   
                       <!--Excerpt-->
                       <div class="col-md-9">
-                          <p><strong>26/02/2016</strong></p>
-                          <a>Duis aute irure dolor in reprehenderit in voluptate.
+                          <p><strong>{{news.date}}</strong></p>
+                          <a>{{news.resume}}.
                               <i class="fa fa-angle-right"></i>
                           </a>
                       </div>
@@ -100,86 +100,7 @@
               <!--/Small news-->
   
               <!--Small news-->
-              <div class="single-news">
-  
-                  <div class="row">
-                      <div class="col-md-3">
-  
-                          <!--Image-->
-                          <div mdbRippleRadius class="view overlay hm-white-slight waves-light">
-                              <img src="http://www.aplus-sa.com/tl_files/client/actualites/mignature_summit_outdoor.jpg" alt="Minor sample post image">
-                              <a>
-                                  <div class="mask"></div>
-                              </a>
-                          </div>
-                      </div>
-  
-                      <!--Excerpt-->
-                      <div class="col-md-9">
-                          <p><strong>25/02/2016</strong></p>
-                          <a>Duis aute irure dolor in reprehenderit in voluptate.
-                              <i class="fa fa-angle-right"></i>
-                          </a>
-                      </div>
-  
-                  </div>
-              </div>
-              <!--/Small news-->
-  
-              <!--Small news-->
-              <div class="single-news">
-  
-                  <div class="row">
-                      <div class="col-md-3">
-  
-                          <!--Image-->
-                          <div mdbRippleRadius class="view overlay hm-white-slight waves-light">
-                              <img src="http://www.aplus-sa.com/tl_files/client/actualites/mignature_abox5000.jpg" alt="Minor sample post image">
-                              <a>
-                                  <div class="mask"></div>
-                              </a>
-                          </div>
-                      </div>
-  
-                      <!--Excerpt-->
-                      <div class="col-md-9">
-                          <p><strong>24/02/2016</strong></p>
-                          <a>Duis aute irure dolor in reprehenderit in voluptate.
-                              <i class="fa fa-angle-right"></i>
-                          </a>
-                      </div>
-  
-                  </div>
-              </div>
-              <!--/Small news-->
-  
-              <!--Small news-->
-              <div class="single-news">
-  
-                  <div class="row">
-                      <div class="col-md-3">
-  
-                          <!--Image-->
-                          <div mdbRippleRadius class="view overlay hm-white-slight waves-light">
-                              <img src="http://www.aplus-sa.com/tl_files/client/actualites/Pdf/mignature_congatec.jpg" alt="Minor sample post image">
-                              <a>
-                                  <div class="mask"></div>
-                              </a>
-                          </div>
-                      </div>
-  
-                      <!--Excerpt-->
-                      <div class="col-md-9">
-                          <p><strong>23/02/2016</strong></p>
-                          <a>Duis aute irure dolor in reprehenderit in voluptate.
-                              <i class="fa fa-angle-right"></i>
-                          </a>
-                      </div>
-  
-                  </div>
-              </div>
-              <!--/Small news-->
-  
+             
           </div>
           <!--Grid column-->
   
