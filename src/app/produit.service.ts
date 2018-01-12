@@ -22,20 +22,20 @@ export class ProduitService {
 
   getProduit(): Observable<IProduit[]> {
     return this._http.get<IProduit[]>(this._produitUrl)
-      .do(data => console.log(data))
+      .do(data => console.log('get product: OK'))
       .catch(this.handleError);
   }
 
   getProduitList(id: string): Observable<IProduit> {
     return this.getProduit()
       .map((produit: IProduit[]) => produit.find(p => p.categorieUrl === id))
-      .do(data => console.log(data))
+      .do(data => console.log('get list: OK'))
       .catch(this.handleError);
   }
   getProduitSeller(id: string): Observable<IProduit> {
     return this.getProduit()
       .map((produit: IProduit[]) => produit.find(p => p.categorieUrl === id))
-      .do(data => console.log(data))
+      .do(data => console.log('filtre seller: OK'))
       .catch(this.handleError);
   }
 
