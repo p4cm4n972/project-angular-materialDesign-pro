@@ -13,18 +13,14 @@ export class HomeComponent implements OnInit {
   newsList: IActualite[] = [];
   constructor(private _actualiteService: ActualiteService) { }
 
-<<<<<<< HEAD
-  constructor() { }
 
-  ngOnInit() {
-=======
+
+
   ngOnInit(): void {
     console.log('Welcome, Everythings seem be allright !');
     this._actualiteService.getArticle()
     .subscribe( newsList => {
       this.newsList = newsList;
     }, error => this.errorMessage = <any>error);
->>>>>>> 677a005... news service
   }
-
 }
