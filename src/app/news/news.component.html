@@ -24,11 +24,11 @@
             <!--Grid column-->
             <div class="col-lg-7 mb-4">
                 <!--Excerpt-->
-                <a href="" class="teal-text"><h6 class="pb-1"><i class="fa fa-heart"></i><strong> {{news.secteur}}</strong></h6></a>
+                <a href="" class="teal-text"><h6 class="pb-1"><i class="fa fa-cog"></i><strong> {{news.secteur}}</strong></h6></a>
                 <h4 class="mb-4"><strong>{{news.titre}}</strong></h4>
-                <p>{{news.content}}</p>
-                <p>by <a><strong>Jessica Clark</strong></a>, {{news.date}}</p>
-                <a class="btn btn-primary waves-light" mdbRippleRadius>Read more</a>
+                <p>{{news.content.slice(0, 200)}}...</p>
+                <p>{{news.date}}</p>
+                <a class="btn btn-primary waves-light" mdbRippleRadius><i class="fa fa-plus"></i></a>
             </div>
             <!--Grid column-->
     

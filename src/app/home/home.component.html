@@ -55,12 +55,12 @@
                   <!--Excerpt-->
                   <div class="news-data">
                       <a href="" class="deep-orange-text"><h6><i class="fa fa-newspaper-o"></i><strong> Actualités</strong></h6></a>
-                      <p><strong><i class="fa fa-clock-o"></i> 27/02/2016</strong></p>
+                      <p><strong><i class="fa fa-clock-o"></i> {{newsList[0].date}}</strong></p>
                   </div>
   
-                  <h4><a><strong>Serveur XEON durci fanless.</strong></a></h4>
+                  <h4><a><strong>{{newsList[0].titre}}</strong></a></h4>
   
-                  <p align="justify">Le MXCS (MPL Xeon Class Server) apporte de la puissance de traitement à vos applications embarquées.    Cette nouvelle architecture de serveur est particulièrement robuste et performante.
+                  <p align="justify">{{newsList[0].content.slice(0, 150)}}...
                   </p>
   
               </div>
@@ -90,7 +90,7 @@
                       <!--Excerpt-->
                       <div class="col-md-9">
                           <p><strong>{{news.date}}</strong></p>
-                          <a>{{news.resume}}.
+                          <a>{{news.resume.slice(0,100)}}.
                               <i class="fa fa-angle-right"></i>
                           </a>
                       </div>

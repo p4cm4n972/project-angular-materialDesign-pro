@@ -6,4 +6,22 @@
     "content":"Le MXCS (MPL Xeon Class Server) apporte de la puissance de traitement à vos applications embarquées.    Cette nouvelle architecture de serveur est particulièrement robuste et performante. Fanless et durcie par conception, elle répond aux besoins des applications exigeantes en environnements sévères. Basée sur la famille de processeurs Intel Xeon D-1500  et dispose d’une capacité mémoire de 128 Go, elle constitue une solution idéale pour les applications embarquées nécessitant une haute performance de traitement informatique. ",
     "vignette":"../assets/img/actualite/xeon-vignette.jpg",
     "illustration":"../assets/img/actualite/xeon-illustration.png"
+},
+{
+    "date":"04.10.2017",
+    "titre":"NOUVEAUX TOTEMS INTERACTIFS VISION [+]",
+    "secteur":"Digita lMédia",
+    "resume":"Destiné aux applications outdoor, le nouveau totem interactif Summit  Outdoor de Vision [+] bénéficie d’un design ultra fin.",
+    "content":"Ce produit s’intègre harmonieusement dans tous les environnements publics extérieurs. Conçu en France et réalisé en acier galvanisé et en verre intégral, le totem Summit Outdoor résiste aux contraintes propres aux lieux publics (vandalisme, écarts de température, nettoyage agressifs..)",
+    "vignette":"../assets/img/actualite/totems-vignette.jpg",
+    "illustration":"../assets/img/actualite/totems-illustration.jpg"
+},
+{
+    "date":"04.10.2017",
+    "titre":"ABOX-500 : PC EMBARQUE FANLESS",
+    "secteur":"Digita lMédia",
+    "resume":"APLUS SYSTEME AUTOMATION partenaire exclusif de la marque SINTRONES vous présente le dernier né de la gamme, l'ABOX 500. Cet ordinateur embarqué fanless est un concentré de technologies innovantes pour les environnements externes.",
+    "content":"Ce produit s’intègre harmonieusement dans tous les environnements publics extérieurs. Conçu en France et réalisé en acier galvanisé et en verre intégral, le totem Summit Outdoor résiste aux contraintes propres aux lieux publics (vandalisme, écarts de température, nettoyage agressifs..)",
+    "vignette":"../assets/img/actualite/abox500-vignette.jpg",
+    "illustration":"../assets/img/actualite/abox500-illustration.png"
 }]
