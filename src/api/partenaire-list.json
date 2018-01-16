@@ -1,7 +1,7 @@
 [{
     "partenaireID": 1,
     "partenaireName": "avalue",
-    "partenaireUrl": "",
+    "partenaireUrl": "www.avalue.com.tw",
     "partImgUrl": "../assets/img/partenaire/avalue.png",
     "partCat": [],
     "partPrd": [],
@@ -10,7 +10,7 @@
   {
     "partenaireID": 2,
     "partenaireName": "cincoze",
-    "partenaireUrl": "",
+    "partenaireUrl": "http://www.cincoze.com/",
     "partImgUrl": "../../assets/img/partenaire/cincoze.png",
     "partCat": [],
     "partPrd": [],
@@ -18,7 +18,7 @@
   }, {
     "partenaireID": 13,
     "partenaireName": "congatec",
-    "partenaireUrl": "",
+    "partenaireUrl": "http://www.congatec.com/fr.html",
     "partImgUrl": "../../assets/img/partenaire/logo_congatec.png",
     "partCat": [],
     "partPrd": [],
@@ -26,7 +26,7 @@
   }, {
     "partenaireID": 3,
     "partenaireName": "elo",
-    "partenaireUrl": "",
+    "partenaireUrl": "https://www.elotouch.com/",
     "partImgUrl": "../../assets/img/partenaire/elo.png",
     "partCat": [],
     "partPrd": [],
@@ -34,7 +34,7 @@
   }, {
     "partenaireID": 4,
     "partenaireName": "epson",
-    "partenaireUrl": "",
+    "partenaireUrl": "https://epson.com/",
     "partImgUrl": "../../assets/img/partenaire/epson.png",
     "partCat": [],
     "partPrd": [],
@@ -42,7 +42,7 @@
   }, {
     "partenaireID": 6,
     "partenaireName": "iei",
-    "partenaireUrl": "",
+    "partenaireUrl": "https://www.ieiworld.com/_index/en/",
     "partImgUrl": "../../assets/img/partenaire/iei.png",
     "partCat": [],
     "partPrd": [],
@@ -50,7 +50,7 @@
   }, {
     "partenaireID": 7,
     "partenaireName": "innodisk",
-    "partenaireUrl": "",
+    "partenaireUrl": "https://www.innodisk.com/",
     "partImgUrl": "../../assets/img/partenaire/innodisk.png",
     "partCat": [],
     "partPrd": [],
@@ -58,7 +58,7 @@
   }, {
     "partenaireID": 8,
     "partenaireName": "mpl",
-    "partenaireUrl": "",
+    "partenaireUrl": "https://www.mpl.ch/",
     "partImgUrl": "../../assets/img/partenaire/mpl.png",
     "partCat": [],
     "partPrd": [],
@@ -66,7 +66,7 @@
     }, {
     "partenaireID": 9,
     "partenaireName": "nexcom",
-    "partenaireUrl": "",
+    "partenaireUrl": "http://www.nexcom.com/",
     "partImgUrl": "../../assets/img/partenaire/nexcom.png",
     "partCat": [],
     "partPrd": [],
@@ -75,7 +75,7 @@
     "partenaireID": 10,
     "partenaireName": "oring",
     "partDetail":"Serveurs, réseaux industriels, switchs embarqués (Normes Transports IRIS)",
-    "partenaireUrl": "",
+    "partenaireUrl": "http://www.oringnet.com/",
     "partImgUrl": "../../assets/img/partenaire/oring.png",
     "partCat": [],
     "partPrd": [
@@ -1719,7 +1719,7 @@
   }, {
     "partenaireID": 12,
     "partenaireName": "posiflex",
-    "partenaireUrl": "",
+    "partenaireUrl": "http://www.posiflex.com/en-global/Home/index",
     "partImgUrl": "../../assets/img/partenaire/posiflex.png",
     "partCat": [],
     "partPrd": [],
@@ -1727,7 +1727,7 @@
   }, {
     "partenaireID": 14,
     "partenaireName": "sii",
-    "partenaireUrl": "",
+    "partenaireUrl": "https://www.seikoinstruments.com/",
     "partImgUrl": "../../assets/img/partenaire/sii.png",
     "partCat": [],
     "partPrd": [],
@@ -1735,7 +1735,7 @@
   }, {
     "partenaireID": 15,
     "partenaireName": "sintrones",
-    "partenaireUrl": "",
+    "partenaireUrl": "http://www.sintrones.com/",
     "partImgUrl": "../../assets/img/partenaire/sintrones.png",
     "partCat": [],
     "partPrd": [],
@@ -1751,7 +1751,7 @@
   }, {
     "partenaireID": 5,
     "partenaireName": "zebra",
-    "partenaireUrl": "",
+    "partenaireUrl": "https://www.zebra.com/fr/fr.html",
     "partImgUrl": "../../assets/img/partenaire/zebra.png",
     "partCat": [],
     "partPrd": [],

@@ -64,8 +64,8 @@
             <div class="col-lg-7">
     
                 <!--Google map-->
-                <agm-map class="z-depth-1-half map-container" style="height: 400px;" [latitude]="map.lat" [longitude]="map.lng">
-                    <agm-marker [latitude]="map.lat" [longitude]="map.lng"></agm-marker>
+                <agm-map class="z-depth-1-half map-container" style="height: 400px;" [latitude]="map.lat" [longitude]="map.lng" [zoom]="map.zoom">
+                    <agm-marker [latitude]="map.lat" [longitude]="map.lng" ></agm-marker>
                 </agm-map>
     
                 <br>
