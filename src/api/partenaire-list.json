@@ -1,7 +1,7 @@
 [{
     "partenaireID": 1,
     "partenaireName": "avalue",
-    "partenaireUrl": "www.avalue.com.tw",
+    "partenaireUrl": "http://www.avalue.com.tw",
     "partImgUrl": "../assets/img/partenaire/avalue.png",
     "partCat": [],
     "partPrd": [],
