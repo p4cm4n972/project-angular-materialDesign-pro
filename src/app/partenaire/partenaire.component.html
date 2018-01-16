@@ -6,9 +6,9 @@
         <!--Front Side-->
         <div class="face front card tp-box_side tp-box_front">
             <!-- Image-->
-            <div class="mx-auto">
+            <div class="mx-auto" style="min-height:100px">
                 <div class="view overlay hm-white-slight waves-light" mdbRippleRadius>
-                    <img [src]="part.partImgUrl" [alt]="part.partenaireName" class="img-fluid" alt="" width="100%">
+                    <img [src]="part.partImgUrl" [alt]="part.partenaireName" class="img-fluid" width="100%" (click)="card.toggle()" >
                     
                 </div>
             </div>
