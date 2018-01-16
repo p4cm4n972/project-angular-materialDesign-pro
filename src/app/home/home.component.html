@@ -1,9 +1,9 @@
-<div class="container-fluid view intro hm-white-light">
+<div class="container-fluid view hm-bluegrey-slight">
     <div class="container">
   <div class="row jumbotron">
     <div class="col-lg-6">
   <!--Section heading-->
-  <h2 class="section-heading h1 my-5"><img src="./assets/img/picto-logo-bleu.png" alt="APLUS picto logo">&nbsp;Les solutions d'un Leader</h2>
+  <img src="./assets/img/enseigne01.png" alt="APLUS picto logo" class="d-block mx-auto" width="250px"><h2 class="section-heading h1 my-5 d-block">Les solutions d'un Leader</h2>
   
       <!--Section description-->
       <p class="section-description">Nos solutions sont mises en œuvre dans les secteurs du commerce et de l’industrie, du transport et de la logistique, des télécommunications, de la monétique, de l’agroalimentaire, de la défense et la santé. </p>
@@ -55,12 +55,12 @@
                   <!--Excerpt-->
                   <div class="news-data">
                       <a href="" class="deep-orange-text"><h6><i class="fa fa-newspaper-o"></i><strong> Actualités</strong></h6></a>
-                      <p><strong><i class="fa fa-clock-o"></i> {{newsList[0].date}}</strong></p>
+                      <p><strong><i class="fa fa-clock-o"></i> {{newsList[0]?.date}}</strong></p>
                   </div>
   
-                  <h4><a><strong>{{newsList[0].titre}}</strong></a></h4>
+                  <h4><a><strong>{{newsList[0]?.titre}}</strong></a></h4>
   
-                  <p align="justify">{{newsList[0].content.slice(0, 150)}}...
+                  <p align="justify">{{newsList[0]?.content.slice(0, 150)}}...
                   </p>
   
               </div>
@@ -118,7 +118,7 @@
             <!--Grid column-->
             <div class="col-md-12 mb-r">
                 <div class="col-1 col-md-2 float-left">
-                    <i class="fa fa-bullhorn blue-text"></i>
+                    <i class="fa fa-bullhorn blue-grey-text"></i>
                 </div>
                 <div class="col-10 col-md-9 col-lg-10 float-right">
                     <h4 class="feature-title">Conception</h4>
@@ -130,11 +130,11 @@
             <!--Grid column-->
             <div class="col-md-12 mb-r">
                 <div class="col-1 col-md-2 float-left">
-                    <i class="fa fa-cogs pink-text"></i>
+                    <i class="fa fa-cogs blue-grey-text"></i>
                 </div>
                 <div class="col-10 col-md-9 col-lg-10 float-right">
                     <h4 class="feature-title">Production</h4>
-                    <a class="btn btn-pink btn-sm ml-0 waves-light" [routerLink]="['/competence']" mdbRippleRadius>Learn more</a>
+                    <a class="btn btn-success btn-sm ml-0 waves-light" [routerLink]="['/competence']" mdbRippleRadius>Learn more</a>
                 </div>
             </div>
             <!--Grid column-->
@@ -142,11 +142,11 @@
             <!--Grid column-->
             <div class="col-md-12 mb-r">
                 <div class="col-1 col-md-2 float-left">
-                    <i class="fa fa-dashboard purple-text"></i>
+                    <i class="fa fa-dashboard blue-grey-text"></i>
                 </div>
                 <div class="col-10 col-md-9 col-lg-10 float-right">
                     <h4 class="feature-title">Services</h4>
-                    <a class="btn btn-secondary btn-sm ml-0 waves-light" [routerLink]="['/competence']" mdbRippleRadius>Learn more</a>
+                    <a class="btn btn-warning btn-sm ml-0 waves-light" [routerLink]="['/competence']" mdbRippleRadius>Learn more</a>
                 </div>
             </div>
             <!--Grid column-->

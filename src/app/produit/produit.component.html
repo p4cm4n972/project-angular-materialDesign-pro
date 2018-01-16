@@ -1,33 +1,38 @@
 <div class="container">
-        <div class='row'>
-            <div class="col-md-12 mx-auto text-center">
-                <button class="btn blue-gradient btn-rounded waves-light mx-auto " mdbRippleRadius (click)='onFiltre("Informatique industrielle")' >Informatique industrielle</button>
-                <button class="btn peach-gradient btn-rounded waves-light mx-auto " mdbRippleRadius (click)='onFiltre("Interfaces & Système d&#39;affichage")'>Interfaces & systèmes d'affichage</button>
-                <button class="btn purple-gradient btn-rounded waves-light mx-auto " mdbRippleRadius (click)='onFiltre(" ")'>all</button>
-            </div>
-            </div>
-            <br>
+  <div class='row'>
+    <div class="col-md-12 mx-auto text-center">
+      <button class="btn blue-gradient btn-rounded waves-light mx-auto z-depth-5" mdbRippleRadius (click)='onFiltre("Informatique industrielle")'>Informatique industrielle</button>
+      <button class="btn peach-gradient btn-rounded waves-light mx-auto z-depth-5" mdbRippleRadius (click)='onFiltre("Interfaces & Système d&#39;affichage")'>Interfaces & systèmes d'affichage</button>
+      <button class="btn aqua-gradient btn-rounded waves-light mx-auto z-depth-5" mdbRippleRadius (click)='onFiltre(" ")'>all</button>
+    </div>
+  </div>
+  <br>
   <div class="row" *ngIf='produit && produit.length'>
     <!--Card-->
-    <div class="card card col-md-3 col-lg-3  mx-auto animate slideInUp"   *ngFor="let cat of filteredProducts | alphaList: 'categorieName'">
+    <div class="card card col-md-3 col-lg-3  mx-auto " *ngFor="let cat of filteredProducts | alphaList: 'categorieName'">
 
-        <!--Card image-->
-        <div class="view overlay hm-white-slight waves-light view hm-zoom" mdbRippleRadius>
-            <img [src]='cat.categorieImg' class="img-fluid mx-auto" style="max-height:150px">
-            
-            <a [routerLink]="['/produit',cat.categorieUrl]">
-                <div class="mask"></div>
-            </a>
-        </div>
-        <!--/Card image-->
+      <!--Card image-->
+      <div class="view overlay hm-white-slight waves-light view hm-zoom " mdbRippleRadius>
+        <img [src]='cat.categorieImg' class="img-fluid mx-auto" style="max-height:150px">
 
-        <!--Card content-->
-        <div class="card-body text-center">
-            <!--Title-->
-            <p class="card-title">{{cat.categorieName }}</p>
-            <p class="card-text text-center"><a [routerLink]="['/produit',cat.categorieUrl,cat.categorieSeller[i].sellerName]" *ngFor='let img of cat.categorieSeller, index as i'><img  [src]='cat.categorieSeller[i].sellerUrl' class="img-fluid" style="max-width:80px"></a></p>
-            
-
-        </div>
-        <!--/.Card content-->
+        <a [routerLink]="['/produit',cat.categorieUrl]">
+          <div class="mask"></div>
+        </a>
       </div>
+      <!--/Card image-->
+
+      <!--Card content-->
+      <div class="card-body text-center">
+        <!--Title-->
+        <p class="card-title" style="min-height:48px">{{cat.categorieName }}</p>
+        <p class="card-text text-center avatar">
+          <a  [routerLink]="['/produit',cat.categorieUrl,cat.categorieSeller[i].sellerName]"
+            *ngFor='let img of cat.categorieSeller, index as i'>
+            <img [src]='cat.categorieSeller[i].sellerUrl' class="img-fluid rounded border border-light hoverable z-depth-5" style="max-width:65px;">
+          </a>
+        </p>
+
+
+      </div>
+      <!--/.Card content-->
+    </div>

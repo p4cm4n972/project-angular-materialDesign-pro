@@ -763,7 +763,7 @@
     },
     {
       "sellerName": "congatec",
-      "sellerUrl": "../assets/img/partenaire/congatec2.png",
+      "sellerUrl": "../assets/img/partenaire/congatec.png",
       "sellerPage": "sunhillo"
     }],
     "categorieProduit": [{
@@ -1180,7 +1180,7 @@
     "categorieUrl": "moniteur-ordinateur-tactile",
     "categorieSeller": [{
       "sellerName": "oteksys",
-      "sellerUrl": "../assets/img/partenaire/oteksys.png",
+      "sellerUrl": "../assets/img/partenaire/oteksys.jpg",
       "sellerPage": "oteksys"
     },
     {
@@ -1231,7 +1231,7 @@
     },{
       "productName": "90-Series Standard-Aspect Ratio",
       "productImg": "./assets/img/produit/moniteur-ordinateur-tactile/90-Series Standard-Aspect Ratio.png",
-      "productUrl": "https://www.elotouch.com/open-frame-touchscreens.htmltml",
+      "productUrl": "https://www.elotouch.com/open-frame-touchscreens.html",
       "productSellerImg":"../../assets/img/partenaire/elo.png",
       "productSeller": "ELO",
       "modele": [{
@@ -1241,7 +1241,7 @@
     },{
       "productName": "90-Series Wide-Aspect Ratio",
       "productImg": "./assets/img/produit/moniteur-ordinateur-tactile/90-Series Wide-Aspect Ratio.png",
-      "productUrl": "https://www.elotouch.com/open-frame-touchscreens.htmltml",
+      "productUrl": "https://www.elotouch.com/open-frame-touchscreens.html",
       "productSellerImg":"../../assets/img/partenaire/elo.png",
       "productSeller": "ELO",
       "modele": [{
@@ -1251,7 +1251,7 @@
     },{
       "productName": "Large Format Wide-Aspect Ratio",
       "productImg": "./assets/img/produit/moniteur-ordinateur-tactile/Large Format Wide-Aspect Ratio.png",
-      "productUrl": "https://www.elotouch.com/open-frame-touchscreens.htmltml",
+      "productUrl": "https://www.elotouch.com/open-frame-touchscreens.html",
       "productSellerImg":"../../assets/img/partenaire/elo.png",
       "productSeller": "ELO",
       "modele": [{

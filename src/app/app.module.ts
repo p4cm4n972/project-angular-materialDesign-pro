@@ -30,6 +30,7 @@ import { PartenaireComponent } from './partenaire/partenaire.component';
 import { PartenaireService } from './partenaire.service';
 import { AlphaListPipe } from './alpha-list.pipe';
 import { FilterPipe } from './filter.pipe';
+import { SafePipe } from './safe.service';
 
 
 @NgModule({
@@ -45,7 +46,8 @@ import { FilterPipe } from './filter.pipe';
     ProduitSellerComponent,
     PartenaireComponent,
     AlphaListPipe,
-    FilterPipe
+    FilterPipe,
+    SafePipe
   ],
   imports: [
     MDBBootstrapModules.forRoot(),
