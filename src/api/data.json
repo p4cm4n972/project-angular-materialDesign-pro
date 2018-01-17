@@ -5,24 +5,24 @@
     "categorieUrl": "panel-pc",
     "categorieSeller": [{
       "sellerName": "nexcom",
-      "sellerUrl": "../assets/img/partenaire/nexcom.png",
+      "sellerUrl": "./assets/img/partenaire/nexcom.png",
       "sellerPage": "nexcom"
     },
     {
       "sellerName": "iei",
-      "sellerUrl": "../assets/img/partenaire/iei.png",
+      "sellerUrl": "./assets/img/partenaire/iei.png",
       "sellerPage": "iei"
     },
     {
       "sellerName": "avalue",
-      "sellerUrl": "../assets/img/partenaire/avalue.png",
+      "sellerUrl": "./assets/img/partenaire/avalue.png",
       "sellerPage": "avalue"
     }],
     "categorieProduit": [{
         "productName": "Digital Signage Player - Hight-performance Player",
         "productImg": "./assets/img/produit/panel-pc/digital-signage-player.jpg",
         "productUrl": "http://www.nexcom.com/Products/multi-media-solutions/digital-signage-player",
-        "productSellerImg":"../assets/img/partenaire/nexcom-business-logo.png",
+        "productSellerImg":"./assets/img/partenaire/nexcom-business-logo.png",
         "productSeller": "NEXCOM",
         "modele": [{
             "modeleName": "NDis 166",
@@ -51,7 +51,7 @@
         "productName": "Embedded Computing - 3.5\"/5.25\" SBC",
         "productImg": "./assets/img/produit/panel-pc/embedded-computing.jpg",
         "productUrl": "http://www.nexcom.com/Products/multi-media-solutions/embedded-computing",
-        "productSellerImg":"../assets/img/partenaire/nexcom-business-logo.png",
+        "productSellerImg":"./assets/img/partenaire/nexcom-business-logo.png",
         "productSeller": "NEXCOM",
         "modele": [{
             "modeleName": "EBC 352",
@@ -86,7 +86,7 @@
         "productName": "Industrial Motherboard",
         "productImg": "./assets/img/produit/panel-pc/industrial-motherboard.jpg",
         "productUrl": "http://www.nexcom.com/Products/multi-media-solutions/industrial-rackmount-computer",
-        "productSellerImg":"../assets/img/partenaire/nexcom-business-logo.png",
+        "productSellerImg":"./assets/img/partenaire/nexcom-business-logo.png",
         "productSeller": "NEXCOM",
         "modele": [{
             "modeleName": "NEX 810",
@@ -114,7 +114,7 @@
         "productName": "Kiosk Panel PC (16:9)",
         "productImg": "./assets/img/produit/panel-pc/kiosk-panel-pc.jpg",
         "productUrl": "http://www.nexcom.com/Products/multi-media-solutions/kiosk-panel-pc",
-        "productSellerImg":"../assets/img/partenaire/nexcom-business-logo.png",
+        "productSellerImg":"./assets/img/partenaire/nexcom-business-logo.png",
         "productSeller": "NEXCOM",
         "modele": [{
           "modeleName": "KPPC 1812",
@@ -124,7 +124,7 @@
         "productName": "All-in-one Panel PC",
         "productImg": "./assets/img/produit/panel-pc/all-in-one.jpg",
         "productUrl": "http://www.nexcom.com/Products/multi-media-solutions/in-vehicle-signage-solutions",
-        "productSellerImg":"../assets/img/partenaire/nexcom-business-logo.png",
+        "productSellerImg":"./assets/img/partenaire/nexcom-business-logo.png",
         "productSeller": "NEXCOM",
         "modele": [{
           "modeleName": "TPPC 2210",
@@ -134,7 +134,7 @@
         "productName": "Light Industrial Panel PC",
         "productImg": "./assets/img/produit/panel-pc/light-industrial-panel-pc.png",
         "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=3&cat23=5_26",
-        "productSellerImg":"../assets/img/partenaire/iei-business-logo.png",
+        "productSellerImg":"./assets/img/partenaire/iei-business-logo.png",
         "productSeller": "IEI",
         "modele": [{
             "modeleName": "",
@@ -149,7 +149,7 @@
         "productName": "RISC-Base Panel PC",
         "productImg": "./assets/img/produit/panel-pc/RISC-Base.png",
         "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=3&cat23=5_27",
-        "productSellerImg":"../assets/img/partenaire/iei-business-logo.png",
+        "productSellerImg":"./assets/img/partenaire/iei-business-logo.png",
         "productSeller": "IEI",
         "modele": [{
             "modeleName": "",
@@ -164,7 +164,7 @@
         "productName": "Medical Panel PC",
         "productImg": "./assets/img/produit/panel-pc/medical-panel-pc.png",
         "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=3&cat23=5_28",
-        "productSellerImg":"../assets/img/partenaire/iei-business-logo.png",
+        "productSellerImg":"./assets/img/partenaire/iei-business-logo.png",
         "productSeller": "IEI",
         "modele": [{
             "modeleName": "",
@@ -179,7 +179,7 @@
         "productName": "Industrial Touch Monitor",
         "productImg": "./assets/img/produit/panel-pc/industrial-touch-monitor.png",
         "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=3&cat23=5_29",
-        "productSellerImg":"../assets/img/partenaire/iei-business-logo.png",
+        "productSellerImg":"./assets/img/partenaire/iei-business-logo.png",
         "productSeller": "IEI",
         "modele": [{
             "modeleName": "",
@@ -194,7 +194,7 @@
         "productName": "Heavy Industrial Panel PC",
         "productImg": "./assets/img/produit/panel-pc/heavy-industrial-panel-pc.png",
         "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=3&cat23=5_25",
-        "productSellerImg":"../assets/img/partenaire/iei-business-logo.png",
+        "productSellerImg":"./assets/img/partenaire/iei-business-logo.png",
         "productSeller": "IEI",
         "modele": [{
             "modeleName": "",
@@ -209,7 +209,7 @@
         "productName": "Healthcare",
         "productImg": "./assets/img/produit/panel-pc/healthcare.jpg",
         "productUrl": "https://www.avalue.com.tw/Products/Panel-PC/Healthcare_17",
-        "productSellerImg":"../assets/img/partenaire/avalue-business-logo.png",
+        "productSellerImg":"./assets/img/partenaire/avalue-business-logo.png",
         "productSeller": "AVALUE",
         "modele": [{
             "modeleName": "",
@@ -224,7 +224,7 @@
         "productName": "Self-service",
         "productImg": "./assets/img/produit/panel-pc/self-service.jpg",
         "productUrl": "https://www.avalue.com.tw/Products/Panel-PC/Self-service_18",
-        "productSellerImg":"../assets/img/partenaire/avalue-business-logo.png",
+        "productSellerImg":"./assets/img/partenaire/avalue-business-logo.png",
         "productSeller": "AVALUE",
         "modele": [{
             "modeleName": "",
@@ -239,7 +239,7 @@
         "productName": "Rugged Panel PC",
         "productImg": "./assets/img/produit/panel-pc/rugged.jpg",
         "productUrl": "https://www.avalue.com.tw/Products/Panel-PC/Rugged-Panel-PC_19",
-        "productSellerImg":"../assets/img/partenaire/avalue-business-logo.png",
+        "productSellerImg":"./assets/img/partenaire/avalue-business-logo.png",
         "productSeller": "AVALUE",
         "modele": [{
             "modeleName": "",
@@ -254,7 +254,7 @@
         "productName": "Open Frame",
         "productImg": "./assets/img/produit/panel-pc/open-frame.png",
         "productUrl": "https://www.avalue.com.tw/Products/Panel-PC/Open-Frame_21",
-        "productSellerImg":"../assets/img/partenaire/avalue-business-logo.png",
+        "productSellerImg":"./assets/img/partenaire/avalue-business-logo.png",
         "productSeller": "AVALUE",
         "modele": [{
             "modeleName": "",
@@ -269,7 +269,7 @@
         "productName": "Multi touch panel computer",
         "productImg": "./assets/img/produit/panel-pc/multi-touch.png",
         "productUrl": "https://www.avalue.com.tw/Products/Panel-PC/Multi-touch-panel-computer_23",
-        "productSellerImg":"../assets/img/partenaire/avalue-business-logo.png",
+        "productSellerImg":"./assets/img/partenaire/avalue-business-logo.png",
         "productSeller": "AVALUE",
         "modele": [{
             "modeleName": "",
@@ -284,7 +284,7 @@
         "productName": "High Performance Panel Computer",
         "productImg": "./assets/img/produit/panel-pc/high-performance.jpg",
         "productUrl": "https://www.avalue.com.tw/Products/Panel-PC/High-Performance-Panel-Computer_24",
-        "productSellerImg":"../assets/img/partenaire/avalue-business-logo.png",
+        "productSellerImg":"./assets/img/partenaire/avalue-business-logo.png",
         "productSeller": "AVALUE",
         "modele": [{
             "modeleName": "",
@@ -305,24 +305,24 @@
     "categorieUrl": "pc-embarque",
     "categorieSeller": [{
       "sellerName": "sintrones",
-      "sellerUrl": "../assets/img/partenaire/sintrones.png",
+      "sellerUrl": "./assets/img/partenaire/sintrones.png",
       "sellerPage": "/sintrones"
     },
     {
       "sellerName": "mpl",
-      "sellerUrl": "../assets/img/partenaire/mpl.png",
+      "sellerUrl": "./assets/img/partenaire/mpl.png",
       "sellerPage": "/mpl"
     },
     {
       "sellerName": "iei",
-      "sellerUrl": "../assets/img/partenaire/iei.png",
+      "sellerUrl": "./assets/img/partenaire/iei.png",
       "sellerPage": "/iei"
     }],
     "categorieProduit": [{
         "productName": "Embedded Board",
         "productImg": "./assets/img/produit/pc-embarque/embedded-board.jpg",
         "productUrl": "http://www.nexcom.com/Products/multi-media-solutions/digital-signage-player",
-        "productSellerImg":"../../assets/img/partenaire/sintrones.png",
+        "productSellerImg":"./assets/img/partenaire/sintrones.png",
         "productSeller": "SINTRONES",
         "modele": [{
           "modeleName": "SMB-2600",
@@ -332,7 +332,7 @@
         "productName": "Fanless Box Computer",
         "productImg": "./assets/img/produit/pc-embarque/fanless-box-computer.jpg",
         "productUrl": "http://www.nexcom.com/Products/multi-media-solutions/digital-signage-player",
-        "productSellerImg":"../../assets/img/partenaire/sintrones.png",
+        "productSellerImg":"./assets/img/partenaire/sintrones.png",
         "productSeller": "SINTRONES",
         "modele": [{
           "modeleName": "ABOX-5000P",
@@ -342,7 +342,7 @@
         "productName": "In-vehicle Computer",
         "productImg": "./assets/img/produit/pc-embarque/in-vehicle-computer.jpg",
         "productUrl": "http://www.sintrones.com/in-vehicle-computer.html",
-        "productSellerImg":"../../assets/img/partenaire/sintrones.png",
+        "productSellerImg":"./assets/img/partenaire/sintrones.png",
         "productSeller": "SINTRONES",
         "modele": [{
           "modeleName": "",
@@ -352,7 +352,7 @@
         "productName": "CAN Bus Module",
         "productImg": "./assets/img/produit/pc-embarque/CAN-bus-module.jpg",
         "productUrl": "http://www.sintrones.com/can-bus-module.html",
-        "productSellerImg":"../../assets/img/partenaire/sintrones.png",
+        "productSellerImg":"./assets/img/partenaire/sintrones.png",
         "productSeller": "SINTRONES",
         "modele": [{
           "modeleName": "VDB-120",
@@ -365,7 +365,7 @@
         "productName": "GPS Module",
         "productImg": "./assets/img/produit/pc-embarque/GPS-module.jpg",
         "productUrl": "http://www.sintrones.com/gps-module.html",
-        "productSellerImg":"../../assets/img/partenaire/sintrones.png",
+        "productSellerImg":"./assets/img/partenaire/sintrones.png",
         "productSeller": "SINTRONES",
         "modele": [{
           "modeleName": "",
@@ -375,7 +375,7 @@
         "productName": "Video Capture Card",
         "productImg": "./assets/img/produit/pc-embarque/video-capture.jpg",
         "productUrl": "http://www.sintrones.com/video-capture-card.html",
-        "productSellerImg":"../../assets/img/partenaire/sintrones.png",
+        "productSellerImg":"./assets/img/partenaire/sintrones.png",
         "productSeller": "SINTRONES",
         "modele": [{
           "modeleName": "",
@@ -385,7 +385,7 @@
         "productName": "Rugged Industrial Computers",
         "productImg": "./assets/img/produit/pc-embarque/rugged-industrial-computer.jpg",
         "productUrl": "https://www.mpl.ch/t2400.html",
-        "productSellerImg":"../../assets/img/partenaire/mpl.png",
+        "productSellerImg":"./assets/img/partenaire/mpl.png",
         "productSeller": "MPL",
         "modele": [{
           "modeleName": "",
@@ -395,7 +395,7 @@
         "productName": "Compact Embedded Computer",
         "productImg": "./assets/img/produit/pc-embarque/compact-embedded-computer.jpg",
         "productUrl": "https://www.mpl.ch/t2601.html",
-        "productSellerImg":"../../assets/img/partenaire/mpl.png",
+        "productSellerImg":"./assets/img/partenaire/mpl.png",
         "productSeller": "MPL",
         "modele": [{
           "modeleName": "",
@@ -405,7 +405,7 @@
         "productName": "Rugged Embedded Server",
         "productImg": "./assets/img/produit/pc-embarque/rugged-embedded-server.jpg",
         "productUrl": "https://www.mpl.ch/t5010.html",
-        "productSellerImg":"../../assets/img/partenaire/mpl.png",
+        "productSellerImg":"./assets/img/partenaire/mpl.png",
         "productSeller": "MPL",
         "modele": [{
           "modeleName": "",
@@ -415,7 +415,7 @@
         "productName": "Din-rail",
         "productImg": "./assets/img/produit/pc-embarque/din-rail.png",
         "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=2&cat23=10_59",
-        "productSellerImg":"../assets/img/partenaire/iei-business-logo.png",
+        "productSellerImg":"./assets/img/partenaire/iei-business-logo.png",
         "productSeller": "IEI",
         "modele": [{
           "modeleName": "",
@@ -425,7 +425,7 @@
         "productName": "Rugged Embedded Computer",
         "productImg": "./assets/img/produit/pc-embarque/rugged-embedded-computer.png",
         "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=2&cat23=10_60",
-        "productSellerImg":"../assets/img/partenaire/iei-business-logo.png",
+        "productSellerImg":"./assets/img/partenaire/iei-business-logo.png",
         "productSeller": "IEI",
         "modele": [{
           "modeleName": "",
@@ -435,7 +435,7 @@
         "productName": "Compact Size Embedded System",
         "productImg": "/assets/img/produit/pc-embarque/compact-size-embedded-system.png",
         "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=2&cat23=11_61",
-        "productSellerImg":"../assets/img/partenaire/iei-business-logo.png",
+        "productSellerImg":"./assets/img/partenaire/iei-business-logo.png",
         "productSeller": "IEI",
         "modele": [{
           "modeleName": "ulBX-250-BW",
@@ -451,7 +451,7 @@
         "productName": "Digital Signage Embedded System",
         "productImg": "./assets/img/produit/pc-embarque/digital-signage-embedded-system.png",
         "productUrl": "http://www.nexcom.com/Products/multi-media-solutions/digital-signage-player",
-        "productSellerImg":"../assets/img/partenaire/iei-business-logo.png",
+        "productSellerImg":"./assets/img/partenaire/iei-business-logo.png",
         "productSeller": "IEI",
         "modele": [{
           "modeleName": "IDS-300-BW",
@@ -464,7 +464,7 @@
         "productName": "In-vehicle Computer",
         "productImg": "./assets/img/produit/pc-embarque/in-vehicule-computer.png",
         "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=2&cat23=13_56",
-        "productSellerImg":"../assets/img/partenaire/iei-business-logo.png",
+        "productSellerImg":"./assets/img/partenaire/iei-business-logo.png",
         "productSeller": "IEI",
         "modele": [{
           "modeleName": "",
@@ -474,7 +474,7 @@
         "productName": "Marine Computer",
         "productImg": "./assets/img/produit/pc-embarque/marine-computer.png",
         "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=2&cat23=13_57",
-        "productSellerImg":"../assets/img/partenaire/iei-business-logo.png",
+        "productSellerImg":"./assets/img/partenaire/iei-business-logo.png",
         "productSeller": "IEI",
         "modele": [{
           "modeleName": "SBOX-100-QM87",
@@ -492,14 +492,14 @@
     "categorieUrl": "moniteur-industriel",
     "categorieSeller": [{
       "sellerName": "cincoze",
-      "sellerUrl": "../assets/img/partenaire/cincoze.png",
+      "sellerUrl": "./assets/img/partenaire/cincoze.png",
       "sellerPage": "cincoze"
     }],
     "categorieProduit": [{
       "productName": "Industrial Touch Monitor",
       "productImg": "./assets/img/produit/moniteur-industriel/industrial-touch-monitor.jpg",
       "productUrl": "http://www.cincoze.com/goods_catalog.php?cid=29",
-      "productSellerImg":"../../assets/img/partenaire/cincoze.png",
+      "productSellerImg":"./assets/img/partenaire/cincoze.png",
       "productSeller": "CINCOZE",
       "modele": [{
         "modeleName": "",
@@ -514,24 +514,24 @@
     "categorieUrl": "solution-reseau",
     "categorieSeller": [{
       "sellerName": "oring",
-      "sellerUrl": "../assets/img/partenaire/oring.png",
+      "sellerUrl": "./assets/img/partenaire/oring.png",
       "sellerPage": "oring"
     },
     {
       "sellerName": "sunhillo",
-      "sellerUrl": "../assets/img/partenaire/sunhillo.png",
+      "sellerUrl": "./assets/img/partenaire/sunhillo.png",
       "sellerPage": "sunhillo"
     },
     {
       "sellerName": "mpl",
-      "sellerUrl": "../assets/img/partenaire/mpl.png",
+      "sellerUrl": "./assets/img/partenaire/mpl.png",
       "sellerPage": "mpl"
     }],
     "categorieProduit": [{
       "productName": "Industrial Ethernet Switch",
       "productImg": "./assets/img/produit/solution-reseau/industrial-ethernet-switch.png",
       "productUrl": "http://www.oringnet.com/en-global/products/category/1",
-      "productSellerImg":"../../assets/img/partenaire/oring.png",
+      "productSellerImg":"./assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
@@ -541,7 +541,7 @@
       "productName": "Desktop Ethernet Switch",
       "productImg": "./assets/img/produit/solution-reseau/desktop-ethernet-switch.png",
       "productUrl": "http://www.oringnet.com/en-global/products/category/110",
-      "productSellerImg":"../../assets/img/partenaire/oring.png",
+      "productSellerImg":"./assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
@@ -551,7 +551,7 @@
       "productName": "Card-Type Ethernet Switch",
       "productImg": "./assets/img/produit/solution-reseau/card-type-ethernet-switch.png",
       "productUrl": "http://www.oringnet.com/en-global/products/category/106",
-      "productSellerImg":"../../assets/img/partenaire/oring.png",
+      "productSellerImg":"./assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
@@ -561,7 +561,7 @@
       "productName": "Industrial Media Converter",
       "productImg": "./assets/img/produit/solution-reseau/industrial-media-converter.png",
       "productUrl": "http://www.oringnet.com/en-global/products/category/70",
-      "productSellerImg":"../../assets/img/partenaire/oring.png",
+      "productSellerImg":"./assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
@@ -571,7 +571,7 @@
       "productName": "Industrial Serial Products",
       "productImg": "./assets/img/produit/solution-reseau/industrial-serial-product.png",
       "productUrl": "http://www.oringnet.com/en-global/products/category/78",
-      "productSellerImg":"../../assets/img/partenaire/oring.png",
+      "productSellerImg":"./assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
@@ -581,7 +581,7 @@
       "productName": "Industrial Wireless Access Point",
       "productImg": "./assets/img/produit/solution-reseau/industrial-wireless-access-point.png",
       "productUrl": "http://www.oringnet.com/en-global/products/category/84",
-      "productSellerImg":"../../assets/img/partenaire/oring.png",
+      "productSellerImg":"./assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
@@ -591,7 +591,7 @@
       "productName": "Industrial VPN Router",
       "productImg": "./assets/img/produit/solution-reseau/industrial-vpn-router.png",
       "productUrl": "http://www.oringnet.com/en-global/products/category/88",
-      "productSellerImg":"../../assets/img/partenaire/oring.png",
+      "productSellerImg":"./assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
@@ -601,7 +601,7 @@
       "productName": "Industrial M2M Gateway",
       "productImg": "./assets/img/produit/solution-reseau/industrial-m2m-gateway.jpg",
       "productUrl": "http://www.oringnet.com/en-global/products/category/96",
-      "productSellerImg":"../../assets/img/partenaire/oring.png",
+      "productSellerImg":"./assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
@@ -611,7 +611,7 @@
       "productName": "Industrial Solution Railway",
       "productImg": "./assets/img/produit/solution-reseau/industrial-solution-railway.png",
       "productUrl": "http://www.oringnet.com/en-global/products/category/54",
-      "productSellerImg":"../../assets/img/partenaire/oring.png",
+      "productSellerImg":"./assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
@@ -621,7 +621,7 @@
       "productName": "Industrial Solution Oil and Gas",
       "productImg": "./assets/img/produit/solution-reseau/industrial-solution-oil-gas.png",
       "productUrl": "http://www.oringnet.com/en-global/products/category/117",
-      "productSellerImg":"../../assets/img/partenaire/oring.png",
+      "productSellerImg":"./assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
@@ -631,7 +631,7 @@
       "productName": "Industrial Solution Power Sub Station",
       "productImg": "./assets/img/produit/solution-reseau/industrial-solution-power-sub-station.jpg",
       "productUrl": "http://www.oringnet.com/en-global/products/category/52",
-      "productSellerImg":"../../assets/img/partenaire/oring.png",
+      "productSellerImg":"./assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
@@ -641,7 +641,7 @@
       "productName": "Industrial Solution - PoE",
       "productImg": "./assets/img/produit/solution-reseau/industrial-solution-poe.png",
       "productUrl": "http://www.oringnet.com/en-global/products/category/58",
-      "productSellerImg":"../../assets/img/partenaire/oring.png",
+      "productSellerImg":"./assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
@@ -651,7 +651,7 @@
       "productName": "Management Software & Accessoiries",
       "productImg": "./assets/img/produit/solution-reseau/management-software-accessories.jpg",
       "productUrl": "http://www.oringnet.com/en-global/products/category/98",
-      "productSellerImg":"../../assets/img/partenaire/oring.png",
+      "productSellerImg":"./assets/img/partenaire/oring.png",
       "productSeller": "ORING",
       "modele": [{
         "modeleName": "",
@@ -661,7 +661,7 @@
       "productName": "RICI 5000",
       "productImg": "./assets/img/produit/solution-reseau/rici-5000.png",
       "productUrl": "https://www.sunhillo.com/rici-5000.html",
-      "productSellerImg":"../../assets/img/partenaire/sunhillo.png",
+      "productSellerImg":"./assets/img/partenaire/sunhillo.png",
       "productSeller": "SUNHILLO",
       "modele": [{
         "modeleName": "",
@@ -671,7 +671,7 @@
       "productName": "RICI 5000 Gateway",
       "productImg": "./assets/img/produit/solution-reseau/rici-5000-gateway.png",
       "productUrl": "https://www.sunhillo.com/rici-5000-gateway.html",
-      "productSellerImg":"../../assets/img/partenaire/sunhillo.png",
+      "productSellerImg":"./assets/img/partenaire/sunhillo.png",
       "productSeller": "SUNHILLO",
       "modele": [{
         "modeleName": "",
@@ -681,7 +681,7 @@
       "productName": "MPS WAN Software",
       "productImg": "./assets/img/produit/solution-reseau/mps-wan-software.gif",
       "productUrl": "https://www.sunhillo.com/wan-software.html",
-      "productSellerImg":"../../assets/img/partenaire/sunhillo.png",
+      "productSellerImg":"./assets/img/partenaire/sunhillo.png",
       "productSeller": "SUNHILLO",
       "modele": [{
         "modeleName": "",
@@ -691,7 +691,7 @@
       "productName": "PCI334A",
       "productImg": "./assets/img/produit/solution-reseau/pci-334-a.jpg",
       "productUrl": "https://www.sunhillo.com/pci334a.html",
-      "productSellerImg":"../../assets/img/partenaire/sunhillo.png",
+      "productSellerImg":"./assets/img/partenaire/sunhillo.png",
       "productSeller": "SUNHILLO",
       "modele": [{
         "modeleName": "",
@@ -701,7 +701,7 @@
       "productName": "PCE335",
       "productImg": "./assets/img/produit/solution-reseau/pce-335.jpg",
       "productUrl": "https://www.sunhillo.com/pce335.html",
-      "productSellerImg":"../../assets/img/partenaire/sunhillo.png",
+      "productSellerImg":"./assets/img/partenaire/sunhillo.png",
       "productSeller": "SUNHILLO",
       "modele": [{
         "modeleName": "",
@@ -711,7 +711,7 @@
       "productName": "Ventnor Multi-Protocol Data Distribution Server",
       "productImg": "./assets/img/produit/solution-reseau/ventnor.jpg",
       "productUrl": "https://www.sunhillo.com/ventnor.html",
-      "productSellerImg":"../../assets/img/partenaire/sunhillo.png",
+      "productSellerImg":"./assets/img/partenaire/sunhillo.png",
       "productSeller": "SUNHILLO",
       "modele": [{
         "modeleName": "",
@@ -721,7 +721,7 @@
       "productName": "Industrial Networks",
       "productImg": "./assets/img/produit/solution-reseau/industrial-network.jpg",
       "productUrl": "https://www.mpl.ch/t2500.html",
-      "productSellerImg":"../../assets/img/partenaire/mpl.png",
+      "productSellerImg":"./assets/img/partenaire/mpl.png",
       "productSeller": "MPL",
       "modele": [{
         "modeleName": "",
@@ -731,7 +731,7 @@
       "productName": "Fanless Panel Computers",
       "productImg": "./assets/img/produit/solution-reseau/fanless-panel-computers.jpg",
       "productUrl": "https://www.mpl.ch/t2914.html",
-      "productSellerImg":"../../assets/img/partenaire/mpl.png",
+      "productSellerImg":"./assets/img/partenaire/mpl.png",
       "productSeller": "MPL",
       "modele": [{
         "modeleName": "",
@@ -741,7 +741,7 @@
       "productName": "Open Frame CPU Boards",
       "productImg": "./assets/img/produit/solution-reseau/open-frame-cpu-boards.jpg",
       "productUrl": "https://www.mpl.ch/t2700.html",
-      "productSellerImg":"../../assets/img/partenaire/mpl.png",
+      "productSellerImg":"./assets/img/partenaire/mpl.png",
       "productSeller": "MPL",
       "modele": [{
         "modeleName": "",
@@ -758,19 +758,19 @@
     "categorieUrl": "carte-mere-industrielle",
     "categorieSeller": [{
       "sellerName": "iei",
-      "sellerUrl": "../assets/img/partenaire/iei.png",
+      "sellerUrl": "./assets/img/partenaire/iei.png",
       "sellerPage": "iei"
     },
     {
       "sellerName": "congatec",
-      "sellerUrl": "../assets/img/partenaire/congatec.png",
+      "sellerUrl": "./assets/img/partenaire/congatec.png",
       "sellerPage": "sunhillo"
     }],
     "categorieProduit": [{
       "productName": "Industrial Motherboard",
       "productImg": "./assets/img/produit/carte-mere-industrielle/industrial-motherboard.png",
       "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=1&cat23=1_4",
-      "productSellerImg":"../../assets/img/partenaire/iei.png",
+      "productSellerImg":"./assets/img/partenaire/iei.png",
       "productSeller": "IEI",
       "modele": [{
         "modeleName": "",
@@ -781,7 +781,7 @@
       "productName": "Embedded Board",
       "productImg": "./assets/img/produit/carte-mere-industrielle/embedded-board.png",
       "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=1&cat23=1_5",
-      "productSellerImg":"../../assets/img/partenaire/iei.png",
+      "productSellerImg":"./assets/img/partenaire/iei.png",
       "productSeller": "IEI",
       "modele": [{
         "modeleName": "",
@@ -792,7 +792,7 @@
       "productName": "Half Size Single Board Computer",
       "productImg": "./assets/img/produit/carte-mere-industrielle/half-size-single-board-computer.png",
       "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=1&cat23=1_2",
-      "productSellerImg":"../../assets/img/partenaire/iei.png",
+      "productSellerImg":"./assets/img/partenaire/iei.png",
       "productSeller": "IEI",
       "modele": [{
         "modeleName": "",
@@ -803,7 +803,7 @@
       "productName": "Backplane",
       "productImg": "./assets/img/produit/carte-mere-industrielle/backplane.png",
       "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=1&cat23=1_3",
-      "productSellerImg":"../../assets/img/partenaire/iei.png",
+      "productSellerImg":"./assets/img/partenaire/iei.png",
       "productSeller": "IEI",
       "modele": [{
         "modeleName": "",
@@ -814,7 +814,7 @@
       "productName": "Full Size Single Board Computer",
       "productImg": "./assets/img/produit/carte-mere-industrielle/full-size-single-board-computer.png",
       "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=1&cat23=1_1",
-      "productSellerImg":"../../assets/img/partenaire/iei.png",
+      "productSellerImg":"./assets/img/partenaire/iei.png",
       "productSeller": "IEI",
       "modele": [{
         "modeleName": "",
@@ -825,7 +825,7 @@
     "productName": "ETX / COM EXPRESS / Q7",
     "productImg": "./assets/img/produit/carte-mere-industrielle/etx-com-express-q7.png",
     "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=1&cat23=1_6",
-    "productSellerImg":"../../assets/img/partenaire/iei.png",
+    "productSellerImg":"./assets/img/partenaire/iei.png",
     "productSeller": "IEI",
     "modele": [{
       "modeleName": "",
@@ -836,7 +836,7 @@
   "productName": "LCD Converter Board",
   "productImg": "./assets/img/produit/carte-mere-industrielle/lcd-converter-board.png",
   "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=1&cat23=4_10",
-  "productSellerImg":"../../assets/img/partenaire/iei.png",
+  "productSellerImg":"./assets/img/partenaire/iei.png",
   "productSeller": "IEI",
   "modele": [{
     "modeleName": "",
@@ -847,7 +847,7 @@
   "productName": "PCI/PCIe Expansion Card",
   "productImg": "./assets/img/produit/carte-mere-industrielle/pci-pcie-expansion-card.png",
   "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=1&cat23=4_11",
-  "productSellerImg":"../../assets/img/partenaire/iei.png",
+  "productSellerImg":"./assets/img/partenaire/iei.png",
   "productSeller": "IEI",
   "modele": [{
     "modeleName": "",
@@ -858,7 +858,7 @@
   "productName": "Wireless Module",
   "productImg": "./assets/img/produit/carte-mere-industrielle/wireless-module.png",
   "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=1&cat23=4_15",
-  "productSellerImg":"../../assets/img/partenaire/iei.png",
+  "productSellerImg":"./assets/img/partenaire/iei.png",
   "productSeller": "IEI",
   "modele": [{
     "modeleName": "",
@@ -869,7 +869,7 @@
   "productName": "Mini-PCIe Module",
   "productImg": "./assets/img/produit/carte-mere-industrielle/mini-pcie-module.png",
   "productUrl": "https://www.ieiworld.com/en/product/items_by_cat.php?CA=1&cat23=4_16",
-  "productSellerImg":"../../assets/img/partenaire/iei.png",
+  "productSellerImg":"./assets/img/partenaire/iei.png",
   "productSeller": "IEI",
   "modele": [{
     "modeleName": "",
@@ -880,7 +880,7 @@
   "productName": "SMARC 2.0",
   "productImg": "./assets/img/produit/carte-mere-industrielle/smarc2.0.png",
   "productUrl": "http://www.congatec.com/en/technologies/smarc.html",
-  "productSellerImg":"../../assets/img/partenaire/congatec2.png",
+  "productSellerImg":"./assets/img/partenaire/congatec2.png",
   "productSeller": "CONGATEC",
   "modele": [{
     "modeleName": "",
@@ -891,7 +891,7 @@
   "productName": "Qseven",
   "productImg": "./assets/img/produit/carte-mere-industrielle/qseven.jpg",
   "productUrl": "http://www.congatec.com/en/technologies/qseven.html",
-  "productSellerImg":"../../assets/img/partenaire/congatec2.png",
+  "productSellerImg":"./assets/img/partenaire/congatec2.png",
   "productSeller": "CONGATEC",
   "modele": [{
     "modeleName": "",
@@ -901,7 +901,7 @@
   "productName": "COM Express Type 2",
   "productImg": "./assets/img/produit/carte-mere-industrielle/com-express-type-2.png",
   "productUrl": "http://www.congatec.com/en/products/com-express.html",
-  "productSellerImg":"../../assets/img/partenaire/congatec2.png",
+  "productSellerImg":"./assets/img/partenaire/congatec2.png",
   "productSeller": "CONGATEC",
   "modele": [{
     "modeleName": "",
@@ -911,7 +911,7 @@
   "productName": "COM Express Type 6",
   "productImg": "./assets/img/produit/carte-mere-industrielle/com-express-type-6.jpg",
   "productUrl": "http://www.congatec.com/en/products/com-express-type6.html",
-  "productSellerImg":"../../assets/img/partenaire/congatec2.png",
+  "productSellerImg":"./assets/img/partenaire/congatec2.png",
   "productSeller": "CONGATEC",
   "modele": [{
     "modeleName": "",
@@ -921,7 +921,7 @@
   "productName": "COM Express Type 7",
   "productImg": "./assets/img/produit/carte-mere-industrielle/com-express-type-7.png",
   "productUrl": "http://www.congatec.com/en/products/com-express-type-7.html",
-  "productSellerImg":"../../assets/img/partenaire/congatec2.png",
+  "productSellerImg":"./assets/img/partenaire/congatec2.png",
   "productSeller": "CONGATEC",
   "modele": [{
     "modeleName": "",
@@ -931,7 +931,7 @@
   "productName": "COM Express Type 10",
   "productImg": "./assets/img/produit/carte-mere-industrielle/com-express-type-10.png",
   "productUrl": "http://www.congatec.com/en/products/com-express-type10.html",
-  "productSellerImg":"../../assets/img/partenaire/congatec2.png",
+  "productSellerImg":"./assets/img/partenaire/congatec2.png",
   "productSeller": "CONGATEC",
   "modele": [{
     "modeleName": "",
@@ -941,7 +941,7 @@
   "productName": "XTX",
   "productImg": "./assets/img/produit/carte-mere-industrielle/xtx.png",
   "productUrl": "http://www.congatec.com/en/products/xtx.html",
-  "productSellerImg":"../../assets/img/partenaire/congatec2.png",
+  "productSellerImg":"./assets/img/partenaire/congatec2.png",
   "productSeller": "CONGATEC",
   "modele": [{
     "modeleName": "",
@@ -951,7 +951,7 @@
   "productName": "ETX",
   "productImg": "./assets/img/produit/carte-mere-industrielle/etx.png",
   "productUrl": "http://www.congatec.com/en/products/etx.html",
-  "productSellerImg":"../../assets/img/partenaire/congatec2.png",
+  "productSellerImg":"./assets/img/partenaire/congatec2.png",
   "productSeller": "CONGATEC",
   "modele": [{
     "modeleName": "",
@@ -961,7 +961,7 @@
   "productName": "Mini ITX",
   "productImg": "./assets/img/produit/carte-mere-industrielle/mini-itx.png",
   "productUrl": "http://www.congatec.com/en/products/mini-itx-single-board-computer.html",
-  "productSellerImg":"../../assets/img/partenaire/congatec2.png",
+  "productSellerImg":"./assets/img/partenaire/congatec2.png",
   "productSeller": "CONGATEC",
   "modele": [{
     "modeleName": "",
@@ -971,7 +971,7 @@
   "productName": "Pico ITX",
   "productImg": "./assets/img/produit/carte-mere-industrielle/pico-itx.png",
   "productUrl": "http://www.congatec.com/en/products/pico-itx.html",
-  "productSellerImg":"../../assets/img/partenaire/congatec2.png",
+  "productSellerImg":"./assets/img/partenaire/congatec2.png",
   "productSeller": "CONGATEC",
   "modele": [{
     "modeleName": "",
@@ -981,7 +981,7 @@
   "productName": "Accessories",
   "productImg": "./assets/img/produit/carte-mere-industrielle/accessories2.jpg",
   "productUrl": "http://www.congatec.com/en/products/accessories.html",
-  "productSellerImg":"../../assets/img/partenaire/congatec2.png",
+  "productSellerImg":"./assets/img/partenaire/congatec2.png",
   "productSeller": "CONGATEC",
   "modele": [{
     "modeleName": "",
@@ -997,14 +997,14 @@
     
     "categorieSeller": [{
       "sellerName": "innodisk",
-      "sellerUrl": "../assets/img/partenaire/innodisk.png",
+      "sellerUrl": "./assets/img/partenaire/innodisk.png",
       "sellerPage": "innodisk"
     }],
     "categorieProduit": [{
       "productName": "SATADOM",
       "productImg": "./assets/img/produit/memoire-flash/satadom.png",
       "productUrl": "https://www.innodisk.com/en/products/flash-storage/satadom",
-      "productSellerImg":"../../assets/img/partenaire/innodisk.png",
+      "productSellerImg":"./assets/img/partenaire/innodisk.png",
       "productSeller": "INNODISK",
       "modele": [{
         "modeleName": "",
@@ -1015,7 +1015,7 @@
       "productName": "SATA Slim",
       "productImg": "./assets/img/produit/memoire-flash/sata-slim.png",
       "productUrl": "https://www.innodisk.com/en/products/flash-storage/sata-slim",
-      "productSellerImg":"../../assets/img/partenaire/innodisk.png",
+      "productSellerImg":"./assets/img/partenaire/innodisk.png",
       "productSeller": "INNODISK",
       "modele": [{
         "modeleName": "",
@@ -1026,7 +1026,7 @@
       "productName": "CFast",
       "productImg": "./assets/img/produit/memoire-flash/cfast.png",
       "productUrl": "https://www.innodisk.com/en/products/flash-storage/cfast",
-      "productSellerImg":"../../assets/img/partenaire/innodisk.png",
+      "productSellerImg":"./assets/img/partenaire/innodisk.png",
       "productSeller": "INNODISK",
       "modele": [{
         "modeleName": "",
@@ -1036,7 +1036,7 @@
       "productName": "mSATA",
       "productImg": "./assets/img/produit/memoire-flash/msata.png",
       "productUrl": "https://www.innodisk.com/en/products/flash-storage/msata",
-      "productSellerImg":"../../assets/img/partenaire/innodisk.png",
+      "productSellerImg":"./assets/img/partenaire/innodisk.png",
       "productSeller": "INNODISK",
       "modele": [{
         "modeleName": "",
@@ -1046,7 +1046,7 @@
       "productName": "Mini PCIe DOm",
       "productImg": "./assets/img/produit/memoire-flash/mini-pcie-dom.png",
       "productUrl": "https://www.innodisk.com/en/products/flash-storage/mini-pciedom",
-      "productSellerImg":"../../assets/img/partenaire/innodisk.png",
+      "productSellerImg":"./assets/img/partenaire/innodisk.png",
       "productSeller": "INNODISK",
       "modele": [{
         "modeleName": "",
@@ -1056,7 +1056,7 @@
       "productName": "CompactFlash Card",
       "productImg": "./assets/img/produit/memoire-flash/compact-flash-card.png",
       "productUrl": "https://www.innodisk.com/en/products/flash-storage/cf-card",
-      "productSellerImg":"../../assets/img/partenaire/innodisk.png",
+      "productSellerImg":"./assets/img/partenaire/innodisk.png",
       "productSeller": "INNODISK",
       "modele": [{
         "modeleName": "",
@@ -1066,7 +1066,7 @@
       "productName": "SD Card & MicroSD Card",
       "productImg": "./assets/img/produit/memoire-flash/sd-card-micro-card.png",
       "productUrl": "https://www.innodisk.com/en/products/flash-storage/sd-card-and-microsd-card",
-      "productSellerImg":"../../assets/img/partenaire/innodisk.png",
+      "productSellerImg":"./assets/img/partenaire/innodisk.png",
       "productSeller": "INNODISK",
       "modele": [{
         "modeleName": "",
@@ -1076,7 +1076,7 @@
       "productName": "Embedded Disk Card",
       "productImg": "./assets/img/produit/memoire-flash/edc.png",
       "productUrl": "https://www.innodisk.com/en/products/flash-storage/embedded-disk-card_edc",
-      "productSellerImg":"../../assets/img/partenaire/innodisk.png",
+      "productSellerImg":"./assets/img/partenaire/innodisk.png",
       "productSeller": "INNODISK",
       "modele": [{
         "modeleName": "",
@@ -1086,7 +1086,7 @@
       "productName": "SSD 1.8\"",
       "productImg": "./assets/img/produit/memoire-flash/ssd-1.8.png",
       "productUrl": "https://www.innodisk.com/en/products/flash-storage/ssd",
-      "productSellerImg":"../../assets/img/partenaire/innodisk.png",
+      "productSellerImg":"./assets/img/partenaire/innodisk.png",
       "productSeller": "INNODISK",
       "modele": [{
         "modeleName": "",
@@ -1096,7 +1096,7 @@
       "productName": "SSD 2.5\"",
       "productImg": "./assets/img/produit/memoire-flash/ssd-2.5.png",
       "productUrl": "https://www.innodisk.com/en/products/flash-storage/ssd",
-      "productSellerImg":"../../assets/img/partenaire/innodisk.png",
+      "productSellerImg":"./assets/img/partenaire/innodisk.png",
       "productSeller": "innodisk",
       "modele": [{
         "modeleName": "",
@@ -1111,19 +1111,19 @@
     "categorieUrl": "carte-entree-sortie",
     "categorieSeller": [{
       "sellerName": "addi-data",
-      "sellerUrl": "../assets/img/partenaire/addidata.png",
+      "sellerUrl": "./assets/img/partenaire/addidata.png",
       "sellerPage": "/addidata"
     },
     {
       "sellerName": "adlink",
-      "sellerUrl": "../../assets/img/partenaire/adlink.png",
+      "sellerUrl": "./assets/img/partenaire/adlink.png",
       "sellerPage": "/adlink"
     }],
     "categorieProduit": [{
       "productName": "Cartes E/S",
       "productImg": "./assets/img/produit/carte-entree-sortie/carte-entree-sortie.png",
       "productUrl": "http://www.addi-data.fr/?portfolio=cartes-pc",
-      "productSellerImg":"../../assets/img/partenaire/addidata.png",
+      "productSellerImg":"./assets/img/partenaire/addidata.png",
       "productSeller": "ADDI-DATA",
       "modele": [{
         "modeleName": "",
@@ -1134,7 +1134,7 @@
       "productName": "Système Ethernet intelligents",
       "productImg": "./assets/img/produit/carte-entree-sortie/systeme-ethernet-intelligent.png",
       "productUrl": "http://www.addi-data.fr/?portfolio=systeme-ethernet-intelligents",
-      "productSellerImg":"../../assets/img/partenaire/addidata.png",
+      "productSellerImg":"./assets/img/partenaire/addidata.png",
       "productSeller": "ADDI-DATA",
       "modele": [{
         "modeleName": "",
@@ -1144,7 +1144,7 @@
       "productName": "Système temps réel",
       "productImg": "./assets/img/produit/carte-entree-sortie/systeme-temps-reel.jpg",
       "productUrl": "http://www.addi-data.fr/?portfolio=systemes-temps-reel",
-      "productSellerImg":"../../assets/img/partenaire/addidata.png",
+      "productSellerImg":"./assets/img/partenaire/addidata.png",
       "productSeller": "ADDI-DATA",
       "modele": [{
         "modeleName": "",
@@ -1154,7 +1154,7 @@
       "productName": "Enregistreur de données",
       "productImg": "./assets/img/produit/carte-entree-sortie/enregistreur-de-donnee.png",
       "productUrl": "http://www.addi-data.fr/?portfolio=enregistreurs-de-donnees",
-      "productSellerImg":"../../assets/img/partenaire/addidata.png",
+      "productSellerImg":"./assets/img/partenaire/addidata.png",
       "productSeller": "ADDI-DATA",
       "modele": [{
         "modeleName": "",
@@ -1165,7 +1165,7 @@
       "productName": "ADLINK",
       "productImg": "./assets/img/produit/carte-entree-sortie/board.jpg",
       "productUrl": "https://emb.adlinktech.com/en/index.aspx",
-      "productSellerImg":"../../assets/img/partenaire/adlink.png",
+      "productSellerImg":"./assets/img/partenaire/adlink.png",
       "productSeller": "ADLINK",
       "modele": [{
         "modeleName": "",
@@ -1180,19 +1180,19 @@
     "categorieUrl": "moniteur-ordinateur-tactile",
     "categorieSeller": [{
       "sellerName": "oteksys",
-      "sellerUrl": "../assets/img/partenaire/oteksys.jpg",
+      "sellerUrl": "./assets/img/partenaire/oteksys.jpg",
       "sellerPage": "oteksys"
     },
     {
       "sellerName": "elo",
-      "sellerUrl": "../../assets/img/partenaire/elo.png",
+      "sellerUrl": "./assets/img/partenaire/elo.png",
       "sellerPage": "elo"
     }],
     "categorieProduit": [{
       "productName": "M354",
       "productImg": "./assets/img/produit/moniteur-industriel/industrial-touch-monitor.jpg",
       "productUrl": "",
-      "productSellerImg":"../../assets/img/partenaire/oteksys.png",
+      "productSellerImg":"./assets/img/partenaire/oteksys.png",
       "productSeller": "OTEKSYS",
       "modele": [{
         "modeleName": "",
@@ -1202,7 +1202,7 @@
       "productName": "Standard-Aspect Ratio",
       "productImg": "./assets/img/produit/moniteur-ordinateur-tactile/standard-aspect-ration.png",
       "productUrl": "https://www.elotouch.com/touchscreen-monitors.html",
-      "productSellerImg":"../../assets/img/partenaire/elo.png",
+      "productSellerImg":"./assets/img/partenaire/elo.png",
       "productSeller": "ELO",
       "modele": [{
         "modeleName": "",
@@ -1212,7 +1212,7 @@
       "productName": "Wide-Aspect Ratio",
       "productImg": "./assets/img/produit/moniteur-ordinateur-tactile/wide-aspect-ration.png",
       "productUrl": "https://www.elotouch.com/touchscreen-monitors.html",
-      "productSellerImg":"../../assets/img/partenaire/elo.png",
+      "productSellerImg":"./assets/img/partenaire/elo.png",
       "productSeller": "ELO",
       "modele": [{
         "modeleName": "",
@@ -1222,7 +1222,7 @@
       "productName": "healthcare-grade",
       "productImg": "./assets/img/produit/moniteur-ordinateur-tactile/health-grade.png",
       "productUrl": "https://www.elotouch.com/touchscreen-monitors.html",
-      "productSellerImg":"../../assets/img/partenaire/elo.png",
+      "productSellerImg":"./assets/img/partenaire/elo.png",
       "productSeller": "ELO",
       "modele": [{
         "modeleName": "",
@@ -1232,7 +1232,7 @@
       "productName": "90-Series Standard-Aspect Ratio",
       "productImg": "./assets/img/produit/moniteur-ordinateur-tactile/90-Series Standard-Aspect Ratio.png",
       "productUrl": "https://www.elotouch.com/open-frame-touchscreens.html",
-      "productSellerImg":"../../assets/img/partenaire/elo.png",
+      "productSellerImg":"./assets/img/partenaire/elo.png",
       "productSeller": "ELO",
       "modele": [{
         "modeleName": "",
@@ -1242,7 +1242,7 @@
       "productName": "90-Series Wide-Aspect Ratio",
       "productImg": "./assets/img/produit/moniteur-ordinateur-tactile/90-Series Wide-Aspect Ratio.png",
       "productUrl": "https://www.elotouch.com/open-frame-touchscreens.html",
-      "productSellerImg":"../../assets/img/partenaire/elo.png",
+      "productSellerImg":"./assets/img/partenaire/elo.png",
       "productSeller": "ELO",
       "modele": [{
         "modeleName": "",
@@ -1252,7 +1252,7 @@
       "productName": "Large Format Wide-Aspect Ratio",
       "productImg": "./assets/img/produit/moniteur-ordinateur-tactile/Large Format Wide-Aspect Ratio.png",
       "productUrl": "https://www.elotouch.com/open-frame-touchscreens.html",
-      "productSellerImg":"../../assets/img/partenaire/elo.png",
+      "productSellerImg":"./assets/img/partenaire/elo.png",
       "productSeller": "ELO",
       "modele": [{
         "modeleName": "",
@@ -1267,23 +1267,23 @@
     "categorieUrl": "terminaux-peripherique-point-de-vente",
     "categorieSeller": [{
       "sellerName": "posiflex",
-      "sellerUrl": "../assets/img/partenaire/posiflex.png",
+      "sellerUrl": "./assets/img/partenaire/posiflex.png",
       "sellerPage": "posiflex"
     },
     {
       "sellerName": "sii",
-      "sellerUrl": "../../assets/img/partenaire/sii.png",
+      "sellerUrl": "./assets/img/partenaire/sii.png",
       "sellerPage": "sii"
     },{
       "sellerName": "epson",
-      "sellerUrl": "../../assets/img/partenaire/epson.png",
+      "sellerUrl": "./assets/img/partenaire/epson.png",
       "sellerPage": "epson"
     }],
     "categorieProduit": [{
       "productName": "Mobile POS",
       "productImg": "./assets/img/produit/teminaux-point-de-vente/mobile-pos.jpg",
       "productUrl": "http://www.posiflex.com/en-global/product/index/mobile-pos",
-      "productSellerImg":"../../assets/img/partenaire/posiflex.png",
+      "productSellerImg":"./assets/img/partenaire/posiflex.png",
       "productSeller": "POSIFLEX",
       "modele": [{
         "modeleName": "",
@@ -1293,7 +1293,7 @@
       "productName": "POS Terminal",
       "productImg": "./assets/img/produit/teminaux-point-de-vente/pos-terminal.jpg",
       "productUrl": "http://www.posiflex.com/en-global/product/index/pos-terminal",
-      "productSellerImg":"../../assets/img/partenaire/posiflex.png",
+      "productSellerImg":"./assets/img/partenaire/posiflex.png",
       "productSeller": "POSIFLEX",
       "modele": [{
         "modeleName": "",
@@ -1303,7 +1303,7 @@
       "productName": "All In One POS",
       "productImg": "./assets/img/produit/teminaux-point-de-vente/all-in-one-pos.jpg",
       "productUrl": "http://www.posiflex.com/en-global/product/index/all-in-one",
-      "productSellerImg":"../../assets/img/partenaire/posiflex.png",
+      "productSellerImg":"./assets/img/partenaire/posiflex.png",
       "productSeller": "POSIFLEX",
       "modele": [{
         "modeleName": "",
@@ -1314,7 +1314,7 @@
       "productName": "POS Box",
       "productImg": "./assets/img/produit/teminaux-point-de-vente/pos-box.jpg",
       "productUrl": "http://www.posiflex.com/en-global/product/index/POS-Box",
-      "productSellerImg":"../../assets/img/partenaire/posiflex.png",
+      "productSellerImg":"./assets/img/partenaire/posiflex.png",
       "productSeller": "POSIFLEX",
       "modele": [{
         "modeleName": "",
@@ -1324,7 +1324,7 @@
       "productName": "POS Monitor",
       "productImg": "./assets/img/produit/teminaux-point-de-vente/pos-monitor.jpg",
       "productUrl": "http://www.posiflex.com/en-global/product/index/POS-Monitor",
-      "productSellerImg":"../../assets/img/partenaire/posiflex.png",
+      "productSellerImg":"./assets/img/partenaire/posiflex.png",
       "productSeller": "POSIFLEX",
       "modele": [{
         "modeleName": "",
@@ -1334,7 +1334,7 @@
       "productName": "Line Display",
       "productImg": "./assets/img/produit/teminaux-point-de-vente/line-display.jpg",
       "productUrl": "http://www.posiflex.com/en-global/product/index/Line-Display",
-      "productSellerImg":"../../assets/img/partenaire/posiflex.png",
+      "productSellerImg":"./assets/img/partenaire/posiflex.png",
       "productSeller": "POSIFLEX",
       "modele": [{
         "modeleName": "",
@@ -1344,7 +1344,7 @@
       "productName": "Cash Drawer",
       "productImg": "./assets/img/produit/teminaux-point-de-vente/cash-drawer.jpg",
       "productUrl": "http://www.posiflex.com/en-global/product/index/Cash-Drawerx",
-      "productSellerImg":"../../assets/img/partenaire/posiflex.png",
+      "productSellerImg":"./assets/img/partenaire/posiflex.png",
       "productSeller": "POSIFLEX",
       "modele": [{
         "modeleName": "",
@@ -1354,7 +1354,7 @@
       "productName": "RP-D Series",
       "productImg": "./assets/img/produit/teminaux-point-de-vente/rp-d.jpg",
       "productUrl": "http://www.seiko-instruments.de/products/rp-d-series/",
-      "productSellerImg":"../../assets/img/partenaire/sii.png",
+      "productSellerImg":"./assets/img/partenaire/sii.png",
       "productSeller": "SII",
       "modele": [{
         "modeleName": "",
@@ -1364,7 +1364,7 @@
       "productName": "MSR",
       "productImg": "./assets/img/produit/teminaux-point-de-vente/msr.jpg",
       "productUrl": "http://www.posiflex.com/en-global/product/index/MSR",
-      "productSellerImg":"../../assets/img/partenaire/posiflex.png",
+      "productSellerImg":"./assets/img/partenaire/posiflex.png",
       "productSeller": "POSIFLEX",
       "modele": [{
         "modeleName": "",
@@ -1374,7 +1374,7 @@
       "productName": "RP-E Series",
       "productImg": "./assets/img/produit/teminaux-point-de-vente/rp-e.jpg",
       "productUrl": "http://www.seiko-instruments.de/products/rp-e-series/",
-      "productSellerImg":"../../assets/img/partenaire/sii.png",
+      "productSellerImg":"./assets/img/partenaire/sii.png",
       "productSeller": "SII",
       "modele": [{
         "modeleName": "",
@@ -1389,18 +1389,18 @@
     "categorieUrl": "imprimante",
     "categorieSeller": [{
       "sellerName": "zebra",
-      "sellerUrl": "../assets/img/partenaire/zebra.png",
+      "sellerUrl": "./assets/img/partenaire/zebra.png",
       "sellerPage": "zebra"
     },{
       "sellerName": "sii",
-      "sellerUrl": "../assets/img/partenaire/sii.png",
+      "sellerUrl": "./assets/img/partenaire/sii.png",
       "sellerPage": "sii"
     }],
     "categorieProduit": [{
       "productName": "KR203 KIOSK RECEIPT PRINTER",
       "productImg": "./assets/img/produit/imprimante/KR203-KIOSK-RECEIPT-PRINTER.jpg",
       "productUrl": "https://www.zebra.com/us/en/products/printers/kiosk/kr200-series.html",
-      "productSellerImg":"../../assets/img/partenaire/zebra.png",
+      "productSellerImg":"./assets/img/partenaire/zebra.png",
       "productSeller": "ZEBRA",
       "modele": [{
         "modeleName": "",
@@ -1410,7 +1410,7 @@
       "productName": "KR403 KIOSK RECEIPT PRINTER",
       "productImg": "./assets/img/produit/imprimante/KR403-KIOSK-RECEIPT-PRINTER.jpg",
       "productUrl": "https://www.zebra.com/us/en/products/printers/kiosk/kr400-series.html",
-      "productSellerImg":"../../assets/img/partenaire/zebra.png",
+      "productSellerImg":"./assets/img/partenaire/zebra.png",
       "productSeller": "ZEBRA",
       "modele": [{
         "modeleName": "",
@@ -1420,7 +1420,7 @@
       "productName": "MP-B20",
       "productImg": "./assets/img/produit/imprimante/MP-B20.png",
       "productUrl": "http://www.seiko-instruments.de/products/mp-b20-new",
-      "productSellerImg":"../../assets/img/partenaire/sii.png",
+      "productSellerImg":"./assets/img/partenaire/sii.png",
       "productSeller": "SII",
       "modele": [{
         "modeleName": "",
@@ -1430,7 +1430,7 @@
       "productName": "MP-A40",
       "productImg": "./assets/img/produit/imprimante/MP-A40.jpg",
       "productUrl": "http://www.seiko-instruments.de/products/mp-a40/",
-      "productSellerImg":"../../assets/img/partenaire/sii.png",
+      "productSellerImg":"./assets/img/partenaire/sii.png",
       "productSeller": "SII",
       "modele": [{
         "modeleName": "",
@@ -1440,7 +1440,7 @@
       "productName": "DPU-S245",
       "productImg": "./assets/img/produit/imprimante/DPU-S245.jpg",
       "productUrl": "http://www.seiko-instruments.de/products/dpu-s245/",
-      "productSellerImg":"../../assets/img/partenaire/sii.png",
+      "productSellerImg":"./assets/img/partenaire/sii.png",
       "productSeller": "SII",
       "modele": [{
         "modeleName": "",
@@ -1450,7 +1450,7 @@
       "productName": "DPU-S445",
       "productImg": "./assets/img/produit/imprimante/DPU-S445.jpg",
       "productUrl": "http://www.seiko-instruments.de/products/dpu-s445/",
-      "productSellerImg":"../../assets/img/partenaire/sii.png",
+      "productSellerImg":"./assets/img/partenaire/sii.png",
       "productSeller": "SII",
       "modele": [{
         "modeleName": "",

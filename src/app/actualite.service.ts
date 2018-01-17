@@ -15,7 +15,7 @@ import { AlphaListPipe } from './alpha-list.pipe';
 @Injectable()
 export class ActualiteService {
 
-  private _actualiteUrl = '../api/actualite.json';
+  private _actualiteUrl = './api/actualite.json';
 
   constructor( private _http: HttpClient) { }
 

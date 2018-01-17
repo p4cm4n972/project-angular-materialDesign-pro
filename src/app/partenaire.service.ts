@@ -10,7 +10,7 @@ import { IPartenaire } from './partenaire/mock-partenaire';
 
 @Injectable()
 export class PartenaireService {
-  private _partenaireUrl = '../api/partenaire-list.json';
+  private _partenaireUrl = './api/partenaire-list.json';
 
   constructor( private _http: HttpClient) { }
 

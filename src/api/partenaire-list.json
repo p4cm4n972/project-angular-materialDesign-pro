@@ -2,7 +2,7 @@
     "partenaireID": 1,
     "partenaireName": "avalue",
     "partenaireUrl": "http://www.avalue.com.tw",
-    "partImgUrl": "../assets/img/partenaire/avalue.png",
+    "partImgUrl": "./assets/img/partenaire/avalue.png",
     "partCat": [],
     "partPrd": [],
     "partDetail":"Panels PC industriels, médicaux et multimédia"
@@ -11,7 +11,7 @@
     "partenaireID": 2,
     "partenaireName": "cincoze",
     "partenaireUrl": "http://www.cincoze.com/",
-    "partImgUrl": "../../assets/img/partenaire/cincoze.png",
+    "partImgUrl": "./assets/img/partenaire/cincoze.png",
     "partCat": [],
     "partPrd": [],
     "partDetail":"Panel PC et Mini PC Industriels"
@@ -19,7 +19,7 @@
     "partenaireID": 13,
     "partenaireName": "congatec",
     "partenaireUrl": "http://www.congatec.com/fr.html",
-    "partImgUrl": "../../assets/img/partenaire/logo_congatec.png",
+    "partImgUrl": "./assets/img/partenaire/logo_congatec.png",
     "partCat": [],
     "partPrd": [],
     "partDetail":"Leader de modules informatiques industriels utilisant facteurs d’encombrement standard COM Express, Qseven et SMARC"
@@ -27,7 +27,7 @@
     "partenaireID": 3,
     "partenaireName": "elo",
     "partenaireUrl": "https://www.elotouch.com/",
-    "partImgUrl": "../../assets/img/partenaire/elo.png",
+    "partImgUrl": "./assets/img/partenaire/elo.png",
     "partCat": [],
     "partPrd": [],
     "partDetail":"Fabricant, leader mondial du moniteur tactile encastrable, desktop et du PC tactile"
@@ -35,7 +35,7 @@
     "partenaireID": 4,
     "partenaireName": "epson",
     "partenaireUrl": "https://epson.com/",
-    "partImgUrl": "../../assets/img/partenaire/epson.png",
+    "partImgUrl": "./assets/img/partenaire/epson.png",
     "partCat": [],
     "partPrd": [],
     "partDetail":"Imprimantes de tickets de caisse thermiques et matricielles, de factures et de chèques"
@@ -43,7 +43,7 @@
     "partenaireID": 6,
     "partenaireName": "iei",
     "partenaireUrl": "https://www.ieiworld.com/_index/en/",
-    "partImgUrl": "../../assets/img/partenaire/iei.png",
+    "partImgUrl": "./assets/img/partenaire/iei.png",
     "partCat": [],
     "partPrd": [],
     "partDetail":"Panel PC, PC industriels, Cartes mères Industrielles, Informatique Mobile …"
@@ -51,7 +51,7 @@
     "partenaireID": 7,
     "partenaireName": "innodisk",
     "partenaireUrl": "https://www.innodisk.com/",
-    "partImgUrl": "../../assets/img/partenaire/innodisk.png",
+    "partImgUrl": "./assets/img/partenaire/innodisk.png",
     "partCat": [],
     "partPrd": [],
     "partDetail":"Composants de stockage FLASH hautes performances et en températures étendues"
@@ -59,7 +59,7 @@
     "partenaireID": 8,
     "partenaireName": "mpl",
     "partenaireUrl": "https://www.mpl.ch/",
-    "partImgUrl": "../../assets/img/partenaire/mpl.png",
+    "partImgUrl": "./assets/img/partenaire/mpl.png",
     "partCat": [],
     "partPrd": [],
     "partDetail":"PC embarqués et microcontrôleurs destinés aux environnements sévères et à forte pérénnité"
@@ -67,7 +67,7 @@
     "partenaireID": 9,
     "partenaireName": "nexcom",
     "partenaireUrl": "http://www.nexcom.com/",
-    "partImgUrl": "../../assets/img/partenaire/nexcom.png",
+    "partImgUrl": "./assets/img/partenaire/nexcom.png",
     "partCat": [],
     "partPrd": [],
     "partDetail":"Mini PC Industriel"
@@ -76,7 +76,7 @@
     "partenaireName": "oring",
     "partDetail":"Serveurs, réseaux industriels, switchs embarqués (Normes Transports IRIS)",
     "partenaireUrl": "http://www.oringnet.com/",
-    "partImgUrl": "../../assets/img/partenaire/oring.png",
+    "partImgUrl": "./assets/img/partenaire/oring.png",
     "partCat": [],
     "partPrd": [
       {
@@ -1712,7 +1712,7 @@
     "partenaireID": 11,
     "partenaireName": "oteksys",
     "partenaireUrl": "",
-    "partImgUrl": "../../assets/img/partenaire/oteksys.png",
+    "partImgUrl": "./assets/img/partenaire/oteksys.jpg",
     "partCat": [],
     "partPrd": [],
     "partDetail":"Moniteurs de 7 à 12'' (modèles tactiles de 7'' à 17'')"
@@ -1720,7 +1720,7 @@
     "partenaireID": 12,
     "partenaireName": "posiflex",
     "partenaireUrl": "http://www.posiflex.com/en-global/Home/index",
-    "partImgUrl": "../../assets/img/partenaire/posiflex.png",
+    "partImgUrl": "./assets/img/partenaire/posiflex.png",
     "partCat": [],
     "partPrd": [],
     "partDetail":"Fabricant de Terminaux points de vente et de périphériques de caisse"
@@ -1728,7 +1728,7 @@
     "partenaireID": 14,
     "partenaireName": "sii",
     "partenaireUrl": "https://www.seikoinstruments.com/",
-    "partImgUrl": "../../assets/img/partenaire/sii.png",
+    "partImgUrl": "./assets/img/partenaire/sii.png",
     "partCat": [],
     "partPrd": [],
     "partDetail":"Imprimantes de tickets de caisse et imprimantes portables"
@@ -1736,7 +1736,7 @@
     "partenaireID": 15,
     "partenaireName": "sintrones",
     "partenaireUrl": "http://www.sintrones.com/",
-    "partImgUrl": "../../assets/img/partenaire/sintrones.png",
+    "partImgUrl": "./assets/img/partenaire/sintrones.png",
     "partCat": [],
     "partPrd": [],
     "partDetail":"PC et Ecrans embarqués pour applications en transport public et en véhicule"
@@ -1744,7 +1744,7 @@
     "partenaireID": 16,
     "partenaireName": "sunhillo",
     "partenaireUrl": "",
-    "partImgUrl": "../../assets/img/partenaire/sunhillo.png",
+    "partImgUrl": "./assets/img/partenaire/sunhillo.png",
     "partCat": [],
     "partPrd": [],
     "partDetail":"Réseaux industriels de communication, cartes de communication intelligentes et programmables"
@@ -1752,7 +1752,7 @@
     "partenaireID": 5,
     "partenaireName": "zebra",
     "partenaireUrl": "https://www.zebra.com/fr/fr.html",
-    "partImgUrl": "../../assets/img/partenaire/zebra.png",
+    "partImgUrl": "./assets/img/partenaire/zebra.png",
     "partCat": [],
     "partPrd": [],
     "partDetail":"Modules d'impression thermique de reçus et tickets pour bornes et kiosques, lecteurs de codes à barres 1D/2D, Lecteurs RFID"

@@ -17,7 +17,7 @@ import { AlphaListPipe } from './alpha-list.pipe';
 @Injectable()
 export class ProduitService {
 
-  private _produitUrl = '../api/data.json';
+  private _produitUrl = './api/data.json';
   constructor(private _http: HttpClient) { }
 
   getProduit(): Observable<IProduit[]> {
